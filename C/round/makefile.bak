@@ -1,0 +1,27 @@
+
+SRC=area.o \
+   	circle.o \
+   	volume.o
+CC=gcc
+CFLAGS=-Wall -O3 -I.
+AR= ar
+LDLAGS=-lm
+
+all : libround.so libround.a round
+libround.so : $(SRC)
+	$(CC) -fpic -shared  -o $@ $(SRC)
+libround.a : $(SRC)
+	$(AR) -r $@  $(SRC)
+
+round : $(SRC) main.o
+	$(CC)  $^ -o $@ $(LDLAGS)
+
+area.o : area.c
+circle.o : circle.c
+volume.o : volume.c
+main.o : main.c round.h
+
+.PHONY : clean
+clean :
+	rm -f $(SRC) main.o
+
