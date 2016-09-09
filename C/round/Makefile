@@ -5,7 +5,7 @@ OBJS = circle.o \
 CC = gcc
 AR = ar
 CFLAGS = -Wall -O3 -I.
-LDFLAGS = -lm     #自定义变量
+#LDFLAGS = -lm     #自定义变量
 
 all : round libround.so libround.a
 
