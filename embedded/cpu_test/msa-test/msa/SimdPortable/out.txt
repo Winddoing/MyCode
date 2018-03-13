@@ -1,0 +1,2282 @@
+[8499200] INFO: AbsDifferenceSumAutoTest is started :
+[8499200] INFO: Test Simd::Base::AbsDifferenceSum & SimdAbsDifferenceSum [1920, 1080].
+[8499200] INFO: Test Simd::Base::AbsDifferenceSum & SimdAbsDifferenceSum [1929, 1071].
+[8499200] INFO: Test Simd::Base::AbsDifferenceSum & SimdAbsDifferenceSum [1911, 1089].
+[8499200] INFO: Test Simd::Msa::AbsDifferenceSum & SimdAbsDifferenceSum [1920, 1080].
+[8499200] INFO: Test Simd::Msa::AbsDifferenceSum & SimdAbsDifferenceSum [1929, 1071].
+[8499200] INFO: Test Simd::Msa::AbsDifferenceSum & SimdAbsDifferenceSum [1911, 1089].
+[8499200] INFO: AbsDifferenceSumAutoTest is finished successfully.
+
+[8499200] INFO: AbsDifferenceSumMaskedAutoTest is started :
+[8499200] INFO: Test Simd::Base::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1920, 1080].
+[8499200] INFO: Test Simd::Base::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1929, 1071].
+[8499200] INFO: Test Simd::Base::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1911, 1089].
+[8499200] INFO: Test Simd::Msa::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1920, 1080].
+[8499200] INFO: Test Simd::Msa::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1929, 1071].
+[8499200] INFO: Test Simd::Msa::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1911, 1089].
+[8499200] INFO: AbsDifferenceSumMaskedAutoTest is finished successfully.
+
+[8499200] INFO: AbsDifferenceSums3x3AutoTest is started :
+[8499200] INFO: Test Simd::Base::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1920, 1080].
+[8499200] INFO: Test Simd::Base::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1929, 1071].
+[8499200] INFO: Test Simd::Base::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1911, 1089].
+[8499200] INFO: Test Simd::Msa::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1920, 1080].
+[8499200] INFO: Test Simd::Msa::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1929, 1071].
+[8499200] INFO: Test Simd::Msa::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1911, 1089].
+[8499200] INFO: AbsDifferenceSums3x3AutoTest is finished successfully.
+
+[8499200] INFO: AbsDifferenceSums3x3MaskedAutoTest is started :
+[8499200] INFO: Test Simd::Base::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1920, 1080].
+[8499200] INFO: Test Simd::Base::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1929, 1071].
+[8499200] INFO: Test Simd::Base::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1911, 1089].
+[8499200] INFO: Test Simd::Msa::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1920, 1080].
+[8499200] INFO: Test Simd::Msa::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1929, 1071].
+[8499200] INFO: Test Simd::Msa::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1911, 1089].
+[8499200] INFO: AbsDifferenceSums3x3MaskedAutoTest is finished successfully.
+
+[8499200] INFO: SquaredDifferenceSumAutoTest is started :
+[8499200] INFO: Test Simd::Base::SquaredDifferenceSum & SimdSquaredDifferenceSum [1920, 1080].
+[8499200] INFO: Test Simd::Base::SquaredDifferenceSum & SimdSquaredDifferenceSum [1929, 1071].
+[8499200] INFO: Test Simd::Base::SquaredDifferenceSum & SimdSquaredDifferenceSum [1911, 1089].
+[8499200] INFO: Test Simd::Msa::SquaredDifferenceSum & SimdSquaredDifferenceSum [1920, 1080].
+[8499200] INFO: Test Simd::Msa::SquaredDifferenceSum & SimdSquaredDifferenceSum [1929, 1071].
+[8499200] INFO: Test Simd::Msa::SquaredDifferenceSum & SimdSquaredDifferenceSum [1911, 1089].
+[8499200] INFO: SquaredDifferenceSumAutoTest is finished successfully.
+
+[8499200] INFO: SquaredDifferenceSumMaskedAutoTest is started :
+[8499200] INFO: Test Simd::Base::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1920, 1080].
+[8499200] INFO: Test Simd::Base::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1929, 1071].
+[8499200] INFO: Test Simd::Base::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1911, 1089].
+[8499200] INFO: Test Simd::Msa::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1920, 1080].
+[8499200] INFO: Test Simd::Msa::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1929, 1071].
+[8499200] INFO: Test Simd::Msa::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1911, 1089].
+[8499200] INFO: SquaredDifferenceSumMaskedAutoTest is finished successfully.
+
+[8499200] INFO: SquaredDifferenceSum32fAutoTest is started :
+[8499200] INFO: Test Simd::Base::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073600].
+[8499200] INFO: Test Simd::Base::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073609].
+[8499200] INFO: Test Simd::Base::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073591].
+[8499200] INFO: Test Simd::Msa::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073600].
+[8499200] INFO: Test Simd::Msa::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073609].
+[8499200] INFO: Test Simd::Msa::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073591].
+[8499200] INFO: SquaredDifferenceSum32fAutoTest is finished successfully.
+
+[8499200] INFO: SquaredDifferenceKahanSum32fAutoTest is started :
+[8499200] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+[8499200] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+[8499200] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+[8499200] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+[8499200] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+[8499200] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+[8499200] INFO: SquaredDifferenceKahanSum32fAutoTest is finished successfully.
+
+[8499200] INFO: AddFeatureDifferenceAutoTest is started :
+[8499200] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (0*256).
+[8499200] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (0*256).
+[8499200] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (0*256).
+[8499200] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (7*256).
+[8499200] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (7*256).
+[8499200] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (7*256).
+[8499200] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (14*256).
+[8499200] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (14*256).
+[8499200] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (14*256).
+[8499200] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (21*256).
+[8499200] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (21*256).
+[8499200] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (21*256).
+[8499200] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (0*256).
+[8499200] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (0*256).
+[8499200] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (0*256).
+[8499200] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (7*256).
+[8499200] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (7*256).
+[8499200] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (7*256).
+[8499200] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (14*256).
+[8499200] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (14*256).
+[8499200] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (14*256).
+[8499200] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (21*256).
+[8499200] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (21*256).
+[8499200] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (21*256).
+[8499200] INFO: AddFeatureDifferenceAutoTest is finished successfully.
+
+[8499200] INFO: BgraToBgrAutoTest is started :
+[8499200] INFO: Test Simd::Base::BgraToBgr & SimdBgraToBgr for size [1920,1080].
+[8499200] INFO: Test Simd::Base::BgraToBgr & SimdBgraToBgr for size [1929,1071].
+[8499200] INFO: Test Simd::Base::BgraToBgr & SimdBgraToBgr for size [1911,1089].
+[8499200] INFO: Test Simd::Msa::BgraToBgr & SimdBgraToBgr for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::BgraToBgr & SimdBgraToBgr for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::BgraToBgr & SimdBgraToBgr for size [1911,1089].
+[8499200] INFO: BgraToBgrAutoTest is finished successfully.
+
+[8499200] INFO: BgraToGrayAutoTest is started :
+[8499200] INFO: Test Simd::Base::BgraToGray & SimdBgraToGray for size [1920,1080].
+[8499200] INFO: Test Simd::Base::BgraToGray & SimdBgraToGray for size [1929,1071].
+[8499200] INFO: Test Simd::Base::BgraToGray & SimdBgraToGray for size [1911,1089].
+[8499200] INFO: Test Simd::Msa::BgraToGray & SimdBgraToGray for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::BgraToGray & SimdBgraToGray for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::BgraToGray & SimdBgraToGray for size [1911,1089].
+[8499200] INFO: BgraToGrayAutoTest is finished successfully.
+
+[8499200] INFO: BgrToGrayAutoTest is started :
+[8499200] INFO: Test Simd::Base::BgrToGray & SimdBgrToGray for size [1920,1080].
+[8499200] INFO: Test Simd::Base::BgrToGray & SimdBgrToGray for size [1929,1071].
+[8499200] INFO: Test Simd::Base::BgrToGray & SimdBgrToGray for size [1911,1089].
+[8499200] INFO: Test Simd::Msa::BgrToGray & SimdBgrToGray for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::BgrToGray & SimdBgrToGray for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::BgrToGray & SimdBgrToGray for size [1911,1089].
+[8499200] INFO: BgrToGrayAutoTest is finished successfully.
+
+[8499200] INFO: BgrToHslAutoTest is started :
+[8499200] INFO: Test Simd::Base::BgrToHsl & SimdBgrToHsl for size [1920,1080].
+[8499200] INFO: Test Simd::Base::BgrToHsl & SimdBgrToHsl for size [1929,1071].
+[8499200] INFO: Test Simd::Base::BgrToHsl & SimdBgrToHsl for size [1911,1089].
+[8499200] INFO: BgrToHslAutoTest is finished successfully.
+
+[8499200] INFO: BgrToHsvAutoTest is started :
+[8499200] INFO: Test Simd::Base::BgrToHsv & SimdBgrToHsv for size [1920,1080].
+[8499200] INFO: Test Simd::Base::BgrToHsv & SimdBgrToHsv for size [1929,1071].
+[8499200] INFO: Test Simd::Base::BgrToHsv & SimdBgrToHsv for size [1911,1089].
+[8499200] INFO: BgrToHsvAutoTest is finished successfully.
+
+[8499200] INFO: GrayToBgrAutoTest is started :
+[8499200] INFO: Test Simd::Base::GrayToBgr & SimdGrayToBgr for size [1920,1080].
+[8499200] INFO: Test Simd::Base::GrayToBgr & SimdGrayToBgr for size [1929,1071].
+[8499200] INFO: Test Simd::Base::GrayToBgr & SimdGrayToBgr for size [1911,1089].
+[8499200] INFO: Test Simd::Msa::GrayToBgr & SimdGrayToBgr for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::GrayToBgr & SimdGrayToBgr for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::GrayToBgr & SimdGrayToBgr for size [1911,1089].
+[8499200] INFO: GrayToBgrAutoTest is finished successfully.
+
+[8499200] INFO: Int16ToGrayAutoTest is started :
+[8499200] INFO: Test Simd::Base::Int16ToGray & SimdInt16ToGray for size [1920,1080].
+[8499200] INFO: Test Simd::Base::Int16ToGray & SimdInt16ToGray for size [1929,1071].
+[8499200] INFO: Test Simd::Base::Int16ToGray & SimdInt16ToGray for size [1911,1089].
+[8499200] INFO: Test Simd::Msa::Int16ToGray & SimdInt16ToGray for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::Int16ToGray & SimdInt16ToGray for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::Int16ToGray & SimdInt16ToGray for size [1911,1089].
+[8499200] INFO: Int16ToGrayAutoTest is finished successfully.
+
+[8499200] INFO: BgraToBayerAutoTest is started :
+[8499200] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer GRBG.
+[8499200] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer GRBG.
+[8499200] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer GRBG.
+[8499200] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer GBRG.
+[8499200] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer GBRG.
+[8499200] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer GBRG.
+[8499200] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer RGGB.
+[8499200] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer RGGB.
+[8499200] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer RGGB.
+[8499200] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer BGGR.
+[8499200] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer BGGR.
+[8499200] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer BGGR.
+[8499200] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer GRBG.
+[8499200] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer GRBG.
+[8499200] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer GRBG.
+[8499200] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer GBRG.
+[8499200] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer GBRG.
+[8499200] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer GBRG.
+[8499200] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer RGGB.
+[8499200] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer RGGB.
+[8499200] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer RGGB.
+[8499200] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer BGGR.
+[8499200] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer BGGR.
+[8499200] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer BGGR.
+[8499200] INFO: BgraToBayerAutoTest is finished successfully.
+
+[8499200] INFO: BgrToBayerAutoTest is started :
+[8499200] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer GRBG.
+[8499200] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer GRBG.
+[8499200] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer GRBG.
+[8499200] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer GBRG.
+[8499200] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer GBRG.
+[8499200] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer GBRG.
+[8499200] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer RGGB.
+[8499200] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer RGGB.
+[8499200] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer RGGB.
+[8499200] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer BGGR.
+[8499200] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer BGGR.
+[8499200] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer BGGR.
+[8499200] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer GRBG.
+[8499200] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer GRBG.
+[8499200] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer GRBG.
+[8499200] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer GBRG.
+[8499200] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer GBRG.
+[8499200] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer GBRG.
+[8499200] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer RGGB.
+[8499200] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer RGGB.
+[8499200] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer RGGB.
+[8499200] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer BGGR.
+[8499200] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer BGGR.
+[8499200] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer BGGR.
+[8499200] INFO: BgrToBayerAutoTest is finished successfully.
+
+[8499200] INFO: BgrToBgraAutoTest is started :
+[8499200] INFO: Test Simd::Base::BgrToBgra & SimdBgrToBgra for size [1920,1080].
+[8499200] INFO: Test Simd::Base::BgrToBgra & SimdBgrToBgra for size [1929,1071].
+[8499200] INFO: Test Simd::Base::BgrToBgra & SimdBgrToBgra for size [1911,1089].
+[8499200] INFO: Test Simd::Msa::BgrToBgra & SimdBgrToBgra for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::BgrToBgra & SimdBgrToBgra for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::BgrToBgra & SimdBgrToBgra for size [1911,1089].
+[8499200] INFO: BgrToBgraAutoTest is finished successfully.
+
+[8499200] INFO: GrayToBgraAutoTest is started :
+[8499200] INFO: Test Simd::Base::GrayToBgra & SimdGrayToBgra for size [1920,1080].
+[8499200] INFO: Test Simd::Base::GrayToBgra & SimdGrayToBgra for size [1929,1071].
+[8499200] INFO: Test Simd::Base::GrayToBgra & SimdGrayToBgra for size [1911,1089].
+[8499200] INFO: Test Simd::Msa::GrayToBgra & SimdGrayToBgra for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::GrayToBgra & SimdGrayToBgra for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::GrayToBgra & SimdGrayToBgra for size [1911,1089].
+[8499200] INFO: GrayToBgraAutoTest is finished successfully.
+
+[8499200] INFO: BgraToYuv420pAutoTest is started :
+[8499200] INFO: Test Simd::Base::BgraToYuv420p & SimdBgraToYuv420p [1920, 1080].
+[8499200] INFO: Test Simd::Base::BgraToYuv420p & SimdBgraToYuv420p [1938, 1062].
+[8499200] INFO: Test Simd::Base::BgraToYuv420p & SimdBgraToYuv420p [1902, 1098].
+[8499200] INFO: Test Simd::Msa::BgraToYuv420p & SimdBgraToYuv420p [1920, 1080].
+[8499200] INFO: Test Simd::Msa::BgraToYuv420p & SimdBgraToYuv420p [1938, 1062].
+[8499200] INFO: Test Simd::Msa::BgraToYuv420p & SimdBgraToYuv420p [1902, 1098].
+[8499200] INFO: BgraToYuv420pAutoTest is finished successfully.
+
+[8499200] INFO: BgraToYuv422pAutoTest is started :
+[8499200] INFO: Test Simd::Base::BgraToYuv422p & SimdBgraToYuv422p [1920, 1080].
+[8499200] INFO: Test Simd::Base::BgraToYuv422p & SimdBgraToYuv422p [1938, 1071].
+[8499200] INFO: Test Simd::Base::BgraToYuv422p & SimdBgraToYuv422p [1902, 1089].
+[8499200] INFO: Test Simd::Msa::BgraToYuv422p & SimdBgraToYuv422p [1920, 1080].
+[8499200] INFO: Test Simd::Msa::BgraToYuv422p & SimdBgraToYuv422p [1938, 1071].
+[8499200] INFO: Test Simd::Msa::BgraToYuv422p & SimdBgraToYuv422p [1902, 1089].
+[8499200] INFO: BgraToYuv422pAutoTest is finished successfully.
+
+[8499200] INFO: BgraToYuv444pAutoTest is started :
+[8499200] INFO: Test Simd::Base::BgraToYuv444p & SimdBgraToYuv444p [1920, 1080].
+[8499200] INFO: Test Simd::Base::BgraToYuv444p & SimdBgraToYuv444p [1929, 1071].
+[8499200] INFO: Test Simd::Base::BgraToYuv444p & SimdBgraToYuv444p [1911, 1089].
+[8499200] INFO: Test Simd::Msa::BgraToYuv444p & SimdBgraToYuv444p [1920, 1080].
+[8499200] INFO: Test Simd::Msa::BgraToYuv444p & SimdBgraToYuv444p [1929, 1071].
+[8499200] INFO: Test Simd::Msa::BgraToYuv444p & SimdBgraToYuv444p [1911, 1089].
+[8499200] INFO: BgraToYuv444pAutoTest is finished successfully.
+
+[8499200] INFO: BgrToYuv420pAutoTest is started :
+[8499200] INFO: Test Simd::Base::BgrToYuv420p & SimdBgrToYuv420p [1920, 1080].
+[8499200] INFO: Test Simd::Base::BgrToYuv420p & SimdBgrToYuv420p [1938, 1062].
+[8499200] INFO: Test Simd::Base::BgrToYuv420p & SimdBgrToYuv420p [1902, 1098].
+[8499200] INFO: Test Simd::Msa::BgrToYuv420p & SimdBgrToYuv420p [1920, 1080].
+[8499200] INFO: Test Simd::Msa::BgrToYuv420p & SimdBgrToYuv420p [1938, 1062].
+[8499200] INFO: Test Simd::Msa::BgrToYuv420p & SimdBgrToYuv420p [1902, 1098].
+[8499200] INFO: BgrToYuv420pAutoTest is finished successfully.
+
+[8499200] INFO: BgrToYuv422pAutoTest is started :
+[8499200] INFO: Test Simd::Base::BgrToYuv422p & SimdBgrToYuv422p [1920, 1080].
+[8499200] INFO: Test Simd::Base::BgrToYuv422p & SimdBgrToYuv422p [1938, 1071].
+[8499200] INFO: Test Simd::Base::BgrToYuv422p & SimdBgrToYuv422p [1902, 1089].
+[8499200] INFO: Test Simd::Msa::BgrToYuv422p & SimdBgrToYuv422p [1920, 1080].
+[8499200] INFO: Test Simd::Msa::BgrToYuv422p & SimdBgrToYuv422p [1938, 1071].
+[8499200] INFO: Test Simd::Msa::BgrToYuv422p & SimdBgrToYuv422p [1902, 1089].
+[8499200] INFO: BgrToYuv422pAutoTest is finished successfully.
+
+[8499200] INFO: BgrToYuv444pAutoTest is started :
+[8499200] INFO: Test Simd::Base::BgrToYuv444p & SimdBgrToYuv444p [1920, 1080].
+[8499200] INFO: Test Simd::Base::BgrToYuv444p & SimdBgrToYuv444p [1929, 1071].
+[8499200] INFO: Test Simd::Base::BgrToYuv444p & SimdBgrToYuv444p [1911, 1089].
+[8499200] INFO: Test Simd::Msa::BgrToYuv444p & SimdBgrToYuv444p [1920, 1080].
+[8499200] INFO: Test Simd::Msa::BgrToYuv444p & SimdBgrToYuv444p [1929, 1071].
+[8499200] INFO: Test Simd::Msa::BgrToYuv444p & SimdBgrToYuv444p [1911, 1089].
+[8499200] INFO: BgrToYuv444pAutoTest is finished successfully.
+
+[8499200] INFO: BackgroundGrowRangeSlowAutoTest is started :
+[8499200] INFO: Test Simd::Base::BackgroundGrowRangeSlow & SimdBackgroundGrowRangeSlow [1920, 1080].
+[8499200] INFO: Test Simd::Base::BackgroundGrowRangeSlow & SimdBackgroundGrowRangeSlow [1929, 1071].
+[8499200] INFO: Test Simd::Base::BackgroundGrowRangeSlow & SimdBackgroundGrowRangeSlow [1911, 1089].
+[8499200] INFO: Test Simd::Msa::BackgroundGrowRangeSlow & SimdBackgroundGrowRangeSlow [1920, 1080].
+[8499200] INFO: Test Simd::Msa::BackgroundGrowRangeSlow & SimdBackgroundGrowRangeSlow [1929, 1071].
+[8499200] INFO: Test Simd::Msa::BackgroundGrowRangeSlow & SimdBackgroundGrowRangeSlow [1911, 1089].
+[8499200] INFO: BackgroundGrowRangeSlowAutoTest is finished successfully.
+
+[8499200] INFO: BackgroundGrowRangeFastAutoTest is started :
+[8499200] INFO: Test Simd::Base::BackgroundGrowRangeFast & SimdBackgroundGrowRangeFast [1920, 1080].
+[8499200] INFO: Test Simd::Base::BackgroundGrowRangeFast & SimdBackgroundGrowRangeFast [1929, 1071].
+[8499200] INFO: Test Simd::Base::BackgroundGrowRangeFast & SimdBackgroundGrowRangeFast [1911, 1089].
+[8499200] INFO: Test Simd::Msa::BackgroundGrowRangeFast & SimdBackgroundGrowRangeFast [1920, 1080].
+[8499200] INFO: Test Simd::Msa::BackgroundGrowRangeFast & SimdBackgroundGrowRangeFast [1929, 1071].
+[8499200] INFO: Test Simd::Msa::BackgroundGrowRangeFast & SimdBackgroundGrowRangeFast [1911, 1089].
+[8499200] INFO: BackgroundGrowRangeFastAutoTest is finished successfully.
+
+[8499200] INFO: BackgroundIncrementCountAutoTest is started :
+[8499200] INFO: Test Simd::Base::BackgroundIncrementCount & SimdBackgroundIncrementCount [1920, 1080].
+[8499200] INFO: Test Simd::Base::BackgroundIncrementCount & SimdBackgroundIncrementCount [1929, 1071].
+[8499200] INFO: Test Simd::Base::BackgroundIncrementCount & SimdBackgroundIncrementCount [1911, 1089].
+[8499200] INFO: Test Simd::Msa::BackgroundIncrementCount & SimdBackgroundIncrementCount [1920, 1080].
+[8499200] INFO: Test Simd::Msa::BackgroundIncrementCount & SimdBackgroundIncrementCount [1929, 1071].
+[8499200] INFO: Test Simd::Msa::BackgroundIncrementCount & SimdBackgroundIncrementCount [1911, 1089].
+[8499200] INFO: BackgroundIncrementCountAutoTest is finished successfully.
+
+[8499200] INFO: BackgroundAdjustRangeAutoTest is started :
+[8499200] INFO: Test Simd::Base::BackgroundAdjustRange & SimdBackgroundAdjustRange [1920, 1080].
+[8499200] INFO: Test Simd::Base::BackgroundAdjustRange & SimdBackgroundAdjustRange [1929, 1071].
+[8499200] INFO: Test Simd::Base::BackgroundAdjustRange & SimdBackgroundAdjustRange [1911, 1089].
+[8499200] INFO: Test Simd::Msa::BackgroundAdjustRange & SimdBackgroundAdjustRange [1920, 1080].
+[8499200] INFO: Test Simd::Msa::BackgroundAdjustRange & SimdBackgroundAdjustRange [1929, 1071].
+[8499200] INFO: Test Simd::Msa::BackgroundAdjustRange & SimdBackgroundAdjustRange [1911, 1089].
+[8499200] INFO: BackgroundAdjustRangeAutoTest is finished successfully.
+
+[8499200] INFO: BackgroundAdjustRangeMaskedAutoTest is started :
+[8499200] INFO: Test Simd::Base::BackgroundAdjustRangeMasked & SimdBackgroundAdjustRangeMasked [1920, 1080].
+[8499200] INFO: Test Simd::Base::BackgroundAdjustRangeMasked & SimdBackgroundAdjustRangeMasked [1929, 1071].
+[8499200] INFO: Test Simd::Base::BackgroundAdjustRangeMasked & SimdBackgroundAdjustRangeMasked [1911, 1089].
+[8499200] INFO: Test Simd::Msa::BackgroundAdjustRangeMasked & SimdBackgroundAdjustRangeMasked [1920, 1080].
+[8499200] INFO: Test Simd::Msa::BackgroundAdjustRangeMasked & SimdBackgroundAdjustRangeMasked [1929, 1071].
+[8499200] INFO: Test Simd::Msa::BackgroundAdjustRangeMasked & SimdBackgroundAdjustRangeMasked [1911, 1089].
+[8499200] INFO: BackgroundAdjustRangeMaskedAutoTest is finished successfully.
+
+[8499200] INFO: BackgroundShiftRangeAutoTest is started :
+[8499200] INFO: Test Simd::Base::BackgroundShiftRange & SimdBackgroundShiftRange [1920, 1080].
+[8499200] INFO: Test Simd::Base::BackgroundShiftRange & SimdBackgroundShiftRange [1929, 1071].
+[8499200] INFO: Test Simd::Base::BackgroundShiftRange & SimdBackgroundShiftRange [1911, 1089].
+[8499200] INFO: Test Simd::Msa::BackgroundShiftRange & SimdBackgroundShiftRange [1920, 1080].
+[8499200] INFO: Test Simd::Msa::BackgroundShiftRange & SimdBackgroundShiftRange [1929, 1071].
+[8499200] INFO: Test Simd::Msa::BackgroundShiftRange & SimdBackgroundShiftRange [1911, 1089].
+[8499200] INFO: BackgroundShiftRangeAutoTest is finished successfully.
+
+[8499200] INFO: BackgroundShiftRangeMaskedAutoTest is started :
+[8499200] INFO: Test Simd::Base::BackgroundShiftRangeMasked & SimdBackgroundShiftRangeMasked [1920, 1080].
+[8499200] INFO: Test Simd::Base::BackgroundShiftRangeMasked & SimdBackgroundShiftRangeMasked [1929, 1071].
+[8499200] INFO: Test Simd::Base::BackgroundShiftRangeMasked & SimdBackgroundShiftRangeMasked [1911, 1089].
+[8499200] INFO: Test Simd::Msa::BackgroundShiftRangeMasked & SimdBackgroundShiftRangeMasked [1920, 1080].
+[8499200] INFO: Test Simd::Msa::BackgroundShiftRangeMasked & SimdBackgroundShiftRangeMasked [1929, 1071].
+[8499200] INFO: Test Simd::Msa::BackgroundShiftRangeMasked & SimdBackgroundShiftRangeMasked [1911, 1089].
+[8499200] INFO: BackgroundShiftRangeMaskedAutoTest is finished successfully.
+
+[8499200] INFO: BackgroundInitMaskAutoTest is started :
+[8499200] INFO: Test Simd::Base::BackgroundInitMask & SimdBackgroundInitMask [1920, 1080].
+[8499200] INFO: Test Simd::Base::BackgroundInitMask & SimdBackgroundInitMask [1929, 1071].
+[8499200] INFO: Test Simd::Base::BackgroundInitMask & SimdBackgroundInitMask [1911, 1089].
+[8499200] INFO: Test Simd::Msa::BackgroundInitMask & SimdBackgroundInitMask [1920, 1080].
+[8499200] INFO: Test Simd::Msa::BackgroundInitMask & SimdBackgroundInitMask [1929, 1071].
+[8499200] INFO: Test Simd::Msa::BackgroundInitMask & SimdBackgroundInitMask [1911, 1089].
+[8499200] INFO: BackgroundInitMaskAutoTest is finished successfully.
+
+[8499200] INFO: BayerToBgrAutoTest is started :
+[8499200] INFO: Test Simd::Base::BayerToBgr & SimdBayerToBgr for size [1920,1080] of Bayer GRBG.
+[8499200] INFO: Test Simd::Base::BayerToBgr & SimdBayerToBgr for size [1930,1070] of Bayer GRBG.
+[8499200] INFO: Test Simd::Base::BayerToBgr & SimdBayerToBgr for size [1910,1090] of Bayer GRBG.
+[8499200] INFO: Test Simd::Base::BayerToBgr & SimdBayerToBgr for size [1920,1080] of Bayer GBRG.
+[8499200] INFO: Test Simd::Base::BayerToBgr & SimdBayerToBgr for size [1930,1070] of Bayer GBRG.
+[8499200] INFO: Test Simd::Base::BayerToBgr & SimdBayerToBgr for size [1910,1090] of Bayer GBRG.
+[8499200] INFO: Test Simd::Base::BayerToBgr & SimdBayerToBgr for size [1920,1080] of Bayer RGGB.
+[8499200] INFO: Test Simd::Base::BayerToBgr & SimdBayerToBgr for size [1930,1070] of Bayer RGGB.
+[8499200] INFO: Test Simd::Base::BayerToBgr & SimdBayerToBgr for size [1910,1090] of Bayer RGGB.
+[8499200] INFO: Test Simd::Base::BayerToBgr & SimdBayerToBgr for size [1920,1080] of Bayer BGGR.
+[8499200] INFO: Test Simd::Base::BayerToBgr & SimdBayerToBgr for size [1930,1070] of Bayer BGGR.
+[8499200] INFO: Test Simd::Base::BayerToBgr & SimdBayerToBgr for size [1910,1090] of Bayer BGGR.
+[8499200] INFO: BayerToBgrAutoTest is finished successfully.
+
+[8499200] INFO: BayerToBgraAutoTest is started :
+[8499200] INFO: Test Simd::Base::BayerToBgra & SimdBayerToBgra for size [1920,1080] of Bayer GRBG.
+[8499200] INFO: Test Simd::Base::BayerToBgra & SimdBayerToBgra for size [1930,1070] of Bayer GRBG.
+[8499200] INFO: Test Simd::Base::BayerToBgra & SimdBayerToBgra for size [1910,1090] of Bayer GRBG.
+[8499200] INFO: Test Simd::Base::BayerToBgra & SimdBayerToBgra for size [1920,1080] of Bayer GBRG.
+[8499200] INFO: Test Simd::Base::BayerToBgra & SimdBayerToBgra for size [1930,1070] of Bayer GBRG.
+[8499200] INFO: Test Simd::Base::BayerToBgra & SimdBayerToBgra for size [1910,1090] of Bayer GBRG.
+[8499200] INFO: Test Simd::Base::BayerToBgra & SimdBayerToBgra for size [1920,1080] of Bayer RGGB.
+[8499200] INFO: Test Simd::Base::BayerToBgra & SimdBayerToBgra for size [1930,1070] of Bayer RGGB.
+[8499200] INFO: Test Simd::Base::BayerToBgra & SimdBayerToBgra for size [1910,1090] of Bayer RGGB.
+[8499200] INFO: Test Simd::Base::BayerToBgra & SimdBayerToBgra for size [1920,1080] of Bayer BGGR.
+[8499200] INFO: Test Simd::Base::BayerToBgra & SimdBayerToBgra for size [1930,1070] of Bayer BGGR.
+[8499200] INFO: Test Simd::Base::BayerToBgra & SimdBayerToBgra for size [1910,1090] of Bayer BGGR.
+[8499200] INFO: BayerToBgraAutoTest is finished successfully.
+
+[8499200] INFO: Bgr48pToBgra32AutoTest is started :
+[8499200] INFO: Test Simd::Base::Bgr48pToBgra32 & SimdBgr48pToBgra32 for size [1920,1080].
+[8499200] INFO: Test Simd::Base::Bgr48pToBgra32 & SimdBgr48pToBgra32 for size [1929,1071].
+[8499200] INFO: Test Simd::Base::Bgr48pToBgra32 & SimdBgr48pToBgra32 for size [1911,1089].
+[8499200] INFO: Test Simd::Msa::Bgr48pToBgra32 & SimdBgr48pToBgra32 for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::Bgr48pToBgra32 & SimdBgr48pToBgra32 for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::Bgr48pToBgra32 & SimdBgr48pToBgra32 for size [1911,1089].
+[8499200] INFO: Bgr48pToBgra32AutoTest is finished successfully.
+
+[8499200] INFO: BinarizationAutoTest is started :
+[8499200] INFO: Test Simd::Base::Binarization(==) & SimdBinarization(==) [1920, 1080].
+[8499200] INFO: Test Simd::Base::Binarization(==) & SimdBinarization(==) [1929, 1071].
+[8499200] INFO: Test Simd::Base::Binarization(==) & SimdBinarization(==) [1911, 1089].
+[8499200] INFO: Test Simd::Base::Binarization(!=) & SimdBinarization(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::Binarization(!=) & SimdBinarization(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::Binarization(!=) & SimdBinarization(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::Binarization(> ) & SimdBinarization(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::Binarization(> ) & SimdBinarization(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::Binarization(> ) & SimdBinarization(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::Binarization(>=) & SimdBinarization(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::Binarization(>=) & SimdBinarization(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::Binarization(>=) & SimdBinarization(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::Binarization(< ) & SimdBinarization(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::Binarization(< ) & SimdBinarization(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::Binarization(< ) & SimdBinarization(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::Binarization(<=) & SimdBinarization(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::Binarization(<=) & SimdBinarization(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::Binarization(<=) & SimdBinarization(<=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::Binarization(==) & SimdBinarization(==) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::Binarization(==) & SimdBinarization(==) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::Binarization(==) & SimdBinarization(==) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::Binarization(!=) & SimdBinarization(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::Binarization(!=) & SimdBinarization(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::Binarization(!=) & SimdBinarization(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::Binarization(> ) & SimdBinarization(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::Binarization(> ) & SimdBinarization(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::Binarization(> ) & SimdBinarization(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::Binarization(>=) & SimdBinarization(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::Binarization(>=) & SimdBinarization(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::Binarization(>=) & SimdBinarization(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::Binarization(< ) & SimdBinarization(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::Binarization(< ) & SimdBinarization(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::Binarization(< ) & SimdBinarization(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::Binarization(<=) & SimdBinarization(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::Binarization(<=) & SimdBinarization(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::Binarization(<=) & SimdBinarization(<=) [1911, 1089].
+[8499200] INFO: BinarizationAutoTest is finished successfully.
+
+[8499200] INFO: AveragingBinarizationAutoTest is started :
+[8499200] INFO: Test Simd::Base::AveragingBinarization(==) & SimdAveragingBinarization(==) [1920, 1080].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(==) & SimdAveragingBinarization(==) [1929, 1071].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(==) & SimdAveragingBinarization(==) [1911, 1089].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(!=) & SimdAveragingBinarization(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(!=) & SimdAveragingBinarization(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(!=) & SimdAveragingBinarization(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(> ) & SimdAveragingBinarization(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(> ) & SimdAveragingBinarization(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(> ) & SimdAveragingBinarization(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(>=) & SimdAveragingBinarization(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(>=) & SimdAveragingBinarization(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(>=) & SimdAveragingBinarization(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(< ) & SimdAveragingBinarization(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(< ) & SimdAveragingBinarization(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(< ) & SimdAveragingBinarization(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(<=) & SimdAveragingBinarization(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(<=) & SimdAveragingBinarization(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::AveragingBinarization(<=) & SimdAveragingBinarization(<=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(==) & SimdAveragingBinarization(==) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(==) & SimdAveragingBinarization(==) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(==) & SimdAveragingBinarization(==) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(!=) & SimdAveragingBinarization(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(!=) & SimdAveragingBinarization(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(!=) & SimdAveragingBinarization(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(> ) & SimdAveragingBinarization(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(> ) & SimdAveragingBinarization(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(> ) & SimdAveragingBinarization(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(>=) & SimdAveragingBinarization(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(>=) & SimdAveragingBinarization(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(>=) & SimdAveragingBinarization(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(< ) & SimdAveragingBinarization(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(< ) & SimdAveragingBinarization(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(< ) & SimdAveragingBinarization(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(<=) & SimdAveragingBinarization(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(<=) & SimdAveragingBinarization(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::AveragingBinarization(<=) & SimdAveragingBinarization(<=) [1911, 1089].
+[8499200] INFO: AveragingBinarizationAutoTest is finished successfully.
+
+[8499200] INFO: ConditionalCount8uAutoTest is started :
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(==) & SimdConditionalCount8u(==) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(==) & SimdConditionalCount8u(==) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(==) & SimdConditionalCount8u(==) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(!=) & SimdConditionalCount8u(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(!=) & SimdConditionalCount8u(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(!=) & SimdConditionalCount8u(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(> ) & SimdConditionalCount8u(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(> ) & SimdConditionalCount8u(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(> ) & SimdConditionalCount8u(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(>=) & SimdConditionalCount8u(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(>=) & SimdConditionalCount8u(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(>=) & SimdConditionalCount8u(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(< ) & SimdConditionalCount8u(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(< ) & SimdConditionalCount8u(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(< ) & SimdConditionalCount8u(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(<=) & SimdConditionalCount8u(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(<=) & SimdConditionalCount8u(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalCount8u(<=) & SimdConditionalCount8u(<=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(==) & SimdConditionalCount8u(==) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(==) & SimdConditionalCount8u(==) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(==) & SimdConditionalCount8u(==) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(!=) & SimdConditionalCount8u(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(!=) & SimdConditionalCount8u(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(!=) & SimdConditionalCount8u(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(> ) & SimdConditionalCount8u(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(> ) & SimdConditionalCount8u(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(> ) & SimdConditionalCount8u(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(>=) & SimdConditionalCount8u(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(>=) & SimdConditionalCount8u(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(>=) & SimdConditionalCount8u(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(< ) & SimdConditionalCount8u(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(< ) & SimdConditionalCount8u(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(< ) & SimdConditionalCount8u(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(<=) & SimdConditionalCount8u(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(<=) & SimdConditionalCount8u(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalCount8u(<=) & SimdConditionalCount8u(<=) [1911, 1089].
+[8499200] INFO: ConditionalCount8uAutoTest is finished successfully.
+
+[8499200] INFO: ConditionalCount16iAutoTest is started :
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(==) & SimdConditionalCount16i(==) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(==) & SimdConditionalCount16i(==) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(==) & SimdConditionalCount16i(==) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(!=) & SimdConditionalCount16i(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(!=) & SimdConditionalCount16i(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(!=) & SimdConditionalCount16i(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(> ) & SimdConditionalCount16i(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(> ) & SimdConditionalCount16i(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(> ) & SimdConditionalCount16i(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(>=) & SimdConditionalCount16i(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(>=) & SimdConditionalCount16i(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(>=) & SimdConditionalCount16i(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(< ) & SimdConditionalCount16i(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(< ) & SimdConditionalCount16i(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(< ) & SimdConditionalCount16i(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(<=) & SimdConditionalCount16i(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(<=) & SimdConditionalCount16i(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalCount16i(<=) & SimdConditionalCount16i(<=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(==) & SimdConditionalCount16i(==) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(==) & SimdConditionalCount16i(==) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(==) & SimdConditionalCount16i(==) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(!=) & SimdConditionalCount16i(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(!=) & SimdConditionalCount16i(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(!=) & SimdConditionalCount16i(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(> ) & SimdConditionalCount16i(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(> ) & SimdConditionalCount16i(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(> ) & SimdConditionalCount16i(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(>=) & SimdConditionalCount16i(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(>=) & SimdConditionalCount16i(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(>=) & SimdConditionalCount16i(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(< ) & SimdConditionalCount16i(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(< ) & SimdConditionalCount16i(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(< ) & SimdConditionalCount16i(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(<=) & SimdConditionalCount16i(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(<=) & SimdConditionalCount16i(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalCount16i(<=) & SimdConditionalCount16i(<=) [1911, 1089].
+[8499200] INFO: ConditionalCount16iAutoTest is finished successfully.
+
+[8499200] INFO: ConditionalSumAutoTest is started :
+[8499200] INFO: Test Simd::Base::ConditionalSum(==) & SimdConditionalSum(==) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSum(==) & SimdConditionalSum(==) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSum(==) & SimdConditionalSum(==) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalSum(!=) & SimdConditionalSum(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSum(!=) & SimdConditionalSum(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSum(!=) & SimdConditionalSum(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalSum(> ) & SimdConditionalSum(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSum(> ) & SimdConditionalSum(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSum(> ) & SimdConditionalSum(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalSum(>=) & SimdConditionalSum(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSum(>=) & SimdConditionalSum(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSum(>=) & SimdConditionalSum(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalSum(< ) & SimdConditionalSum(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSum(< ) & SimdConditionalSum(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSum(< ) & SimdConditionalSum(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalSum(<=) & SimdConditionalSum(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSum(<=) & SimdConditionalSum(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSum(<=) & SimdConditionalSum(<=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(==) & SimdConditionalSum(==) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(==) & SimdConditionalSum(==) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(==) & SimdConditionalSum(==) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(!=) & SimdConditionalSum(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(!=) & SimdConditionalSum(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(!=) & SimdConditionalSum(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(> ) & SimdConditionalSum(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(> ) & SimdConditionalSum(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(> ) & SimdConditionalSum(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(>=) & SimdConditionalSum(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(>=) & SimdConditionalSum(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(>=) & SimdConditionalSum(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(< ) & SimdConditionalSum(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(< ) & SimdConditionalSum(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(< ) & SimdConditionalSum(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(<=) & SimdConditionalSum(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(<=) & SimdConditionalSum(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSum(<=) & SimdConditionalSum(<=) [1911, 1089].
+[8499200] INFO: ConditionalSumAutoTest is finished successfully.
+
+[8499200] INFO: ConditionalSquareSumAutoTest is started :
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(==) & SimdConditionalSquareSum(==) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(==) & SimdConditionalSquareSum(==) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(==) & SimdConditionalSquareSum(==) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(!=) & SimdConditionalSquareSum(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(!=) & SimdConditionalSquareSum(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(!=) & SimdConditionalSquareSum(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(> ) & SimdConditionalSquareSum(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(> ) & SimdConditionalSquareSum(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(> ) & SimdConditionalSquareSum(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(>=) & SimdConditionalSquareSum(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(>=) & SimdConditionalSquareSum(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(>=) & SimdConditionalSquareSum(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(< ) & SimdConditionalSquareSum(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(< ) & SimdConditionalSquareSum(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(< ) & SimdConditionalSquareSum(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(<=) & SimdConditionalSquareSum(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(<=) & SimdConditionalSquareSum(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSquareSum(<=) & SimdConditionalSquareSum(<=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(==) & SimdConditionalSquareSum(==) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(==) & SimdConditionalSquareSum(==) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(==) & SimdConditionalSquareSum(==) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(!=) & SimdConditionalSquareSum(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(!=) & SimdConditionalSquareSum(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(!=) & SimdConditionalSquareSum(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(> ) & SimdConditionalSquareSum(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(> ) & SimdConditionalSquareSum(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(> ) & SimdConditionalSquareSum(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(>=) & SimdConditionalSquareSum(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(>=) & SimdConditionalSquareSum(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(>=) & SimdConditionalSquareSum(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(< ) & SimdConditionalSquareSum(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(< ) & SimdConditionalSquareSum(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(< ) & SimdConditionalSquareSum(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(<=) & SimdConditionalSquareSum(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(<=) & SimdConditionalSquareSum(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareSum(<=) & SimdConditionalSquareSum(<=) [1911, 1089].
+[8499200] INFO: ConditionalSquareSumAutoTest is finished successfully.
+
+[8499200] INFO: ConditionalSquareGradientSumAutoTest is started :
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(==) & SimdConditionalSquareGradientSum(==) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(==) & SimdConditionalSquareGradientSum(==) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(==) & SimdConditionalSquareGradientSum(==) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(!=) & SimdConditionalSquareGradientSum(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(!=) & SimdConditionalSquareGradientSum(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(!=) & SimdConditionalSquareGradientSum(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(> ) & SimdConditionalSquareGradientSum(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(> ) & SimdConditionalSquareGradientSum(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(> ) & SimdConditionalSquareGradientSum(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(>=) & SimdConditionalSquareGradientSum(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(>=) & SimdConditionalSquareGradientSum(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(>=) & SimdConditionalSquareGradientSum(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(< ) & SimdConditionalSquareGradientSum(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(< ) & SimdConditionalSquareGradientSum(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(< ) & SimdConditionalSquareGradientSum(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(<=) & SimdConditionalSquareGradientSum(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(<=) & SimdConditionalSquareGradientSum(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalSquareGradientSum(<=) & SimdConditionalSquareGradientSum(<=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(==) & SimdConditionalSquareGradientSum(==) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(==) & SimdConditionalSquareGradientSum(==) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(==) & SimdConditionalSquareGradientSum(==) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(!=) & SimdConditionalSquareGradientSum(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(!=) & SimdConditionalSquareGradientSum(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(!=) & SimdConditionalSquareGradientSum(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(> ) & SimdConditionalSquareGradientSum(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(> ) & SimdConditionalSquareGradientSum(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(> ) & SimdConditionalSquareGradientSum(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(>=) & SimdConditionalSquareGradientSum(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(>=) & SimdConditionalSquareGradientSum(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(>=) & SimdConditionalSquareGradientSum(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(< ) & SimdConditionalSquareGradientSum(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(< ) & SimdConditionalSquareGradientSum(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(< ) & SimdConditionalSquareGradientSum(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(<=) & SimdConditionalSquareGradientSum(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(<=) & SimdConditionalSquareGradientSum(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalSquareGradientSum(<=) & SimdConditionalSquareGradientSum(<=) [1911, 1089].
+[8499200] INFO: ConditionalSquareGradientSumAutoTest is finished successfully.
+
+[8499200] INFO: ConditionalFillAutoTest is started :
+[8499200] INFO: Test Simd::Base::ConditionalFill(==) & SimdConditionalFill(==) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalFill(==) & SimdConditionalFill(==) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalFill(==) & SimdConditionalFill(==) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalFill(!=) & SimdConditionalFill(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalFill(!=) & SimdConditionalFill(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalFill(!=) & SimdConditionalFill(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalFill(> ) & SimdConditionalFill(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalFill(> ) & SimdConditionalFill(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalFill(> ) & SimdConditionalFill(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalFill(>=) & SimdConditionalFill(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalFill(>=) & SimdConditionalFill(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalFill(>=) & SimdConditionalFill(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalFill(< ) & SimdConditionalFill(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalFill(< ) & SimdConditionalFill(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalFill(< ) & SimdConditionalFill(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::ConditionalFill(<=) & SimdConditionalFill(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::ConditionalFill(<=) & SimdConditionalFill(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::ConditionalFill(<=) & SimdConditionalFill(<=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(==) & SimdConditionalFill(==) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(==) & SimdConditionalFill(==) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(==) & SimdConditionalFill(==) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(!=) & SimdConditionalFill(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(!=) & SimdConditionalFill(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(!=) & SimdConditionalFill(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(> ) & SimdConditionalFill(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(> ) & SimdConditionalFill(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(> ) & SimdConditionalFill(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(>=) & SimdConditionalFill(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(>=) & SimdConditionalFill(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(>=) & SimdConditionalFill(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(< ) & SimdConditionalFill(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(< ) & SimdConditionalFill(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(< ) & SimdConditionalFill(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(<=) & SimdConditionalFill(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(<=) & SimdConditionalFill(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ConditionalFill(<=) & SimdConditionalFill(<=) [1911, 1089].
+[8499200] INFO: ConditionalFillAutoTest is finished successfully.
+
+[8499200] INFO: ContourMetricsMaskedAutoTest is started :
+[8499200] INFO: Test Simd::Base::ContourMetricsMasked & SimdContourMetricsMasked [1920, 1080].
+[8499200] INFO: Test Simd::Base::ContourMetricsMasked & SimdContourMetricsMasked [1929, 1071].
+[8499200] INFO: Test Simd::Base::ContourMetricsMasked & SimdContourMetricsMasked [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ContourMetricsMasked & SimdContourMetricsMasked [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ContourMetricsMasked & SimdContourMetricsMasked [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ContourMetricsMasked & SimdContourMetricsMasked [1911, 1089].
+[8499200] INFO: ContourMetricsMaskedAutoTest is finished successfully.
+
+[8499200] INFO: ContourAnchorsAutoTest is started :
+[8499200] INFO: Test Simd::Base::ContourAnchors & SimdContourAnchors [1920, 1080].
+[8499200] INFO: Test Simd::Base::ContourAnchors & SimdContourAnchors [1929, 1071].
+[8499200] INFO: Test Simd::Base::ContourAnchors & SimdContourAnchors [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ContourAnchors & SimdContourAnchors [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ContourAnchors & SimdContourAnchors [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ContourAnchors & SimdContourAnchors [1911, 1089].
+[8499200] INFO: ContourAnchorsAutoTest is finished successfully.
+
+[8499200] INFO: CopyAutoTest is started :
+[8499200] INFO: Test Simd::Base::Copy<1> & SimdCopy<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Copy<1> & SimdCopy<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Copy<1> & SimdCopy<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Copy<2> & SimdCopy<2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Copy<2> & SimdCopy<2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Copy<2> & SimdCopy<2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Copy<3> & SimdCopy<3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Copy<3> & SimdCopy<3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Copy<3> & SimdCopy<3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Copy<4> & SimdCopy<4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Copy<4> & SimdCopy<4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Copy<4> & SimdCopy<4> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Copy<2> & SimdCopy<2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Copy<2> & SimdCopy<2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Copy<2> & SimdCopy<2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Copy<4> & SimdCopy<4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Copy<4> & SimdCopy<4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Copy<4> & SimdCopy<4> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Copy<8> & SimdCopy<8> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Copy<8> & SimdCopy<8> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Copy<8> & SimdCopy<8> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Copy<1> & SimdCopy<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Copy<1> & SimdCopy<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Copy<1> & SimdCopy<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Copy<1> & SimdCopy<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Copy<1> & SimdCopy<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Copy<1> & SimdCopy<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Copy<1> & SimdCopy<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Copy<1> & SimdCopy<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Copy<1> & SimdCopy<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Copy<1> & SimdCopy<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Copy<1> & SimdCopy<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Copy<1> & SimdCopy<1> [1911, 1089].
+[8499200] INFO: CopyAutoTest is finished successfully.
+
+[8499200] INFO: CopyFrameAutoTest is started :
+[8499200] INFO: Test Simd::Base::CopyFrame<1> & SimdCopyFrame<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::CopyFrame<1> & SimdCopyFrame<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::CopyFrame<1> & SimdCopyFrame<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::CopyFrame<2> & SimdCopyFrame<2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::CopyFrame<2> & SimdCopyFrame<2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::CopyFrame<2> & SimdCopyFrame<2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::CopyFrame<3> & SimdCopyFrame<3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::CopyFrame<3> & SimdCopyFrame<3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::CopyFrame<3> & SimdCopyFrame<3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::CopyFrame<4> & SimdCopyFrame<4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::CopyFrame<4> & SimdCopyFrame<4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::CopyFrame<4> & SimdCopyFrame<4> [1911, 1089].
+[8499200] INFO: Test Simd::Base::CopyFrame<2> & SimdCopyFrame<2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::CopyFrame<2> & SimdCopyFrame<2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::CopyFrame<2> & SimdCopyFrame<2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::CopyFrame<4> & SimdCopyFrame<4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::CopyFrame<4> & SimdCopyFrame<4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::CopyFrame<4> & SimdCopyFrame<4> [1911, 1089].
+[8499200] INFO: Test Simd::Base::CopyFrame<8> & SimdCopyFrame<8> [1920, 1080].
+[8499200] INFO: Test Simd::Base::CopyFrame<8> & SimdCopyFrame<8> [1929, 1071].
+[8499200] INFO: Test Simd::Base::CopyFrame<8> & SimdCopyFrame<8> [1911, 1089].
+[8499200] INFO: Test Simd::Base::CopyFrame<1> & SimdCopyFrame<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::CopyFrame<1> & SimdCopyFrame<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::CopyFrame<1> & SimdCopyFrame<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::CopyFrame<1> & SimdCopyFrame<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::CopyFrame<1> & SimdCopyFrame<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::CopyFrame<1> & SimdCopyFrame<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::CopyFrame<1> & SimdCopyFrame<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::CopyFrame<1> & SimdCopyFrame<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::CopyFrame<1> & SimdCopyFrame<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::CopyFrame<1> & SimdCopyFrame<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::CopyFrame<1> & SimdCopyFrame<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::CopyFrame<1> & SimdCopyFrame<1> [1911, 1089].
+[8499200] INFO: CopyFrameAutoTest is finished successfully.
+
+[8499200] INFO: Crc32cAutoTest is started :
+[8499200] INFO: Test Simd::Base::Crc32c & SimdCrc32c for size = 2073600.
+[8499200] INFO: Test Simd::Base::Crc32c & SimdCrc32c for size = 2073609.
+[8499200] INFO: Crc32cAutoTest is finished successfully.
+
+[8499200] INFO: DeinterleaveUvAutoTest is started :
+[8499200] INFO: Test Simd::Base::DeinterleaveUv & SimdDeinterleaveUv [1920, 1080].
+[8499200] INFO: Test Simd::Base::DeinterleaveUv & SimdDeinterleaveUv [1929, 1071].
+[8499200] INFO: Test Simd::Base::DeinterleaveUv & SimdDeinterleaveUv [1911, 1089].
+[8499200] INFO: Test Simd::Msa::DeinterleaveUv & SimdDeinterleaveUv [1920, 1080].
+[8499200] INFO: Test Simd::Msa::DeinterleaveUv & SimdDeinterleaveUv [1929, 1071].
+[8499200] INFO: Test Simd::Msa::DeinterleaveUv & SimdDeinterleaveUv [1911, 1089].
+[8499200] INFO: DeinterleaveUvAutoTest is finished successfully.
+
+[8499200] INFO: DeinterleaveBgrAutoTest is started :
+[8499200] INFO: Test Simd::Base::DeinterleaveBgr & SimdDeinterleaveBgr [1920, 1080].
+[8499200] INFO: Test Simd::Base::DeinterleaveBgr & SimdDeinterleaveBgr [1929, 1071].
+[8499200] INFO: Test Simd::Base::DeinterleaveBgr & SimdDeinterleaveBgr [1911, 1089].
+[8499200] INFO: Test Simd::Msa::DeinterleaveBgr & SimdDeinterleaveBgr [1920, 1080].
+[8499200] INFO: Test Simd::Msa::DeinterleaveBgr & SimdDeinterleaveBgr [1929, 1071].
+[8499200] INFO: Test Simd::Msa::DeinterleaveBgr & SimdDeinterleaveBgr [1911, 1089].
+[8499200] INFO: DeinterleaveBgrAutoTest is finished successfully.
+
+[8499200] INFO: DeinterleaveBgraAutoTest is started :
+[8499200] INFO: Test Simd::Base::DeinterleaveBgra & SimdDeinterleaveBgra [1920, 1080].
+[8499200] INFO: Test Simd::Base::DeinterleaveBgra & SimdDeinterleaveBgra [1929, 1071].
+[8499200] INFO: Test Simd::Base::DeinterleaveBgra & SimdDeinterleaveBgra [1911, 1089].
+[8499200] INFO: Test Simd::Msa::DeinterleaveBgra & SimdDeinterleaveBgra [1920, 1080].
+[8499200] INFO: Test Simd::Msa::DeinterleaveBgra & SimdDeinterleaveBgra [1929, 1071].
+[8499200] INFO: Test Simd::Msa::DeinterleaveBgra & SimdDeinterleaveBgra [1911, 1089].
+[8499200] INFO: DeinterleaveBgraAutoTest is finished successfully.
+
+[8499200] INFO: DetectionHaarDetect32fpAutoTest is started :
+[8499200] INFO: Test Simd::Base::DetectionHaarDetect32fp<0> & SimdDetectionHaarDetect32fp<0> for size [1920,1080].
+[8499200] INFO: Test Simd::Base::DetectionHaarDetect32fp<0> & SimdDetectionHaarDetect32fp<0> for size [1929,1071].
+[8499200] INFO: Test Simd::Base::DetectionHaarDetect32fp<1> & SimdDetectionHaarDetect32fp<1> for size [1920,1080].
+[8499200] INFO: Test Simd::Base::DetectionHaarDetect32fp<1> & SimdDetectionHaarDetect32fp<1> for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::DetectionHaarDetect32fp<0> & SimdDetectionHaarDetect32fp<0> for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::DetectionHaarDetect32fp<0> & SimdDetectionHaarDetect32fp<0> for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::DetectionHaarDetect32fp<1> & SimdDetectionHaarDetect32fp<1> for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::DetectionHaarDetect32fp<1> & SimdDetectionHaarDetect32fp<1> for size [1929,1071].
+[8499200] INFO: DetectionHaarDetect32fpAutoTest is finished successfully.
+
+[8499200] INFO: DetectionHaarDetect32fiAutoTest is started :
+[8499200] INFO: Test Simd::Base::DetectionHaarDetect32fi<0> & SimdDetectionHaarDetect32fi<0> for size [1920,1080].
+[8499200] INFO: Test Simd::Base::DetectionHaarDetect32fi<0> & SimdDetectionHaarDetect32fi<0> for size [1929,1071].
+[8499200] INFO: Test Simd::Base::DetectionHaarDetect32fi<1> & SimdDetectionHaarDetect32fi<1> for size [1920,1080].
+[8499200] INFO: Test Simd::Base::DetectionHaarDetect32fi<1> & SimdDetectionHaarDetect32fi<1> for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::DetectionHaarDetect32fi<0> & SimdDetectionHaarDetect32fi<0> for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::DetectionHaarDetect32fi<0> & SimdDetectionHaarDetect32fi<0> for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::DetectionHaarDetect32fi<1> & SimdDetectionHaarDetect32fi<1> for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::DetectionHaarDetect32fi<1> & SimdDetectionHaarDetect32fi<1> for size [1929,1071].
+[8499200] INFO: DetectionHaarDetect32fiAutoTest is finished successfully.
+
+[8499200] INFO: DetectionLbpDetect32fpAutoTest is started :
+[8499200] INFO: Test Simd::Base::DetectionLbpDetect32fp & SimdDetectionLbpDetect32fp for size [1920,1080].
+[8499200] INFO: Test Simd::Base::DetectionLbpDetect32fp & SimdDetectionLbpDetect32fp for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::DetectionLbpDetect32fp & SimdDetectionLbpDetect32fp for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::DetectionLbpDetect32fp & SimdDetectionLbpDetect32fp for size [1929,1071].
+[8499200] INFO: DetectionLbpDetect32fpAutoTest is finished successfully.
+
+[8499200] INFO: DetectionLbpDetect32fiAutoTest is started :
+[8499200] INFO: Test Simd::Base::DetectionLbpDetect32fi & SimdDetectionLbpDetect32fi for size [1920,1080].
+[8499200] INFO: Test Simd::Base::DetectionLbpDetect32fi & SimdDetectionLbpDetect32fi for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::DetectionLbpDetect32fi & SimdDetectionLbpDetect32fi for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::DetectionLbpDetect32fi & SimdDetectionLbpDetect32fi for size [1929,1071].
+[8499200] INFO: DetectionLbpDetect32fiAutoTest is finished successfully.
+
+[8499200] INFO: DetectionLbpDetect16ipAutoTest is started :
+[8499200] INFO: Test Simd::Base::DetectionLbpDetect16ip & SimdDetectionLbpDetect16ip for size [1920,1080].
+[8499200] INFO: Test Simd::Base::DetectionLbpDetect16ip & SimdDetectionLbpDetect16ip for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::DetectionLbpDetect16ip & SimdDetectionLbpDetect16ip for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::DetectionLbpDetect16ip & SimdDetectionLbpDetect16ip for size [1929,1071].
+[8499200] INFO: DetectionLbpDetect16ipAutoTest is finished successfully.
+
+[8499200] INFO: DetectionLbpDetect16iiAutoTest is started :
+[8499200] INFO: Test Simd::Base::DetectionLbpDetect16ii & SimdDetectionLbpDetect16ii for size [1920,1080].
+[8499200] INFO: Test Simd::Base::DetectionLbpDetect16ii & SimdDetectionLbpDetect16ii for size [1929,1071].
+[8499200] INFO: Test Simd::Msa::DetectionLbpDetect16ii & SimdDetectionLbpDetect16ii for size [1920,1080].
+[8499200] INFO: Test Simd::Msa::DetectionLbpDetect16ii & SimdDetectionLbpDetect16ii for size [1929,1071].
+[8499200] INFO: DetectionLbpDetect16iiAutoTest is finished successfully.
+
+[8499200] INFO: AlphaBlendingAutoTest is started :
+[8499200] INFO: Test Simd::Base::AlphaBlending<1> & SimdAlphaBlending<1> for size [1920,1080].
+[8499200] INFO: Test Simd::Base::AlphaBlending<1> & SimdAlphaBlending<1> for size [1929,1071].
+[8499200] INFO: Test Simd::Base::AlphaBlending<1> & SimdAlphaBlending<1> for size [1911,1089].
+[8499200] INFO: Test Simd::Base::AlphaBlending<2> & SimdAlphaBlending<2> for size [1920,1080].
+[8499200] INFO: Test Simd::Base::AlphaBlending<2> & SimdAlphaBlending<2> for size [1929,1071].
+[8499200] INFO: Test Simd::Base::AlphaBlending<2> & SimdAlphaBlending<2> for size [1911,1089].
+[8499200] INFO: Test Simd::Base::AlphaBlending<3> & SimdAlphaBlending<3> for size [1920,1080].
+[8499200] INFO: Test Simd::Base::AlphaBlending<3> & SimdAlphaBlending<3> for size [1929,1071].
+[8499200] INFO: Test Simd::Base::AlphaBlending<3> & SimdAlphaBlending<3> for size [1911,1089].
+[8499200] INFO: Test Simd::Base::AlphaBlending<4> & SimdAlphaBlending<4> for size [1920,1080].
+[8499200] INFO: Test Simd::Base::AlphaBlending<4> & SimdAlphaBlending<4> for size [1929,1071].
+[8499200] INFO: Test Simd::Base::AlphaBlending<4> & SimdAlphaBlending<4> for size [1911,1089].
+[8499200] INFO: AlphaBlendingAutoTest is finished successfully.
+
+[8499200] INFO: EdgeBackgroundGrowRangeSlowAutoTest is started :
+[8499200] INFO: Test Simd::Base::EdgeBackgroundGrowRangeSlow & SimdEdgeBackgroundGrowRangeSlow [1920, 1080].
+[8499200] INFO: Test Simd::Base::EdgeBackgroundGrowRangeSlow & SimdEdgeBackgroundGrowRangeSlow [1929, 1071].
+[8499200] INFO: Test Simd::Base::EdgeBackgroundGrowRangeSlow & SimdEdgeBackgroundGrowRangeSlow [1911, 1089].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundGrowRangeSlow & SimdEdgeBackgroundGrowRangeSlow [1920, 1080].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundGrowRangeSlow & SimdEdgeBackgroundGrowRangeSlow [1929, 1071].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundGrowRangeSlow & SimdEdgeBackgroundGrowRangeSlow [1911, 1089].
+[8499200] INFO: EdgeBackgroundGrowRangeSlowAutoTest is finished successfully.
+
+[8499200] INFO: EdgeBackgroundGrowRangeFastAutoTest is started :
+[8499200] INFO: Test Simd::Base::EdgeBackgroundGrowRangeFast & SimdEdgeBackgroundGrowRangeFast [1920, 1080].
+[8499200] INFO: Test Simd::Base::EdgeBackgroundGrowRangeFast & SimdEdgeBackgroundGrowRangeFast [1929, 1071].
+[8499200] INFO: Test Simd::Base::EdgeBackgroundGrowRangeFast & SimdEdgeBackgroundGrowRangeFast [1911, 1089].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundGrowRangeFast & SimdEdgeBackgroundGrowRangeFast [1920, 1080].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundGrowRangeFast & SimdEdgeBackgroundGrowRangeFast [1929, 1071].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundGrowRangeFast & SimdEdgeBackgroundGrowRangeFast [1911, 1089].
+[8499200] INFO: EdgeBackgroundGrowRangeFastAutoTest is finished successfully.
+
+[8499200] INFO: EdgeBackgroundIncrementCountAutoTest is started :
+[8499200] INFO: Test Simd::Base::EdgeBackgroundIncrementCount & SimdEdgeBackgroundIncrementCount [1920, 1080].
+[8499200] INFO: Test Simd::Base::EdgeBackgroundIncrementCount & SimdEdgeBackgroundIncrementCount [1929, 1071].
+[8499200] INFO: Test Simd::Base::EdgeBackgroundIncrementCount & SimdEdgeBackgroundIncrementCount [1911, 1089].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundIncrementCount & SimdEdgeBackgroundIncrementCount [1920, 1080].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundIncrementCount & SimdEdgeBackgroundIncrementCount [1929, 1071].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundIncrementCount & SimdEdgeBackgroundIncrementCount [1911, 1089].
+[8499200] INFO: EdgeBackgroundIncrementCountAutoTest is finished successfully.
+
+[8499200] INFO: EdgeBackgroundAdjustRangeAutoTest is started :
+[8499200] INFO: Test Simd::Base::EdgeBackgroundAdjustRange & SimdEdgeBackgroundAdjustRange [1920, 1080].
+[8499200] INFO: Test Simd::Base::EdgeBackgroundAdjustRange & SimdEdgeBackgroundAdjustRange [1929, 1071].
+[8499200] INFO: Test Simd::Base::EdgeBackgroundAdjustRange & SimdEdgeBackgroundAdjustRange [1911, 1089].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundAdjustRange & SimdEdgeBackgroundAdjustRange [1920, 1080].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundAdjustRange & SimdEdgeBackgroundAdjustRange [1929, 1071].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundAdjustRange & SimdEdgeBackgroundAdjustRange [1911, 1089].
+[8499200] INFO: EdgeBackgroundAdjustRangeAutoTest is finished successfully.
+
+[8499200] INFO: EdgeBackgroundAdjustRangeMaskedAutoTest is started :
+[8499200] INFO: Test Simd::Base::EdgeBackgroundAdjustRangeMasked & SimdEdgeBackgroundAdjustRangeMasked [1920, 1080].
+[8499200] INFO: Test Simd::Base::EdgeBackgroundAdjustRangeMasked & SimdEdgeBackgroundAdjustRangeMasked [1929, 1071].
+[8499200] INFO: Test Simd::Base::EdgeBackgroundAdjustRangeMasked & SimdEdgeBackgroundAdjustRangeMasked [1911, 1089].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundAdjustRangeMasked & SimdEdgeBackgroundAdjustRangeMasked [1920, 1080].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundAdjustRangeMasked & SimdEdgeBackgroundAdjustRangeMasked [1929, 1071].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundAdjustRangeMasked & SimdEdgeBackgroundAdjustRangeMasked [1911, 1089].
+[8499200] INFO: EdgeBackgroundAdjustRangeMaskedAutoTest is finished successfully.
+
+[8499200] INFO: EdgeBackgroundShiftRangeAutoTest is started :
+[8499200] INFO: Test Simd::Base::EdgeBackgroundShiftRange & SimdEdgeBackgroundShiftRange [1920, 1080].
+[8499200] INFO: Test Simd::Base::EdgeBackgroundShiftRange & SimdEdgeBackgroundShiftRange [1929, 1071].
+[8499200] INFO: Test Simd::Base::EdgeBackgroundShiftRange & SimdEdgeBackgroundShiftRange [1911, 1089].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundShiftRange & SimdEdgeBackgroundShiftRange [1920, 1080].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundShiftRange & SimdEdgeBackgroundShiftRange [1929, 1071].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundShiftRange & SimdEdgeBackgroundShiftRange [1911, 1089].
+[8499200] INFO: EdgeBackgroundShiftRangeAutoTest is finished successfully.
+
+[8499200] INFO: EdgeBackgroundShiftRangeMaskedAutoTest is started :
+[8499200] INFO: Test Simd::Base::EdgeBackgroundShiftRangeMasked & SimdEdgeBackgroundShiftRangeMasked [1920, 1080].
+[8499200] INFO: Test Simd::Base::EdgeBackgroundShiftRangeMasked & SimdEdgeBackgroundShiftRangeMasked [1929, 1071].
+[8499200] INFO: Test Simd::Base::EdgeBackgroundShiftRangeMasked & SimdEdgeBackgroundShiftRangeMasked [1911, 1089].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundShiftRangeMasked & SimdEdgeBackgroundShiftRangeMasked [1920, 1080].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundShiftRangeMasked & SimdEdgeBackgroundShiftRangeMasked [1929, 1071].
+[8499200] INFO: Test Simd::Msa::EdgeBackgroundShiftRangeMasked & SimdEdgeBackgroundShiftRangeMasked [1911, 1089].
+[8499200] INFO: EdgeBackgroundShiftRangeMaskedAutoTest is finished successfully.
+
+[8499200] INFO: FillAutoTest is started :
+[8499200] INFO: Test Simd::Base::Fill<1> & SimdFill<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Fill<1> & SimdFill<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Fill<1> & SimdFill<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Fill<2> & SimdFill<2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Fill<2> & SimdFill<2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Fill<2> & SimdFill<2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Fill<3> & SimdFill<3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Fill<3> & SimdFill<3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Fill<3> & SimdFill<3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Fill<4> & SimdFill<4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Fill<4> & SimdFill<4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Fill<4> & SimdFill<4> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Fill<2> & SimdFill<2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Fill<2> & SimdFill<2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Fill<2> & SimdFill<2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Fill<4> & SimdFill<4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Fill<4> & SimdFill<4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Fill<4> & SimdFill<4> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Fill<8> & SimdFill<8> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Fill<8> & SimdFill<8> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Fill<8> & SimdFill<8> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Fill<1> & SimdFill<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Fill<1> & SimdFill<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Fill<1> & SimdFill<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Fill<1> & SimdFill<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Fill<1> & SimdFill<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Fill<1> & SimdFill<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Fill<1> & SimdFill<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Fill<1> & SimdFill<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Fill<1> & SimdFill<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Fill<1> & SimdFill<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Fill<1> & SimdFill<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Fill<1> & SimdFill<1> [1911, 1089].
+[8499200] INFO: FillAutoTest is finished successfully.
+
+[8499200] INFO: FillFrameAutoTest is started :
+[8499200] INFO: Test Simd::Base::FillFrame<1> & SimdFillFrame<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::FillFrame<1> & SimdFillFrame<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::FillFrame<1> & SimdFillFrame<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::FillFrame<2> & SimdFillFrame<2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::FillFrame<2> & SimdFillFrame<2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::FillFrame<2> & SimdFillFrame<2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::FillFrame<3> & SimdFillFrame<3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::FillFrame<3> & SimdFillFrame<3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::FillFrame<3> & SimdFillFrame<3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::FillFrame<4> & SimdFillFrame<4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::FillFrame<4> & SimdFillFrame<4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::FillFrame<4> & SimdFillFrame<4> [1911, 1089].
+[8499200] INFO: Test Simd::Base::FillFrame<2> & SimdFillFrame<2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::FillFrame<2> & SimdFillFrame<2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::FillFrame<2> & SimdFillFrame<2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::FillFrame<4> & SimdFillFrame<4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::FillFrame<4> & SimdFillFrame<4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::FillFrame<4> & SimdFillFrame<4> [1911, 1089].
+[8499200] INFO: Test Simd::Base::FillFrame<8> & SimdFillFrame<8> [1920, 1080].
+[8499200] INFO: Test Simd::Base::FillFrame<8> & SimdFillFrame<8> [1929, 1071].
+[8499200] INFO: Test Simd::Base::FillFrame<8> & SimdFillFrame<8> [1911, 1089].
+[8499200] INFO: Test Simd::Base::FillFrame<1> & SimdFillFrame<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::FillFrame<1> & SimdFillFrame<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::FillFrame<1> & SimdFillFrame<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::FillFrame<1> & SimdFillFrame<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::FillFrame<1> & SimdFillFrame<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::FillFrame<1> & SimdFillFrame<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::FillFrame<1> & SimdFillFrame<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::FillFrame<1> & SimdFillFrame<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::FillFrame<1> & SimdFillFrame<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::FillFrame<1> & SimdFillFrame<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::FillFrame<1> & SimdFillFrame<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::FillFrame<1> & SimdFillFrame<1> [1911, 1089].
+[8499200] INFO: FillFrameAutoTest is finished successfully.
+
+[8499200] INFO: FillBgraAutoTest is started :
+[8499200] INFO: Test Simd::Base::FillBgra & SimdFillBgra [1920, 1080].
+[8499200] INFO: Test Simd::Base::FillBgra & SimdFillBgra [1929, 1071].
+[8499200] INFO: Test Simd::Base::FillBgra & SimdFillBgra [1911, 1089].
+[8499200] INFO: Test Simd::Msa::FillBgra & SimdFillBgra [1920, 1080].
+[8499200] INFO: Test Simd::Msa::FillBgra & SimdFillBgra [1929, 1071].
+[8499200] INFO: Test Simd::Msa::FillBgra & SimdFillBgra [1911, 1089].
+[8499200] INFO: FillBgraAutoTest is finished successfully.
+
+[8499200] INFO: FillBgrAutoTest is started :
+[8499200] INFO: Test Simd::Base::FillBgr & SimdFillBgr [1920, 1080].
+[8499200] INFO: Test Simd::Base::FillBgr & SimdFillBgr [1929, 1071].
+[8499200] INFO: Test Simd::Base::FillBgr & SimdFillBgr [1911, 1089].
+[8499200] INFO: Test Simd::Msa::FillBgr & SimdFillBgr [1920, 1080].
+[8499200] INFO: Test Simd::Msa::FillBgr & SimdFillBgr [1929, 1071].
+[8499200] INFO: Test Simd::Msa::FillBgr & SimdFillBgr [1911, 1089].
+[8499200] INFO: FillBgrAutoTest is finished successfully.
+
+[8499200] INFO: MeanFilter3x3AutoTest is started :
+[8499200] INFO: Test Simd::Base::MeanFilter3x3<1> & SimdMeanFilter3x3<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MeanFilter3x3<1> & SimdMeanFilter3x3<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MeanFilter3x3<1> & SimdMeanFilter3x3<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::MeanFilter3x3<2> & SimdMeanFilter3x3<2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MeanFilter3x3<2> & SimdMeanFilter3x3<2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MeanFilter3x3<2> & SimdMeanFilter3x3<2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::MeanFilter3x3<3> & SimdMeanFilter3x3<3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MeanFilter3x3<3> & SimdMeanFilter3x3<3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MeanFilter3x3<3> & SimdMeanFilter3x3<3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::MeanFilter3x3<4> & SimdMeanFilter3x3<4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MeanFilter3x3<4> & SimdMeanFilter3x3<4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MeanFilter3x3<4> & SimdMeanFilter3x3<4> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MeanFilter3x3<1> & SimdMeanFilter3x3<1> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MeanFilter3x3<1> & SimdMeanFilter3x3<1> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MeanFilter3x3<1> & SimdMeanFilter3x3<1> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MeanFilter3x3<2> & SimdMeanFilter3x3<2> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MeanFilter3x3<2> & SimdMeanFilter3x3<2> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MeanFilter3x3<2> & SimdMeanFilter3x3<2> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MeanFilter3x3<3> & SimdMeanFilter3x3<3> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MeanFilter3x3<3> & SimdMeanFilter3x3<3> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MeanFilter3x3<3> & SimdMeanFilter3x3<3> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MeanFilter3x3<4> & SimdMeanFilter3x3<4> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MeanFilter3x3<4> & SimdMeanFilter3x3<4> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MeanFilter3x3<4> & SimdMeanFilter3x3<4> [1911, 1089].
+[8499200] INFO: MeanFilter3x3AutoTest is finished successfully.
+
+[8499200] INFO: MedianFilterRhomb3x3AutoTest is started :
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb3x3<1> & SimdMedianFilterRhomb3x3<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb3x3<1> & SimdMedianFilterRhomb3x3<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb3x3<1> & SimdMedianFilterRhomb3x3<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb3x3<2> & SimdMedianFilterRhomb3x3<2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb3x3<2> & SimdMedianFilterRhomb3x3<2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb3x3<2> & SimdMedianFilterRhomb3x3<2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb3x3<3> & SimdMedianFilterRhomb3x3<3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb3x3<3> & SimdMedianFilterRhomb3x3<3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb3x3<3> & SimdMedianFilterRhomb3x3<3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb3x3<4> & SimdMedianFilterRhomb3x3<4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb3x3<4> & SimdMedianFilterRhomb3x3<4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb3x3<4> & SimdMedianFilterRhomb3x3<4> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb3x3<1> & SimdMedianFilterRhomb3x3<1> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb3x3<1> & SimdMedianFilterRhomb3x3<1> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb3x3<1> & SimdMedianFilterRhomb3x3<1> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb3x3<2> & SimdMedianFilterRhomb3x3<2> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb3x3<2> & SimdMedianFilterRhomb3x3<2> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb3x3<2> & SimdMedianFilterRhomb3x3<2> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb3x3<3> & SimdMedianFilterRhomb3x3<3> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb3x3<3> & SimdMedianFilterRhomb3x3<3> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb3x3<3> & SimdMedianFilterRhomb3x3<3> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb3x3<4> & SimdMedianFilterRhomb3x3<4> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb3x3<4> & SimdMedianFilterRhomb3x3<4> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb3x3<4> & SimdMedianFilterRhomb3x3<4> [1911, 1089].
+[8499200] INFO: MedianFilterRhomb3x3AutoTest is finished successfully.
+
+[8499200] INFO: MedianFilterRhomb5x5AutoTest is started :
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb5x5<1> & SimdMedianFilterRhomb5x5<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb5x5<1> & SimdMedianFilterRhomb5x5<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb5x5<1> & SimdMedianFilterRhomb5x5<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb5x5<2> & SimdMedianFilterRhomb5x5<2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb5x5<2> & SimdMedianFilterRhomb5x5<2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb5x5<2> & SimdMedianFilterRhomb5x5<2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb5x5<3> & SimdMedianFilterRhomb5x5<3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb5x5<3> & SimdMedianFilterRhomb5x5<3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb5x5<3> & SimdMedianFilterRhomb5x5<3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb5x5<4> & SimdMedianFilterRhomb5x5<4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb5x5<4> & SimdMedianFilterRhomb5x5<4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterRhomb5x5<4> & SimdMedianFilterRhomb5x5<4> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb5x5<1> & SimdMedianFilterRhomb5x5<1> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb5x5<1> & SimdMedianFilterRhomb5x5<1> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb5x5<1> & SimdMedianFilterRhomb5x5<1> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb5x5<2> & SimdMedianFilterRhomb5x5<2> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb5x5<2> & SimdMedianFilterRhomb5x5<2> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb5x5<2> & SimdMedianFilterRhomb5x5<2> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb5x5<3> & SimdMedianFilterRhomb5x5<3> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb5x5<3> & SimdMedianFilterRhomb5x5<3> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb5x5<3> & SimdMedianFilterRhomb5x5<3> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb5x5<4> & SimdMedianFilterRhomb5x5<4> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb5x5<4> & SimdMedianFilterRhomb5x5<4> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterRhomb5x5<4> & SimdMedianFilterRhomb5x5<4> [1911, 1089].
+[8499200] INFO: MedianFilterRhomb5x5AutoTest is finished successfully.
+
+[8499200] INFO: MedianFilterSquare3x3AutoTest is started :
+[8499200] INFO: Test Simd::Base::MedianFilterSquare3x3<1> & SimdMedianFilterSquare3x3<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare3x3<1> & SimdMedianFilterSquare3x3<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare3x3<1> & SimdMedianFilterSquare3x3<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare3x3<2> & SimdMedianFilterSquare3x3<2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare3x3<2> & SimdMedianFilterSquare3x3<2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare3x3<2> & SimdMedianFilterSquare3x3<2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare3x3<3> & SimdMedianFilterSquare3x3<3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare3x3<3> & SimdMedianFilterSquare3x3<3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare3x3<3> & SimdMedianFilterSquare3x3<3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare3x3<4> & SimdMedianFilterSquare3x3<4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare3x3<4> & SimdMedianFilterSquare3x3<4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare3x3<4> & SimdMedianFilterSquare3x3<4> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare3x3<1> & SimdMedianFilterSquare3x3<1> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare3x3<1> & SimdMedianFilterSquare3x3<1> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare3x3<1> & SimdMedianFilterSquare3x3<1> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare3x3<2> & SimdMedianFilterSquare3x3<2> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare3x3<2> & SimdMedianFilterSquare3x3<2> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare3x3<2> & SimdMedianFilterSquare3x3<2> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare3x3<3> & SimdMedianFilterSquare3x3<3> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare3x3<3> & SimdMedianFilterSquare3x3<3> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare3x3<3> & SimdMedianFilterSquare3x3<3> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare3x3<4> & SimdMedianFilterSquare3x3<4> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare3x3<4> & SimdMedianFilterSquare3x3<4> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare3x3<4> & SimdMedianFilterSquare3x3<4> [1911, 1089].
+[8499200] INFO: MedianFilterSquare3x3AutoTest is finished successfully.
+
+[8499200] INFO: MedianFilterSquare5x5AutoTest is started :
+[8499200] INFO: Test Simd::Base::MedianFilterSquare5x5<1> & SimdMedianFilterSquare5x5<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare5x5<1> & SimdMedianFilterSquare5x5<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare5x5<1> & SimdMedianFilterSquare5x5<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare5x5<2> & SimdMedianFilterSquare5x5<2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare5x5<2> & SimdMedianFilterSquare5x5<2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare5x5<2> & SimdMedianFilterSquare5x5<2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare5x5<3> & SimdMedianFilterSquare5x5<3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare5x5<3> & SimdMedianFilterSquare5x5<3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare5x5<3> & SimdMedianFilterSquare5x5<3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare5x5<4> & SimdMedianFilterSquare5x5<4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare5x5<4> & SimdMedianFilterSquare5x5<4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::MedianFilterSquare5x5<4> & SimdMedianFilterSquare5x5<4> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare5x5<1> & SimdMedianFilterSquare5x5<1> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare5x5<1> & SimdMedianFilterSquare5x5<1> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare5x5<1> & SimdMedianFilterSquare5x5<1> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare5x5<2> & SimdMedianFilterSquare5x5<2> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare5x5<2> & SimdMedianFilterSquare5x5<2> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare5x5<2> & SimdMedianFilterSquare5x5<2> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare5x5<3> & SimdMedianFilterSquare5x5<3> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare5x5<3> & SimdMedianFilterSquare5x5<3> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare5x5<3> & SimdMedianFilterSquare5x5<3> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare5x5<4> & SimdMedianFilterSquare5x5<4> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare5x5<4> & SimdMedianFilterSquare5x5<4> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::MedianFilterSquare5x5<4> & SimdMedianFilterSquare5x5<4> [1911, 1089].
+[8499200] INFO: MedianFilterSquare5x5AutoTest is finished successfully.
+
+[8499200] INFO: GaussianBlur3x3AutoTest is started :
+[8499200] INFO: Test Simd::Base::GaussianBlur3x3<1> & SimdGaussianBlur3x3<1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::GaussianBlur3x3<1> & SimdGaussianBlur3x3<1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::GaussianBlur3x3<1> & SimdGaussianBlur3x3<1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::GaussianBlur3x3<2> & SimdGaussianBlur3x3<2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::GaussianBlur3x3<2> & SimdGaussianBlur3x3<2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::GaussianBlur3x3<2> & SimdGaussianBlur3x3<2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::GaussianBlur3x3<3> & SimdGaussianBlur3x3<3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::GaussianBlur3x3<3> & SimdGaussianBlur3x3<3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::GaussianBlur3x3<3> & SimdGaussianBlur3x3<3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::GaussianBlur3x3<4> & SimdGaussianBlur3x3<4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::GaussianBlur3x3<4> & SimdGaussianBlur3x3<4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::GaussianBlur3x3<4> & SimdGaussianBlur3x3<4> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::GaussianBlur3x3<1> & SimdGaussianBlur3x3<1> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::GaussianBlur3x3<1> & SimdGaussianBlur3x3<1> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::GaussianBlur3x3<1> & SimdGaussianBlur3x3<1> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::GaussianBlur3x3<2> & SimdGaussianBlur3x3<2> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::GaussianBlur3x3<2> & SimdGaussianBlur3x3<2> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::GaussianBlur3x3<2> & SimdGaussianBlur3x3<2> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::GaussianBlur3x3<3> & SimdGaussianBlur3x3<3> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::GaussianBlur3x3<3> & SimdGaussianBlur3x3<3> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::GaussianBlur3x3<3> & SimdGaussianBlur3x3<3> [1911, 1089].
+[8499200] INFO: Test Simd::Msa::GaussianBlur3x3<4> & SimdGaussianBlur3x3<4> [1920, 1080].
+[8499200] INFO: Test Simd::Msa::GaussianBlur3x3<4> & SimdGaussianBlur3x3<4> [1929, 1071].
+[8499200] INFO: Test Simd::Msa::GaussianBlur3x3<4> & SimdGaussianBlur3x3<4> [1911, 1089].
+[8499200] INFO: GaussianBlur3x3AutoTest is finished successfully.
+
+[8499200] INFO: AbsGradientSaturatedSumAutoTest is started :
+[8499200] INFO: Test Simd::Base::AbsGradientSaturatedSum & SimdAbsGradientSaturatedSum [1920, 1080].
+[8499200] INFO: Test Simd::Base::AbsGradientSaturatedSum & SimdAbsGradientSaturatedSum [1929, 1071].
+[8499200] INFO: Test Simd::Base::AbsGradientSaturatedSum & SimdAbsGradientSaturatedSum [1911, 1089].
+[8499200] INFO: AbsGradientSaturatedSumAutoTest is finished successfully.
+
+[8499200] INFO: LbpEstimateAutoTest is started :
+[8499200] INFO: Test Simd::Base::LbpEstimate & SimdLbpEstimate [1920, 1080].
+[8499200] INFO: Test Simd::Base::LbpEstimate & SimdLbpEstimate [1929, 1071].
+[8499200] INFO: Test Simd::Base::LbpEstimate & SimdLbpEstimate [1911, 1089].
+[8499200] INFO: LbpEstimateAutoTest is finished successfully.
+
+[8499200] INFO: NormalizeHistogramAutoTest is started :
+[8499200] INFO: Test Simd::Base::NormalizeHistogram & SimdNormalizeHistogram [1920, 1080].
+[8499200] INFO: Test Simd::Base::NormalizeHistogram & SimdNormalizeHistogram [1929, 1071].
+[8499200] INFO: Test Simd::Base::NormalizeHistogram & SimdNormalizeHistogram [1911, 1089].
+[8499200] INFO: NormalizeHistogramAutoTest is finished successfully.
+
+[8499200] INFO: SobelDxAutoTest is started :
+[8499200] INFO: Test Simd::Base::SobelDx & SimdSobelDx [1920, 1080].
+[8499200] INFO: Test Simd::Base::SobelDx & SimdSobelDx [1929, 1071].
+[8499200] INFO: Test Simd::Base::SobelDx & SimdSobelDx [1911, 1089].
+[8499200] INFO: Test Simd::Msa::SobelDx & SimdSobelDx [1920, 1080].
+[8499200] INFO: Test Simd::Msa::SobelDx & SimdSobelDx [1929, 1071].
+[8499200] INFO: Test Simd::Msa::SobelDx & SimdSobelDx [1911, 1089].
+[8499200] INFO: SobelDxAutoTest is finished successfully.
+
+[8499200] INFO: SobelDxAbsAutoTest is started :
+[8499200] INFO: Test Simd::Base::SobelDxAbs & SimdSobelDxAbs [1920, 1080].
+[8499200] INFO: Test Simd::Base::SobelDxAbs & SimdSobelDxAbs [1929, 1071].
+[8499200] INFO: Test Simd::Base::SobelDxAbs & SimdSobelDxAbs [1911, 1089].
+[8499200] INFO: Test Simd::Msa::SobelDxAbs & SimdSobelDxAbs [1920, 1080].
+[8499200] INFO: Test Simd::Msa::SobelDxAbs & SimdSobelDxAbs [1929, 1071].
+[8499200] INFO: Test Simd::Msa::SobelDxAbs & SimdSobelDxAbs [1911, 1089].
+[8499200] INFO: SobelDxAbsAutoTest is finished successfully.
+
+[8499200] INFO: SobelDyAutoTest is started :
+[8499200] INFO: Test Simd::Base::SobelDy & SimdSobelDy [1920, 1080].
+[8499200] INFO: Test Simd::Base::SobelDy & SimdSobelDy [1929, 1071].
+[8499200] INFO: Test Simd::Base::SobelDy & SimdSobelDy [1911, 1089].
+[8499200] INFO: Test Simd::Msa::SobelDy & SimdSobelDy [1920, 1080].
+[8499200] INFO: Test Simd::Msa::SobelDy & SimdSobelDy [1929, 1071].
+[8499200] INFO: Test Simd::Msa::SobelDy & SimdSobelDy [1911, 1089].
+[8499200] INFO: SobelDyAutoTest is finished successfully.
+
+[8499200] INFO: SobelDyAbsAutoTest is started :
+[8499200] INFO: Test Simd::Base::SobelDyAbs & SimdSobelDyAbs [1920, 1080].
+[8499200] INFO: Test Simd::Base::SobelDyAbs & SimdSobelDyAbs [1929, 1071].
+[8499200] INFO: Test Simd::Base::SobelDyAbs & SimdSobelDyAbs [1911, 1089].
+[8499200] INFO: Test Simd::Msa::SobelDyAbs & SimdSobelDyAbs [1920, 1080].
+[8499200] INFO: Test Simd::Msa::SobelDyAbs & SimdSobelDyAbs [1929, 1071].
+[8499200] INFO: Test Simd::Msa::SobelDyAbs & SimdSobelDyAbs [1911, 1089].
+[8499200] INFO: SobelDyAbsAutoTest is finished successfully.
+
+[8499200] INFO: ContourMetricsAutoTest is started :
+[8499200] INFO: Test Simd::Base::ContourMetrics & SimdContourMetrics [1920, 1080].
+[8499200] INFO: Test Simd::Base::ContourMetrics & SimdContourMetrics [1929, 1071].
+[8499200] INFO: Test Simd::Base::ContourMetrics & SimdContourMetrics [1911, 1089].
+[8499200] INFO: Test Simd::Msa::ContourMetrics & SimdContourMetrics [1920, 1080].
+[8499200] INFO: Test Simd::Msa::ContourMetrics & SimdContourMetrics [1929, 1071].
+[8499200] INFO: Test Simd::Msa::ContourMetrics & SimdContourMetrics [1911, 1089].
+[8499200] INFO: ContourMetricsAutoTest is finished successfully.
+
+[8499200] INFO: LaplaceAutoTest is started :
+[8499200] INFO: Test Simd::Base::Laplace & SimdLaplace [1920, 1080].
+[8499200] INFO: Test Simd::Base::Laplace & SimdLaplace [1929, 1071].
+[8499200] INFO: Test Simd::Base::Laplace & SimdLaplace [1911, 1089].
+[8499200] INFO: Test Simd::Msa::Laplace & SimdLaplace [1920, 1080].
+[8499200] INFO: Test Simd::Msa::Laplace & SimdLaplace [1929, 1071].
+[8499200] INFO: Test Simd::Msa::Laplace & SimdLaplace [1911, 1089].
+[8499200] INFO: LaplaceAutoTest is finished successfully.
+
+[8499200] INFO: LaplaceAbsAutoTest is started :
+[8499200] INFO: Test Simd::Base::LaplaceAbs & SimdLaplaceAbs [1920, 1080].
+[8499200] INFO: Test Simd::Base::LaplaceAbs & SimdLaplaceAbs [1929, 1071].
+[8499200] INFO: Test Simd::Base::LaplaceAbs & SimdLaplaceAbs [1911, 1089].
+[8499200] INFO: Test Simd::Msa::LaplaceAbs & SimdLaplaceAbs [1920, 1080].
+[8499200] INFO: Test Simd::Msa::LaplaceAbs & SimdLaplaceAbs [1929, 1071].
+[8499200] INFO: Test Simd::Msa::LaplaceAbs & SimdLaplaceAbs [1911, 1089].
+[8499200] INFO: LaplaceAbsAutoTest is finished successfully.
+
+[8499200] INFO: HistogramAutoTest is started :
+[8499200] INFO: Test Simd::Base::Histogram & SimdHistogram [1920, 1080].
+[8499200] INFO: Test Simd::Base::Histogram & SimdHistogram [1929, 1071].
+[8499200] INFO: Test Simd::Base::Histogram & SimdHistogram [1911, 1089].
+[8499200] INFO: HistogramAutoTest is finished successfully.
+
+[8499200] INFO: HistogramMaskedAutoTest is started :
+[8499200] INFO: Test Simd::Base::HistogramMasked & SimdHistogramMasked [1920, 1080].
+[8499200] INFO: Test Simd::Base::HistogramMasked & SimdHistogramMasked [1929, 1071].
+[8499200] INFO: Test Simd::Base::HistogramMasked & SimdHistogramMasked [1911, 1089].
+[8499200] INFO: HistogramMaskedAutoTest is finished successfully.
+
+[8499200] INFO: HistogramConditionalAutoTest is started :
+[8499200] INFO: Test Simd::Base::HistogramConditional(==) & SimdHistogramConditional(==) [1920, 1080].
+[8499200] INFO: Test Simd::Base::HistogramConditional(==) & SimdHistogramConditional(==) [1929, 1071].
+[8499200] INFO: Test Simd::Base::HistogramConditional(==) & SimdHistogramConditional(==) [1911, 1089].
+[8499200] INFO: Test Simd::Base::HistogramConditional(!=) & SimdHistogramConditional(!=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::HistogramConditional(!=) & SimdHistogramConditional(!=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::HistogramConditional(!=) & SimdHistogramConditional(!=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::HistogramConditional(> ) & SimdHistogramConditional(> ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::HistogramConditional(> ) & SimdHistogramConditional(> ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::HistogramConditional(> ) & SimdHistogramConditional(> ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::HistogramConditional(>=) & SimdHistogramConditional(>=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::HistogramConditional(>=) & SimdHistogramConditional(>=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::HistogramConditional(>=) & SimdHistogramConditional(>=) [1911, 1089].
+[8499200] INFO: Test Simd::Base::HistogramConditional(< ) & SimdHistogramConditional(< ) [1920, 1080].
+[8499200] INFO: Test Simd::Base::HistogramConditional(< ) & SimdHistogramConditional(< ) [1929, 1071].
+[8499200] INFO: Test Simd::Base::HistogramConditional(< ) & SimdHistogramConditional(< ) [1911, 1089].
+[8499200] INFO: Test Simd::Base::HistogramConditional(<=) & SimdHistogramConditional(<=) [1920, 1080].
+[8499200] INFO: Test Simd::Base::HistogramConditional(<=) & SimdHistogramConditional(<=) [1929, 1071].
+[8499200] INFO: Test Simd::Base::HistogramConditional(<=) & SimdHistogramConditional(<=) [1911, 1089].
+[8499200] INFO: HistogramConditionalAutoTest is finished successfully.
+
+[8499200] INFO: AbsSecondDerivativeHistogramAutoTest is started :
+[8499200] INFO: Test Simd::Base::AbsSecondDerivativeHistogram & SimdAbsSecondDerivativeHistogram [1920, 1080] (1, 16).
+[8499200] INFO: Test Simd::Base::AbsSecondDerivativeHistogram & SimdAbsSecondDerivativeHistogram [1929, 1071] (2, 16).
+[8499200] INFO: Test Simd::Base::AbsSecondDerivativeHistogram & SimdAbsSecondDerivativeHistogram [1920, 1080] (3, 8).
+[8499200] INFO: Test Simd::Base::AbsSecondDerivativeHistogram & SimdAbsSecondDerivativeHistogram [1911, 1089] (4, 8).
+[8499200] INFO: AbsSecondDerivativeHistogramAutoTest is finished successfully.
+
+[8499200] INFO: HogDirectionHistogramsAutoTest is started :
+[8499200] INFO: Test Simd::Base::HogDirectionHistograms & SimdHogDirectionHistograms [1920, 1080].
+[8499200] INFO: Test Simd::Base::HogDirectionHistograms & SimdHogDirectionHistograms [1928, 1088].
+[8499200] INFO: Test Simd::Base::HogDirectionHistograms & SimdHogDirectionHistograms [1912, 1072].
+[8499200] INFO: HogDirectionHistogramsAutoTest is finished successfully.
+
+[8499200] INFO: HogExtractFeaturesAutoTest is started :
+[8499200] INFO: Test Simd::Base::HogExtractFeatures & SimdHogExtractFeatures [1920, 1080].
+[8499200] INFO: Test Simd::Base::HogExtractFeatures & SimdHogExtractFeatures [1928, 1072].
+[8499200] INFO: HogExtractFeaturesAutoTest is finished successfully.
+
+[8499200] INFO: IntegralAutoTest is started :
+[8499200] INFO: Test Simd::Base::Integral<4><4><100> & SimdIntegral<4><4><100> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Integral<4><4><100> & SimdIntegral<4><4><100> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Integral<4><4><100> & SimdIntegral<4><4><100> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Integral<4><4><101> & SimdIntegral<4><4><101> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Integral<4><4><101> & SimdIntegral<4><4><101> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Integral<4><4><101> & SimdIntegral<4><4><101> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Integral<4><4><110> & SimdIntegral<4><4><110> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Integral<4><4><110> & SimdIntegral<4><4><110> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Integral<4><4><110> & SimdIntegral<4><4><110> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Integral<4><4><111> & SimdIntegral<4><4><111> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Integral<4><4><111> & SimdIntegral<4><4><111> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Integral<4><4><111> & SimdIntegral<4><4><111> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Integral<4><8><100> & SimdIntegral<4><8><100> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Integral<4><8><100> & SimdIntegral<4><8><100> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Integral<4><8><100> & SimdIntegral<4><8><100> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Integral<4><8><101> & SimdIntegral<4><8><101> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Integral<4><8><101> & SimdIntegral<4><8><101> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Integral<4><8><101> & SimdIntegral<4><8><101> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Integral<4><8><110> & SimdIntegral<4><8><110> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Integral<4><8><110> & SimdIntegral<4><8><110> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Integral<4><8><110> & SimdIntegral<4><8><110> [1911, 1089].
+[8499200] INFO: Test Simd::Base::Integral<4><8><111> & SimdIntegral<4><8><111> [1920, 1080].
+[8499200] INFO: Test Simd::Base::Integral<4><8><111> & SimdIntegral<4><8><111> [1929, 1071].
+[8499200] INFO: Test Simd::Base::Integral<4><8><111> & SimdIntegral<4><8><111> [1911, 1089].
+[8499200] INFO: IntegralAutoTest is finished successfully.
+
+[8499200] INFO: InterferenceIncrementAutoTest is started :
+[8499200] INFO: Test Simd::Base::InterferenceIncrement & SimdInterferenceIncrement [1920, 1080].
+[8499200] INFO: Test Simd::Base::InterferenceIncrement & SimdInterferenceIncrement [1929, 1071].
+[8499200] INFO: Test Simd::Base::InterferenceIncrement & SimdInterferenceIncrement [1911, 1089].
+[8499200] INFO: InterferenceIncrementAutoTest is finished successfully.
+
+[8499200] INFO: InterferenceIncrementMaskedAutoTest is started :
+[8499200] INFO: Test Simd::Base::InterferenceIncrementMasked & SimdInterferenceIncrementMasked [1920, 1080].
+[8499200] INFO: Test Simd::Base::InterferenceIncrementMasked & SimdInterferenceIncrementMasked [1929, 1071].
+[8499200] INFO: Test Simd::Base::InterferenceIncrementMasked & SimdInterferenceIncrementMasked [1911, 1089].
+[8499200] INFO: InterferenceIncrementMaskedAutoTest is finished successfully.
+
+[8499200] INFO: InterferenceDecrementAutoTest is started :
+[8499200] INFO: Test Simd::Base::InterferenceDecrement & SimdInterferenceDecrement [1920, 1080].
+[8499200] INFO: Test Simd::Base::InterferenceDecrement & SimdInterferenceDecrement [1929, 1071].
+[8499200] INFO: Test Simd::Base::InterferenceDecrement & SimdInterferenceDecrement [1911, 1089].
+[8499200] INFO: InterferenceDecrementAutoTest is finished successfully.
+
+[8499200] INFO: InterferenceDecrementMaskedAutoTest is started :
+[8499200] INFO: Test Simd::Base::InterferenceDecrementMasked & SimdInterferenceDecrementMasked [1920, 1080].
+[8499200] INFO: Test Simd::Base::InterferenceDecrementMasked & SimdInterferenceDecrementMasked [1929, 1071].
+[8499200] INFO: Test Simd::Base::InterferenceDecrementMasked & SimdInterferenceDecrementMasked [1911, 1089].
+[8499200] INFO: InterferenceDecrementMaskedAutoTest is finished successfully.
+
+[8499200] INFO: InterleaveUvAutoTest is started :
+[8499200] INFO: Test Simd::Base::InterleaveUv & SimdInterleaveUv [1920, 1080].
+[8499200] INFO: Test Simd::Base::InterleaveUv & SimdInterleaveUv [1929, 1071].
+[8499200] INFO: Test Simd::Base::InterleaveUv & SimdInterleaveUv [1911, 1089].
+[8499200] INFO: InterleaveUvAutoTest is finished successfully.
+
+[8499200] INFO: InterleaveBgrAutoTest is started :
+[8499200] INFO: Test Simd::Base::InterleaveBgr & SimdInterleaveBgr [1920, 1080].
+[8499200] INFO: Test Simd::Base::InterleaveBgr & SimdInterleaveBgr [1929, 1071].
+[8499200] INFO: Test Simd::Base::InterleaveBgr & SimdInterleaveBgr [1911, 1089].
+[8499200] INFO: InterleaveBgrAutoTest is finished successfully.
+
+[8499200] INFO: InterleaveBgraAutoTest is started :
+[8499200] INFO: Test Simd::Base::InterleaveBgra & SimdInterleaveBgra [1920, 1080].
+[8499200] INFO: Test Simd::Base::InterleaveBgra & SimdInterleaveBgra [1929, 1071].
+[8499200] INFO: Test Simd::Base::InterleaveBgra & SimdInterleaveBgra [1911, 1089].
+[8499200] INFO: InterleaveBgraAutoTest is finished successfully.
+
+[8499200] INFO: NeuralConvertAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralConvert[1] & SimdNeuralConvert[1] [1920, 1080].
+[8499200] INFO: Test Simd::Base::NeuralConvert[1] & SimdNeuralConvert[1] [1911, 1089].
+[8499200] INFO: Test Simd::Base::NeuralConvert[1] & SimdNeuralConvert[1] [1929, 1071].
+[8499200] INFO: Test Simd::Base::NeuralConvert[0] & SimdNeuralConvert[0] [1920, 1080].
+[8499200] INFO: Test Simd::Base::NeuralConvert[0] & SimdNeuralConvert[0] [1911, 1089].
+[8499200] INFO: Test Simd::Base::NeuralConvert[0] & SimdNeuralConvert[0] [1929, 1071].
+[8499200] INFO: NeuralConvertAutoTest is finished successfully.
+
+[8499200] INFO: NeuralProductSumAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralProductSum & SimdNeuralProductSum [2073600].
+[8499200] INFO: Test Simd::Base::NeuralProductSum & SimdNeuralProductSum [2073609].
+[8499200] INFO: Test Simd::Base::NeuralProductSum & SimdNeuralProductSum [2073591].
+[8499200] INFO: NeuralProductSumAutoTest is finished successfully.
+
+[8499200] INFO: NeuralAddVectorMultipliedByValueAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralAddVectorMultipliedByValue & SimdNeuralAddVectorMultipliedByValue [2073600].
+[8499200] INFO: Test Simd::Base::NeuralAddVectorMultipliedByValue & SimdNeuralAddVectorMultipliedByValue [2073609].
+[8499200] INFO: Test Simd::Base::NeuralAddVectorMultipliedByValue & SimdNeuralAddVectorMultipliedByValue [2073591].
+[8499200] INFO: NeuralAddVectorMultipliedByValueAutoTest is finished successfully.
+
+[8499200] INFO: NeuralSigmoidAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralSigmoid & SimdNeuralSigmoid [2073600].
+[8499200] INFO: Test Simd::Base::NeuralSigmoid & SimdNeuralSigmoid [2073609].
+[8499200] INFO: Test Simd::Base::NeuralSigmoid & SimdNeuralSigmoid [2073591].
+[8499200] INFO: NeuralSigmoidAutoTest is finished successfully.
+
+[8499200] INFO: NeuralRoughSigmoidAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralRoughSigmoid & SimdNeuralRoughSigmoid [2073600].
+[8499200] INFO: Test Simd::Base::NeuralRoughSigmoid & SimdNeuralRoughSigmoid [2073609].
+[8499200] INFO: Test Simd::Base::NeuralRoughSigmoid & SimdNeuralRoughSigmoid [2073591].
+[8499200] INFO: NeuralRoughSigmoidAutoTest is finished successfully.
+
+[8499200] INFO: NeuralRoughSigmoid2AutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralRoughSigmoid2 & SimdNeuralRoughSigmoid2 [2073600].
+[8499200] INFO: Test Simd::Base::NeuralRoughSigmoid2 & SimdNeuralRoughSigmoid2 [2073609].
+[8499200] INFO: Test Simd::Base::NeuralRoughSigmoid2 & SimdNeuralRoughSigmoid2 [2073591].
+[8499200] INFO: NeuralRoughSigmoid2AutoTest is finished successfully.
+
+[8499200] INFO: NeuralDerivativeSigmoidAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralDerivativeSigmoid & SimdNeuralDerivativeSigmoid [2073600].
+[8499200] INFO: Test Simd::Base::NeuralDerivativeSigmoid & SimdNeuralDerivativeSigmoid [2073609].
+[8499200] INFO: Test Simd::Base::NeuralDerivativeSigmoid & SimdNeuralDerivativeSigmoid [2073591].
+[8499200] INFO: NeuralDerivativeSigmoidAutoTest is finished successfully.
+
+[8499200] INFO: NeuralTanhAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralTanh & SimdNeuralTanh [2073600].
+[8499200] INFO: Test Simd::Base::NeuralTanh & SimdNeuralTanh [2073609].
+[8499200] INFO: Test Simd::Base::NeuralTanh & SimdNeuralTanh [2073591].
+[8499200] INFO: NeuralTanhAutoTest is finished successfully.
+
+[8499200] INFO: NeuralRoughTanhAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralRoughTanh & SimdNeuralRoughTanh [2073600].
+[8499200] INFO: Test Simd::Base::NeuralRoughTanh & SimdNeuralRoughTanh [2073609].
+[8499200] INFO: Test Simd::Base::NeuralRoughTanh & SimdNeuralRoughTanh [2073591].
+[8499200] INFO: NeuralRoughTanhAutoTest is finished successfully.
+
+[8499200] INFO: NeuralDerivativeTanhAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralDerivativeTanh & SimdNeuralDerivativeTanh [2073600].
+[8499200] INFO: Test Simd::Base::NeuralDerivativeTanh & SimdNeuralDerivativeTanh [2073609].
+[8499200] INFO: Test Simd::Base::NeuralDerivativeTanh & SimdNeuralDerivativeTanh [2073591].
+[8499200] INFO: NeuralDerivativeTanhAutoTest is finished successfully.
+
+[8499200] INFO: NeuralReluAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralRelu & SimdNeuralRelu [2073600].
+[8499200] INFO: Test Simd::Base::NeuralRelu & SimdNeuralRelu [2073609].
+[8499200] INFO: Test Simd::Base::NeuralRelu & SimdNeuralRelu [2073591].
+[8499200] INFO: NeuralReluAutoTest is finished successfully.
+
+[8499200] INFO: NeuralDerivativeReluAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralDerivativeRelu & SimdNeuralDerivativeRelu [2073600].
+[8499200] INFO: Test Simd::Base::NeuralDerivativeRelu & SimdNeuralDerivativeRelu [2073609].
+[8499200] INFO: Test Simd::Base::NeuralDerivativeRelu & SimdNeuralDerivativeRelu [2073591].
+[8499200] INFO: NeuralDerivativeReluAutoTest is finished successfully.
+
+[8499200] INFO: NeuralUpdateWeightsAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralUpdateWeights & SimdNeuralUpdateWeights [2073600].
+[8499200] INFO: Test Simd::Base::NeuralUpdateWeights & SimdNeuralUpdateWeights [2073609].
+[8499200] INFO: Test Simd::Base::NeuralUpdateWeights & SimdNeuralUpdateWeights [2073591].
+[8499200] INFO: NeuralUpdateWeightsAutoTest is finished successfully.
+
+[8499200] INFO: NeuralAdaptiveGradientUpdateAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralAdaptiveGradientUpdate & SimdNeuralAdaptiveGradientUpdate [2073600].
+[8499200] INFO: Test Simd::Base::NeuralAdaptiveGradientUpdate & SimdNeuralAdaptiveGradientUpdate [2073609].
+[8499200] INFO: Test Simd::Base::NeuralAdaptiveGradientUpdate & SimdNeuralAdaptiveGradientUpdate [2073591].
+[8499200] INFO: NeuralAdaptiveGradientUpdateAutoTest is finished successfully.
+
+[8499200] INFO: NeuralAddConvolution3x3ForwardAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution3x3Forward & SimdNeuralAddConvolution3x3Forward [1920, 1080].
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution3x3Forward & SimdNeuralAddConvolution3x3Forward [1911, 1089].
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution3x3Forward & SimdNeuralAddConvolution3x3Forward [1929, 1071].
+[8499200] INFO: NeuralAddConvolution3x3ForwardAutoTest is finished successfully.
+
+[8499200] INFO: NeuralAddConvolution5x5ForwardAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution5x5Forward & SimdNeuralAddConvolution5x5Forward [1920, 1080].
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution5x5Forward & SimdNeuralAddConvolution5x5Forward [1911, 1089].
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution5x5Forward & SimdNeuralAddConvolution5x5Forward [1929, 1071].
+[8499200] INFO: NeuralAddConvolution5x5ForwardAutoTest is finished successfully.
+
+[8499200] INFO: NeuralAddConvolution3x3BackwardAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution3x3Backward & SimdNeuralAddConvolution3x3Backward [1920, 1080].
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution3x3Backward & SimdNeuralAddConvolution3x3Backward [1911, 1089].
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution3x3Backward & SimdNeuralAddConvolution3x3Backward [1929, 1071].
+[8499200] INFO: NeuralAddConvolution3x3BackwardAutoTest is finished successfully.
+
+[8499200] INFO: NeuralAddConvolution5x5BackwardAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution5x5Backward & SimdNeuralAddConvolution5x5Backward [1920, 1080].
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution5x5Backward & SimdNeuralAddConvolution5x5Backward [1911, 1089].
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution5x5Backward & SimdNeuralAddConvolution5x5Backward [1929, 1071].
+[8499200] INFO: NeuralAddConvolution5x5BackwardAutoTest is finished successfully.
+
+[8499200] INFO: NeuralAddConvolution3x3SumAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution3x3Sum & SimdNeuralAddConvolution3x3Sum [1920, 1080].
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution3x3Sum & SimdNeuralAddConvolution3x3Sum [1911, 1089].
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution3x3Sum & SimdNeuralAddConvolution3x3Sum [1929, 1071].
+[8499200] INFO: NeuralAddConvolution3x3SumAutoTest is finished successfully.
+
+[8499200] INFO: NeuralAddConvolution5x5SumAutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution5x5Sum & SimdNeuralAddConvolution5x5Sum [1920, 1080].
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution5x5Sum & SimdNeuralAddConvolution5x5Sum [1911, 1089].
+[8499200] INFO: Test Simd::Base::NeuralAddConvolution5x5Sum & SimdNeuralAddConvolution5x5Sum [1929, 1071].
+[8499200] INFO: NeuralAddConvolution5x5SumAutoTest is finished successfully.
+
+[8499200] INFO: NeuralMax2x2AutoTest is started :
+[8499200] INFO: Test Simd::Base::NeuralMax2x2 & SimdNeuralMax2x2 [1920, 1080].
+[8499200] INFO: Test Simd::Base::NeuralMax2x2 & SimdNeuralMax2x2 [1910, 1090].
+[8499200] INFO: Test Simd::Base::NeuralMax2x2 & SimdNeuralMax2x2 [1930, 1070].
+[8499200] INFO: NeuralMax2x2AutoTest is finished successfully.
+
+[8499200] INFO: OperationBinary8uAutoTest is started :
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Avg><1> & SimdOperationBinary8u<Avg><1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Avg><1> & SimdOperationBinary8u<Avg><1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Avg><1> & SimdOperationBinary8u<Avg><1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Avg><2> & SimdOperationBinary8u<Avg><2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Avg><2> & SimdOperationBinary8u<Avg><2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Avg><2> & SimdOperationBinary8u<Avg><2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Avg><3> & SimdOperationBinary8u<Avg><3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Avg><3> & SimdOperationBinary8u<Avg><3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Avg><3> & SimdOperationBinary8u<Avg><3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Avg><4> & SimdOperationBinary8u<Avg><4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Avg><4> & SimdOperationBinary8u<Avg><4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Avg><4> & SimdOperationBinary8u<Avg><4> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<And><1> & SimdOperationBinary8u<And><1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<And><1> & SimdOperationBinary8u<And><1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<And><1> & SimdOperationBinary8u<And><1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<And><2> & SimdOperationBinary8u<And><2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<And><2> & SimdOperationBinary8u<And><2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<And><2> & SimdOperationBinary8u<And><2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<And><3> & SimdOperationBinary8u<And><3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<And><3> & SimdOperationBinary8u<And><3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<And><3> & SimdOperationBinary8u<And><3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<And><4> & SimdOperationBinary8u<And><4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<And><4> & SimdOperationBinary8u<And><4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<And><4> & SimdOperationBinary8u<And><4> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Or><1> & SimdOperationBinary8u<Or><1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Or><1> & SimdOperationBinary8u<Or><1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Or><1> & SimdOperationBinary8u<Or><1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Or><2> & SimdOperationBinary8u<Or><2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Or><2> & SimdOperationBinary8u<Or><2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Or><2> & SimdOperationBinary8u<Or><2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Or><3> & SimdOperationBinary8u<Or><3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Or><3> & SimdOperationBinary8u<Or><3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Or><3> & SimdOperationBinary8u<Or><3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Or><4> & SimdOperationBinary8u<Or><4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Or><4> & SimdOperationBinary8u<Or><4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Or><4> & SimdOperationBinary8u<Or><4> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Max><1> & SimdOperationBinary8u<Max><1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Max><1> & SimdOperationBinary8u<Max><1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Max><1> & SimdOperationBinary8u<Max><1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Max><2> & SimdOperationBinary8u<Max><2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Max><2> & SimdOperationBinary8u<Max><2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Max><2> & SimdOperationBinary8u<Max><2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Max><3> & SimdOperationBinary8u<Max><3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Max><3> & SimdOperationBinary8u<Max><3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Max><3> & SimdOperationBinary8u<Max><3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Max><4> & SimdOperationBinary8u<Max><4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Max><4> & SimdOperationBinary8u<Max><4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Max><4> & SimdOperationBinary8u<Max><4> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Min><1> & SimdOperationBinary8u<Min><1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Min><1> & SimdOperationBinary8u<Min><1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Min><1> & SimdOperationBinary8u<Min><1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Min><2> & SimdOperationBinary8u<Min><2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Min><2> & SimdOperationBinary8u<Min><2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Min><2> & SimdOperationBinary8u<Min><2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Min><3> & SimdOperationBinary8u<Min><3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Min><3> & SimdOperationBinary8u<Min><3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Min><3> & SimdOperationBinary8u<Min><3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Min><4> & SimdOperationBinary8u<Min><4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Min><4> & SimdOperationBinary8u<Min><4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Min><4> & SimdOperationBinary8u<Min><4> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Subs><1> & SimdOperationBinary8u<Subs><1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Subs><1> & SimdOperationBinary8u<Subs><1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Subs><1> & SimdOperationBinary8u<Subs><1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Subs><2> & SimdOperationBinary8u<Subs><2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Subs><2> & SimdOperationBinary8u<Subs><2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Subs><2> & SimdOperationBinary8u<Subs><2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Subs><3> & SimdOperationBinary8u<Subs><3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Subs><3> & SimdOperationBinary8u<Subs><3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Subs><3> & SimdOperationBinary8u<Subs><3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Subs><4> & SimdOperationBinary8u<Subs><4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Subs><4> & SimdOperationBinary8u<Subs><4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Subs><4> & SimdOperationBinary8u<Subs><4> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Adds><1> & SimdOperationBinary8u<Adds><1> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Adds><1> & SimdOperationBinary8u<Adds><1> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Adds><1> & SimdOperationBinary8u<Adds><1> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Adds><2> & SimdOperationBinary8u<Adds><2> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Adds><2> & SimdOperationBinary8u<Adds><2> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Adds><2> & SimdOperationBinary8u<Adds><2> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Adds><3> & SimdOperationBinary8u<Adds><3> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Adds><3> & SimdOperationBinary8u<Adds><3> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Adds><3> & SimdOperationBinary8u<Adds><3> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Adds><4> & SimdOperationBinary8u<Adds><4> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Adds><4> & SimdOperationBinary8u<Adds><4> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary8u<Adds><4> & SimdOperationBinary8u<Adds><4> [1911, 1089].
+[8499200] INFO: OperationBinary8uAutoTest is finished successfully.
+
+[8499200] INFO: OperationBinary16iAutoTest is started :
+[8499200] INFO: Test Simd::Base::OperationBinary16i<Add> & SimdOperationBinary16i<Add> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary16i<Add> & SimdOperationBinary16i<Add> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary16i<Add> & SimdOperationBinary16i<Add> [1911, 1089].
+[8499200] INFO: Test Simd::Base::OperationBinary16i<Sub> & SimdOperationBinary16i<Sub> [1920, 1080].
+[8499200] INFO: Test Simd::Base::OperationBinary16i<Sub> & SimdOperationBinary16i<Sub> [1929, 1071].
+[8499200] INFO: Test Simd::Base::OperationBinary16i<Sub> & SimdOperationBinary16i<Sub> [1911, 1089].
+[8499200] INFO: OperationBinary16iAutoTest is finished successfully.
+
+[8499200] INFO: VectorProductAutoTest is started :
+[8499200] INFO: Test Simd::Base::VectorProduct & SimdVectorProduct [1920, 1080].
+[8499200] INFO: Test Simd::Base::VectorProduct & SimdVectorProduct [1911, 1089].
+[8499200] INFO: Test Simd::Base::VectorProduct & SimdVectorProduct [1929, 1071].
+[8499200] INFO: VectorProductAutoTest is finished successfully.
+
+[8499200] INFO: ReduceGray2x2AutoTest is started :
+[8499200] INFO: Test Simd::Base::ReduceGray2x2 & SimdReduceGray2x2 [1920, 1080].
+[8499200] INFO: Test Simd::Base::ReduceGray2x2 & SimdReduceGray2x2 [1930, 1070].
+[8499200] INFO: Test Simd::Base::ReduceGray2x2 & SimdReduceGray2x2 [1911, 1089].
+[8499200] INFO: ReduceGray2x2AutoTest is finished successfully.
+
+[8499200] INFO: ReduceGray3x3AutoTest is started :
+[8499200] INFO: Test Simd::Base::ReduceGray3x3[1] & SimdReduceGray3x3[1] [1920, 1080].
+[8499200] INFO: Test Simd::Base::ReduceGray3x3[1] & SimdReduceGray3x3[1] [1930, 1070].
+[8499200] INFO: Test Simd::Base::ReduceGray3x3[1] & SimdReduceGray3x3[1] [1911, 1089].
+[8499200] INFO: Test Simd::Base::ReduceGray3x3[0] & SimdReduceGray3x3[0] [1920, 1080].
+[8499200] INFO: Test Simd::Base::ReduceGray3x3[0] & SimdReduceGray3x3[0] [1930, 1070].
+[8499200] INFO: Test Simd::Base::ReduceGray3x3[0] & SimdReduceGray3x3[0] [1911, 1089].
+[8499200] INFO: ReduceGray3x3AutoTest is finished successfully.
+
+[8499200] INFO: ReduceGray4x4AutoTest is started :
+[8499200] INFO: Test Simd::Base::ReduceGray4x4 & SimdReduceGray4x4 [1920, 1080].
+[8499200] INFO: Test Simd::Base::ReduceGray4x4 & SimdReduceGray4x4 [1930, 1070].
+[8499200] INFO: Test Simd::Base::ReduceGray4x4 & SimdReduceGray4x4 [1911, 1089].
+[8499200] INFO: ReduceGray4x4AutoTest is finished successfully.
+
+[8499200] INFO: ReduceGray5x5AutoTest is started :
+[8499200] INFO: Test Simd::Base::ReduceGray5x5[1] & SimdReduceGray5x5[1] [1920, 1080].
+[8499200] INFO: Test Simd::Base::ReduceGray5x5[1] & SimdReduceGray5x5[1] [1930, 1070].
+[8499200] INFO: Test Simd::Base::ReduceGray5x5[1] & SimdReduceGray5x5[1] [1911, 1089].
+[8499200] INFO: Test Simd::Base::ReduceGray5x5[0] & SimdReduceGray5x5[0] [1920, 1080].
+[8499200] INFO: Test Simd::Base::ReduceGray5x5[0] & SimdReduceGray5x5[0] [1930, 1070].
+[8499200] INFO: Test Simd::Base::ReduceGray5x5[0] & SimdReduceGray5x5[0] [1911, 1089].
+[8499200] INFO: ReduceGray5x5AutoTest is finished successfully.
+
+[8499200] INFO: Reorder16bitAutoTest is started :
+[8499200] INFO: Test Simd::Base::Reorder16bit & SimdReorder16bit [2073600].
+[8499200] INFO: Test Simd::Base::Reorder16bit & SimdReorder16bit [2073618].
+[8499200] INFO: Test Simd::Base::Reorder16bit & SimdReorder16bit [2073582].
+[8499200] INFO: Reorder16bitAutoTest is finished successfully.
+
+[8499200] INFO: Reorder32bitAutoTest is started :
+[8499200] INFO: Test Simd::Base::Reorder32bit & SimdReorder32bit [2073600].
+[8499200] INFO: Test Simd::Base::Reorder32bit & SimdReorder32bit [2073636].
+[8499200] INFO: Test Simd::Base::Reorder32bit & SimdReorder32bit [2073564].
+[8499200] INFO: Reorder32bitAutoTest is finished successfully.
+
+[8499200] INFO: Reorder64bitAutoTest is started :
+[8499200] INFO: Test Simd::Base::Reorder64bit & SimdReorder64bit [2073600].
+[8499200] INFO: Test Simd::Base::Reorder64bit & SimdReorder64bit [2073672].
+[8499200] INFO: Test Simd::Base::Reorder64bit & SimdReorder64bit [2073528].
+[8499200] INFO: Reorder64bitAutoTest is finished successfully.
+
+[8499200] INFO: ResizeBilinearAutoTest is started :
+[8499200] INFO: Test Simd::Base::ResizeBilinear<1> & SimdResizeBilinear<1> [1728, 972] -> [1920, 1080].
+[8499200] INFO: Test Simd::Base::ResizeBilinear<1> & SimdResizeBilinear<1> [2507, 1392] -> [1929, 1071].
+[8499200] INFO: Test Simd::Base::ResizeBilinear<1> & SimdResizeBilinear<1> [1337, 762] -> [1911, 1089].
+[8499200] INFO: Test Simd::Base::ResizeBilinear<2> & SimdResizeBilinear<2> [1728, 972] -> [1920, 1080].
+[8499200] INFO: Test Simd::Base::ResizeBilinear<2> & SimdResizeBilinear<2> [2507, 1392] -> [1929, 1071].
+[8499200] INFO: Test Simd::Base::ResizeBilinear<2> & SimdResizeBilinear<2> [1337, 762] -> [1911, 1089].
+[8499200] INFO: Test Simd::Base::ResizeBilinear<3> & SimdResizeBilinear<3> [1728, 972] -> [1920, 1080].
+[8499200] INFO: Test Simd::Base::ResizeBilinear<3> & SimdResizeBilinear<3> [2507, 1392] -> [1929, 1071].
+[8499200] INFO: Test Simd::Base::ResizeBilinear<3> & SimdResizeBilinear<3> [1337, 762] -> [1911, 1089].
+[8499200] INFO: Test Simd::Base::ResizeBilinear<4> & SimdResizeBilinear<4> [1728, 972] -> [1920, 1080].
+[8499200] INFO: Test Simd::Base::ResizeBilinear<4> & SimdResizeBilinear<4> [2507, 1392] -> [1929, 1071].
+[8499200] INFO: Test Simd::Base::ResizeBilinear<4> & SimdResizeBilinear<4> [1337, 762] -> [1911, 1089].
+[8499200] INFO: ResizeBilinearAutoTest is finished successfully.
+
+[8499200] INFO: SegmentationShrinkRegionAutoTest is started :
+[8499200] INFO: Test Simd::Base::SegmentationShrinkRegion & SimdSegmentationShrinkRegion for size [1920,1080].
+[8499200] INFO: Test Simd::Base::SegmentationShrinkRegion & SimdSegmentationShrinkRegion for size [1929,1071].
+[8499200] INFO: Test Simd::Base::SegmentationShrinkRegion & SimdSegmentationShrinkRegion for size [1911,1089].
+[8499200] INFO: SegmentationShrinkRegionAutoTest is finished successfully.
+
+[8499200] INFO: SegmentationFillSingleHolesAutoTest is started :
+[8499200] INFO: Test Simd::Base::SegmentationFillSingleHoles & SimdSegmentationFillSingleHoles for size [1920,1080].
+[8499200] INFO: Test Simd::Base::SegmentationFillSingleHoles & SimdSegmentationFillSingleHoles for size [1929,1071].
+[8499200] INFO: Test Simd::Base::SegmentationFillSingleHoles & SimdSegmentationFillSingleHoles for size [1911,1089].
+[8499200] INFO: SegmentationFillSingleHolesAutoTest is finished successfully.
+
+[8499200] INFO: SegmentationChangeIndexAutoTest is started :
+[8499200] INFO: Test Simd::Base::SegmentationChangeIndex & SimdSegmentationChangeIndex for size [1920,1080].
+[8499200] INFO: Test Simd::Base::SegmentationChangeIndex & SimdSegmentationChangeIndex for size [1929,1071].
+[8499200] INFO: Test Simd::Base::SegmentationChangeIndex & SimdSegmentationChangeIndex for size [1911,1089].
+[8499200] INFO: SegmentationChangeIndexAutoTest is finished successfully.
+
+[8499200] INFO: SegmentationPropagate2x2AutoTest is started :
+[8499200] INFO: Test Simd::Base::SegmentationPropagate2x2 & SimdSegmentationPropagate2x2 for size [1920,1080].
+[8499200] INFO: Test Simd::Base::SegmentationPropagate2x2 & SimdSegmentationPropagate2x2 for size [1929,1071].
+[8499200] INFO: Test Simd::Base::SegmentationPropagate2x2 & SimdSegmentationPropagate2x2 for size [1911,1089].
+[8499200] INFO: SegmentationPropagate2x2AutoTest is finished successfully.
+
+[8499200] INFO: ShiftBilinearAutoTest is started :
+[8499200] INFO: Test Simd::Base::ShiftBilinear<1> & SimdShiftBilinear<1> [1920, 1080], (7.1, -5.2, 0).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<1> & SimdShiftBilinear<1> [1920, 1080], (1.8, -1.5, 3).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<1> & SimdShiftBilinear<1> [1920, 1080], (-3.5, 2.2, 6).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<1> & SimdShiftBilinear<1> [1920, 1080], (-8.8, 5.9, 9).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<1> & SimdShiftBilinear<1> [1929, 1071], (7.1, -5.2, 0).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<1> & SimdShiftBilinear<1> [1929, 1071], (1.8, -1.5, 3).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<1> & SimdShiftBilinear<1> [1929, 1071], (-3.5, 2.2, 6).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<1> & SimdShiftBilinear<1> [1929, 1071], (-8.8, 5.9, 9).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<1> & SimdShiftBilinear<1> [1911, 1089], (7.1, -5.2, 0).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<1> & SimdShiftBilinear<1> [1911, 1089], (1.8, -1.5, 3).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<1> & SimdShiftBilinear<1> [1911, 1089], (-3.5, 2.2, 6).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<1> & SimdShiftBilinear<1> [1911, 1089], (-8.8, 5.9, 9).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<2> & SimdShiftBilinear<2> [1920, 1080], (7.1, -5.2, 0).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<2> & SimdShiftBilinear<2> [1920, 1080], (1.8, -1.5, 3).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<2> & SimdShiftBilinear<2> [1920, 1080], (-3.5, 2.2, 6).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<2> & SimdShiftBilinear<2> [1920, 1080], (-8.8, 5.9, 9).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<2> & SimdShiftBilinear<2> [1929, 1071], (7.1, -5.2, 0).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<2> & SimdShiftBilinear<2> [1929, 1071], (1.8, -1.5, 3).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<2> & SimdShiftBilinear<2> [1929, 1071], (-3.5, 2.2, 6).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<2> & SimdShiftBilinear<2> [1929, 1071], (-8.8, 5.9, 9).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<2> & SimdShiftBilinear<2> [1911, 1089], (7.1, -5.2, 0).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<2> & SimdShiftBilinear<2> [1911, 1089], (1.8, -1.5, 3).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<2> & SimdShiftBilinear<2> [1911, 1089], (-3.5, 2.2, 6).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<2> & SimdShiftBilinear<2> [1911, 1089], (-8.8, 5.9, 9).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<3> & SimdShiftBilinear<3> [1920, 1080], (7.1, -5.2, 0).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<3> & SimdShiftBilinear<3> [1920, 1080], (1.8, -1.5, 3).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<3> & SimdShiftBilinear<3> [1920, 1080], (-3.5, 2.2, 6).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<3> & SimdShiftBilinear<3> [1920, 1080], (-8.8, 5.9, 9).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<3> & SimdShiftBilinear<3> [1929, 1071], (7.1, -5.2, 0).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<3> & SimdShiftBilinear<3> [1929, 1071], (1.8, -1.5, 3).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<3> & SimdShiftBilinear<3> [1929, 1071], (-3.5, 2.2, 6).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<3> & SimdShiftBilinear<3> [1929, 1071], (-8.8, 5.9, 9).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<3> & SimdShiftBilinear<3> [1911, 1089], (7.1, -5.2, 0).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<3> & SimdShiftBilinear<3> [1911, 1089], (1.8, -1.5, 3).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<3> & SimdShiftBilinear<3> [1911, 1089], (-3.5, 2.2, 6).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<3> & SimdShiftBilinear<3> [1911, 1089], (-8.8, 5.9, 9).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<4> & SimdShiftBilinear<4> [1920, 1080], (7.1, -5.2, 0).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<4> & SimdShiftBilinear<4> [1920, 1080], (1.8, -1.5, 3).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<4> & SimdShiftBilinear<4> [1920, 1080], (-3.5, 2.2, 6).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<4> & SimdShiftBilinear<4> [1920, 1080], (-8.8, 5.9, 9).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<4> & SimdShiftBilinear<4> [1929, 1071], (7.1, -5.2, 0).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<4> & SimdShiftBilinear<4> [1929, 1071], (1.8, -1.5, 3).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<4> & SimdShiftBilinear<4> [1929, 1071], (-3.5, 2.2, 6).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<4> & SimdShiftBilinear<4> [1929, 1071], (-8.8, 5.9, 9).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<4> & SimdShiftBilinear<4> [1911, 1089], (7.1, -5.2, 0).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<4> & SimdShiftBilinear<4> [1911, 1089], (1.8, -1.5, 3).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<4> & SimdShiftBilinear<4> [1911, 1089], (-3.5, 2.2, 6).
+[8499200] INFO: Test Simd::Base::ShiftBilinear<4> & SimdShiftBilinear<4> [1911, 1089], (-8.8, 5.9, 9).
+[8499200] INFO: ShiftBilinearAutoTest is finished successfully.
+
+[8499200] INFO: GetStatisticAutoTest is started :
+[8499200] INFO: Test Simd::Base::GetStatistic & SimdGetStatistic [1920, 1080].
+[8499200] INFO: Test Simd::Base::GetStatistic & SimdGetStatistic [1929, 1071].
+[8499200] INFO: Test Simd::Base::GetStatistic & SimdGetStatistic [1911, 1089].
+[8499200] INFO: GetStatisticAutoTest is finished successfully.
+
+[8499200] INFO: GetMomentsAutoTest is started :
+[8499200] INFO: Test Simd::Base::GetMoments[1x1] & SimdGetMoments[1x1] [1920, 1080].
+[8499200] INFO: Test Simd::Base::GetMoments[1x1] & SimdGetMoments[1x1] [1929, 1071].
+[8499200] INFO: Test Simd::Base::GetMoments[1x1] & SimdGetMoments[1x1] [1911, 1089].
+[8499200] INFO: Test Simd::Base::GetMoments[5x2] & SimdGetMoments[5x2] [9600, 2160].
+[8499200] INFO: Test Simd::Base::GetMoments[5x2] & SimdGetMoments[5x2] [9609, 2151].
+[8499200] INFO: Test Simd::Base::GetMoments[5x2] & SimdGetMoments[5x2] [9591, 2169].
+[8499200] INFO: GetMomentsAutoTest is finished successfully.
+
+[8499200] INFO: GetRowSumsAutoTest is started :
+[8499200] INFO: Test Simd::Base::GetRowSums & SimdGetRowSums [1920, 1080].
+[8499200] INFO: Test Simd::Base::GetRowSums & SimdGetRowSums [1929, 1071].
+[8499200] INFO: Test Simd::Base::GetRowSums & SimdGetRowSums [1911, 1089].
+[8499200] INFO: GetRowSumsAutoTest is finished successfully.
+
+[8499200] INFO: GetColSumsAutoTest is started :
+[8499200] INFO: Test Simd::Base::GetColSums & SimdGetColSums [1920, 1080].
+[8499200] INFO: Test Simd::Base::GetColSums & SimdGetColSums [1929, 1071].
+[8499200] INFO: Test Simd::Base::GetColSums & SimdGetColSums [1911, 1089].
+[8499200] INFO: GetColSumsAutoTest is finished successfully.
+
+[8499200] INFO: GetAbsDyRowSumsAutoTest is started :
+[8499200] INFO: Test Simd::Base::GetAbsDyRowSums & SimdGetAbsDyRowSums [1920, 1080].
+[8499200] INFO: Test Simd::Base::GetAbsDyRowSums & SimdGetAbsDyRowSums [1929, 1071].
+[8499200] INFO: Test Simd::Base::GetAbsDyRowSums & SimdGetAbsDyRowSums [1911, 1089].
+[8499200] INFO: GetAbsDyRowSumsAutoTest is finished successfully.
+
+[8499200] INFO: GetAbsDxColSumsAutoTest is started :
+[8499200] INFO: Test Simd::Base::GetAbsDxColSums & SimdGetAbsDxColSums [1920, 1080].
+[8499200] INFO: Test Simd::Base::GetAbsDxColSums & SimdGetAbsDxColSums [1929, 1071].
+[8499200] INFO: Test Simd::Base::GetAbsDxColSums & SimdGetAbsDxColSums [1911, 1089].
+[8499200] INFO: GetAbsDxColSumsAutoTest is finished successfully.
+
+[8499200] INFO: ValueSumAutoTest is started :
+[8499200] INFO: Test Simd::Base::ValueSum & SimdValueSum [1920, 1080].
+[8499200] INFO: Test Simd::Base::ValueSum & SimdValueSum [1929, 1071].
+[8499200] INFO: Test Simd::Base::ValueSum & SimdValueSum [1911, 1089].
+[8499200] INFO: ValueSumAutoTest is finished successfully.
+
+[8499200] INFO: SquareSumAutoTest is started :
+[8499200] INFO: Test Simd::Base::SquareSum & SimdSquareSum [1920, 1080].
+[8499200] INFO: Test Simd::Base::SquareSum & SimdSquareSum [1929, 1071].
+[8499200] INFO: Test Simd::Base::SquareSum & SimdSquareSum [1911, 1089].
+[8499200] INFO: SquareSumAutoTest is finished successfully.
+
+[8499200] INFO: SobelDxAbsSumAutoTest is started :
+[8499200] INFO: Test Simd::Base::SobelDxAbsSum & SimdSobelDxAbsSum [1920, 1080].
+[8499200] INFO: Test Simd::Base::SobelDxAbsSum & SimdSobelDxAbsSum [1929, 1071].
+[8499200] INFO: Test Simd::Base::SobelDxAbsSum & SimdSobelDxAbsSum [1911, 1089].
+[8499200] INFO: SobelDxAbsSumAutoTest is finished successfully.
+
+[8499200] INFO: SobelDyAbsSumAutoTest is started :
+[8499200] INFO: Test Simd::Base::SobelDyAbsSum & SimdSobelDyAbsSum [1920, 1080].
+[8499200] INFO: Test Simd::Base::SobelDyAbsSum & SimdSobelDyAbsSum [1929, 1071].
+[8499200] INFO: Test Simd::Base::SobelDyAbsSum & SimdSobelDyAbsSum [1911, 1089].
+[8499200] INFO: SobelDyAbsSumAutoTest is finished successfully.
+
+[8499200] INFO: LaplaceAbsSumAutoTest is started :
+[8499200] INFO: Test Simd::Base::LaplaceAbsSum & SimdLaplaceAbsSum [1920, 1080].
+[8499200] INFO: Test Simd::Base::LaplaceAbsSum & SimdLaplaceAbsSum [1929, 1071].
+[8499200] INFO: Test Simd::Base::LaplaceAbsSum & SimdLaplaceAbsSum [1911, 1089].
+[8499200] INFO: Test Simd::Msa::LaplaceAbsSum & SimdLaplaceAbsSum [1920, 1080].
+[8499200] INFO: Test Simd::Msa::LaplaceAbsSum & SimdLaplaceAbsSum [1929, 1071].
+[8499200] INFO: Test Simd::Msa::LaplaceAbsSum & SimdLaplaceAbsSum [1911, 1089].
+[8499200] INFO: LaplaceAbsSumAutoTest is finished successfully.
+
+[8499200] INFO: CorrelationSumAutoTest is started :
+[8499200] INFO: Test Simd::Base::CorrelationSum & SimdCorrelationSum [1920, 1080].
+[8499200] INFO: Test Simd::Base::CorrelationSum & SimdCorrelationSum [1929, 1071].
+[8499200] INFO: Test Simd::Base::CorrelationSum & SimdCorrelationSum [1911, 1089].
+[8499200] INFO: CorrelationSumAutoTest is finished successfully.
+
+[8499200] INFO: StretchGray2x2AutoTest is started :
+[8499200] INFO: Test Simd::Base::StretchGray2x2 & SimdStretchGray2x2 [1920, 1080].
+[8499200] INFO: Test Simd::Base::StretchGray2x2 & SimdStretchGray2x2 [1929, 1071].
+[8499200] INFO: Test Simd::Base::StretchGray2x2 & SimdStretchGray2x2 [1911, 1089].
+[8499200] INFO: StretchGray2x2AutoTest is finished successfully.
+
+[8499200] INFO: SvmSumLinearAutoTest is started :
+[8499200] INFO: Test Simd::Base::SvmSumLinear & SimdSvmSumLinear [213, 9720].
+[8499200] INFO: Test Simd::Base::SvmSumLinear & SimdSvmSumLinear [192, 10800].
+[8499200] INFO: Test Simd::Base::SvmSumLinear & SimdSvmSumLinear [174, 11880].
+[8499200] INFO: SvmSumLinearAutoTest is finished successfully.
+
+[8499200] INFO: TextureBoostedSaturatedGradientAutoTest is started :
+[8499200] INFO: Test Simd::Base::TextureBoostedSaturatedGradient & SimdTextureBoostedSaturatedGradient [1920, 1080] <32, 3>.
+[8499200] INFO: Test Simd::Base::TextureBoostedSaturatedGradient & SimdTextureBoostedSaturatedGradient [1920, 1080] <16, 4>.
+[8499200] INFO: Test Simd::Base::TextureBoostedSaturatedGradient & SimdTextureBoostedSaturatedGradient [1920, 1080] <16, 5>.
+[8499200] INFO: Test Simd::Base::TextureBoostedSaturatedGradient & SimdTextureBoostedSaturatedGradient [1929, 1071] <32, 3>.
+[8499200] INFO: Test Simd::Base::TextureBoostedSaturatedGradient & SimdTextureBoostedSaturatedGradient [1929, 1071] <16, 4>.
+[8499200] INFO: Test Simd::Base::TextureBoostedSaturatedGradient & SimdTextureBoostedSaturatedGradient [1929, 1071] <16, 5>.
+[8499200] INFO: Test Simd::Base::TextureBoostedSaturatedGradient & SimdTextureBoostedSaturatedGradient [1911, 1089] <32, 3>.
+[8499200] INFO: Test Simd::Base::TextureBoostedSaturatedGradient & SimdTextureBoostedSaturatedGradient [1911, 1089] <16, 4>.
+[8499200] INFO: Test Simd::Base::TextureBoostedSaturatedGradient & SimdTextureBoostedSaturatedGradient [1911, 1089] <16, 5>.
+[8499200] INFO: TextureBoostedSaturatedGradientAutoTest is finished successfully.
+
+[8499200] INFO: TextureBoostedUvAutoTest is started :
+[8499200] INFO: Test Simd::Base::TextureBoostedUv & SimdTextureBoostedUv [1920, 1080] <3>.
+[8499200] INFO: Test Simd::Base::TextureBoostedUv & SimdTextureBoostedUv [1920, 1080] <4>.
+[8499200] INFO: Test Simd::Base::TextureBoostedUv & SimdTextureBoostedUv [1920, 1080] <5>.
+[8499200] INFO: Test Simd::Base::TextureBoostedUv & SimdTextureBoostedUv [1929, 1071] <3>.
+[8499200] INFO: Test Simd::Base::TextureBoostedUv & SimdTextureBoostedUv [1929, 1071] <4>.
+[8499200] INFO: Test Simd::Base::TextureBoostedUv & SimdTextureBoostedUv [1929, 1071] <5>.
+[8499200] INFO: Test Simd::Base::TextureBoostedUv & SimdTextureBoostedUv [1911, 1089] <3>.
+[8499200] INFO: Test Simd::Base::TextureBoostedUv & SimdTextureBoostedUv [1911, 1089] <4>.
+[8499200] INFO: Test Simd::Base::TextureBoostedUv & SimdTextureBoostedUv [1911, 1089] <5>.
+[8499200] INFO: TextureBoostedUvAutoTest is finished successfully.
+
+[8499200] INFO: TextureGetDifferenceSumAutoTest is started :
+[8499200] INFO: Test Simd::Base::TextureGetDifferenceSum & SimdTextureGetDifferenceSum [1920, 1080].
+[8499200] INFO: Test Simd::Base::TextureGetDifferenceSum & SimdTextureGetDifferenceSum [1929, 1071].
+[8499200] INFO: Test Simd::Base::TextureGetDifferenceSum & SimdTextureGetDifferenceSum [1911, 1089].
+[8499200] INFO: TextureGetDifferenceSumAutoTest is finished successfully.
+
+[8499200] INFO: TexturePerformCompensationAutoTest is started :
+[8499200] INFO: Test Simd::Base::TexturePerformCompensation & SimdTexturePerformCompensation [1920, 1080] <17>.
+[8499200] INFO: Test Simd::Base::TexturePerformCompensation & SimdTexturePerformCompensation [1920, 1080] <3>.
+[8499200] INFO: Test Simd::Base::TexturePerformCompensation & SimdTexturePerformCompensation [1920, 1080] <0>.
+[8499200] INFO: Test Simd::Base::TexturePerformCompensation & SimdTexturePerformCompensation [1920, 1080] <-4>.
+[8499200] INFO: Test Simd::Base::TexturePerformCompensation & SimdTexturePerformCompensation [1920, 1080] <-33>.
+[8499200] INFO: Test Simd::Base::TexturePerformCompensation & SimdTexturePerformCompensation [1929, 1071] <17>.
+[8499200] INFO: Test Simd::Base::TexturePerformCompensation & SimdTexturePerformCompensation [1929, 1071] <3>.
+[8499200] INFO: Test Simd::Base::TexturePerformCompensation & SimdTexturePerformCompensation [1929, 1071] <0>.
+[8499200] INFO: Test Simd::Base::TexturePerformCompensation & SimdTexturePerformCompensation [1929, 1071] <-4>.
+[8499200] INFO: Test Simd::Base::TexturePerformCompensation & SimdTexturePerformCompensation [1929, 1071] <-33>.
+[8499200] INFO: Test Simd::Base::TexturePerformCompensation & SimdTexturePerformCompensation [1911, 1089] <17>.
+[8499200] INFO: Test Simd::Base::TexturePerformCompensation & SimdTexturePerformCompensation [1911, 1089] <3>.
+[8499200] INFO: Test Simd::Base::TexturePerformCompensation & SimdTexturePerformCompensation [1911, 1089] <0>.
+[8499200] INFO: Test Simd::Base::TexturePerformCompensation & SimdTexturePerformCompensation [1911, 1089] <-4>.
+[8499200] INFO: Test Simd::Base::TexturePerformCompensation & SimdTexturePerformCompensation [1911, 1089] <-33>.
+[8499200] INFO: TexturePerformCompensationAutoTest is finished successfully.
+
+[8499200] INFO: Yuv444pToBgrAutoTest is started :
+[8499200] INFO: Test Simd::Base::Yuv444pToBgr & SimdYuv444pToBgr [1920, 1080].
+[8499200] INFO: Test Simd::Base::Yuv444pToBgr & SimdYuv444pToBgr [1929, 1071].
+[8499200] INFO: Test Simd::Base::Yuv444pToBgr & SimdYuv444pToBgr [1911, 1089].
+[8499200] INFO: Yuv444pToBgrAutoTest is finished successfully.
+
+[8499200] INFO: Yuv422pToBgrAutoTest is started :
+[8499200] INFO: Test Simd::Base::Yuv422pToBgr & SimdYuv422pToBgr [1920, 1080].
+[8499200] INFO: Test Simd::Base::Yuv422pToBgr & SimdYuv422pToBgr [1938, 1071].
+[8499200] INFO: Test Simd::Base::Yuv422pToBgr & SimdYuv422pToBgr [1902, 1089].
+[8499200] INFO: Yuv422pToBgrAutoTest is finished successfully.
+
+[8499200] INFO: Yuv420pToBgrAutoTest is started :
+[8499200] INFO: Test Simd::Base::Yuv420pToBgr & SimdYuv420pToBgr [1920, 1080].
+[8499200] INFO: Test Simd::Base::Yuv420pToBgr & SimdYuv420pToBgr [1938, 1062].
+[8499200] INFO: Test Simd::Base::Yuv420pToBgr & SimdYuv420pToBgr [1902, 1098].
+[8499200] INFO: Yuv420pToBgrAutoTest is finished successfully.
+
+[8499200] INFO: Yuv444pToHslAutoTest is started :
+[8499200] INFO: Test Simd::Base::Yuv444pToHsl & SimdYuv444pToHsl [1920, 1080].
+[8499200] INFO: Test Simd::Base::Yuv444pToHsl & SimdYuv444pToHsl [1929, 1071].
+[8499200] INFO: Test Simd::Base::Yuv444pToHsl & SimdYuv444pToHsl [1911, 1089].
+[8499200] INFO: Yuv444pToHslAutoTest is finished successfully.
+
+[8499200] INFO: Yuv444pToHsvAutoTest is started :
+[8499200] INFO: Test Simd::Base::Yuv444pToHsv & SimdYuv444pToHsv [1920, 1080].
+[8499200] INFO: Test Simd::Base::Yuv444pToHsv & SimdYuv444pToHsv [1929, 1071].
+[8499200] INFO: Test Simd::Base::Yuv444pToHsv & SimdYuv444pToHsv [1911, 1089].
+[8499200] INFO: Yuv444pToHsvAutoTest is finished successfully.
+
+[8499200] INFO: Yuv444pToHueAutoTest is started :
+[8499200] INFO: Test Simd::Base::Yuv444pToHue & SimdYuv444pToHue [1920, 1080].
+[8499200] INFO: Test Simd::Base::Yuv444pToHue & SimdYuv444pToHue [1929, 1071].
+[8499200] INFO: Test Simd::Base::Yuv444pToHue & SimdYuv444pToHue [1911, 1089].
+[8499200] INFO: Yuv444pToHueAutoTest is finished successfully.
+
+[8499200] INFO: Yuv420pToHueAutoTest is started :
+[8499200] INFO: Test Simd::Base::Yuv420pToHue & SimdYuv420pToHue [1920, 1080].
+[8499200] INFO: Test Simd::Base::Yuv420pToHue & SimdYuv420pToHue [1938, 1062].
+[8499200] INFO: Test Simd::Base::Yuv420pToHue & SimdYuv420pToHue [1902, 1098].
+[8499200] INFO: Yuv420pToHueAutoTest is finished successfully.
+
+[8499200] INFO: Yuv444pToBgraAutoTest is started :
+[8499200] INFO: Test Simd::Base::Yuv444pToBgra & SimdYuv444pToBgra [1920, 1080].
+[8499200] INFO: Test Simd::Base::Yuv444pToBgra & SimdYuv444pToBgra [1929, 1071].
+[8499200] INFO: Test Simd::Base::Yuv444pToBgra & SimdYuv444pToBgra [1911, 1089].
+[8499200] INFO: Yuv444pToBgraAutoTest is finished successfully.
+
+[8499200] INFO: Yuv422pToBgraAutoTest is started :
+[8499200] INFO: Test Simd::Base::Yuv422pToBgra & SimdYuv422pToBgra [1920, 1080].
+[8499200] INFO: Test Simd::Base::Yuv422pToBgra & SimdYuv422pToBgra [1938, 1071].
+[8499200] INFO: Test Simd::Base::Yuv422pToBgra & SimdYuv422pToBgra [1902, 1089].
+[8499200] INFO: Yuv422pToBgraAutoTest is finished successfully.
+
+[8499200] INFO: Yuv420pToBgraAutoTest is started :
+[8499200] INFO: Test Simd::Base::Yuv420pToBgra & SimdYuv420pToBgra [1920, 1080].
+[8499200] INFO: Test Simd::Base::Yuv420pToBgra & SimdYuv420pToBgra [1938, 1062].
+[8499200] INFO: Test Simd::Base::Yuv420pToBgra & SimdYuv420pToBgra [1902, 1098].
+[8499200] INFO: Yuv420pToBgraAutoTest is finished successfully.
+
+[8499200] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8499200] INFO:
+
+Performance report:
+
+----------------------------------------------------------------------------
+Function                         |      Simd      Base       Msa |    B/M |
+----------------------------------------------------------------------------
+Common                           |    53.526    43.096    53.594 |   0.80 |
+----------------------------------------------------------------------------
+AbsDifferenceSum                 |    10.039     7.955    10.006 |   0.80 |
+AbsDifferenceSumMasked           |    16.081    19.242    16.360 |   1.18 |
+AbsDifferenceSums3x3             |   158.423   100.529   158.236 |   0.64 |
+AbsDifferenceSums3x3Masked       |   275.321    51.584   337.637 |   0.15 |
+AbsGradientSaturatedSum          |    21.644    21.772           |        |
+AbsSecondDerivativeHistogram     |    44.094    45.001           |        |
+AddFeatureDifference             |    89.868    31.604    82.433 |   0.38 |
+AlphaBlending<1>                 |    22.465    14.165           |        |
+AlphaBlending<2>                 |    47.304    47.539           |        |
+AlphaBlending<3>                 |    63.624    63.516           |        |
+AlphaBlending<4>                 |    51.942    51.996           |        |
+AveragingBinarization(!=)        |   246.319    57.483   271.605 |   0.21 |
+AveragingBinarization(< )        |   271.958    75.865   226.556 |   0.33 |
+AveragingBinarization(<=)        |   216.364    74.726   155.885 |   0.48 |
+AveragingBinarization(==)        |   237.116    57.491   256.039 |   0.22 |
+AveragingBinarization(> )        |   231.133    59.864   230.635 |   0.26 |
+AveragingBinarization(>=)        |   259.182    73.762   229.964 |   0.32 |
+BackgroundAdjustRange            |    87.033    70.738    87.424 |   0.81 |
+BackgroundAdjustRangeMasked      |    77.526    56.975   116.982 |   0.49 |
+BackgroundGrowRangeFast          |    33.532    71.456    33.474 |   2.13 |
+BackgroundGrowRangeSlow          |    49.498    43.691    52.060 |   0.84 |
+BackgroundIncrementCount         |    62.326    79.728    50.458 |   1.58 |
+BackgroundInitMask               |    13.602    22.042    13.587 |   1.62 |
+BackgroundShiftRange             |    90.314    71.007    90.891 |   0.78 |
+BackgroundShiftRangeMasked       |    66.727    44.218    66.672 |   0.66 |
+BayerToBgr                       |    47.791    41.655           |        |
+BayerToBgra                      |    33.985    34.107           |        |
+Bgr48pToBgra32                   |    55.229    12.680    43.945 |   0.29 |
+BgrToBayer                       |    22.565     4.287    23.353 |   0.18 |
+BgrToBgra                        |    46.388     8.713    43.943 |   0.20 |
+BgrToGray                        |    84.172    33.758    73.323 |   0.46 |
+BgrToHsl                         |   298.250   298.705           |        |
+BgrToHsv                         |   269.219   269.584           |        |
+BgrToYuv420p                     |   295.377    37.602   269.057 |   0.14 |
+BgrToYuv422p                     |   268.144    67.371   304.409 |   0.22 |
+BgrToYuv444p                     |   233.686    43.532   233.420 |   0.19 |
+BgraToBayer                      |    26.185     4.453    25.118 |   0.18 |
+BgraToBgr                        |    44.690     6.505    58.807 |   0.11 |
+BgraToGray                       |    92.862    33.858    92.823 |   0.36 |
+BgraToYuv420p                    |   131.062    28.682   130.493 |   0.22 |
+BgraToYuv422p                    |   178.594    40.108   178.233 |   0.23 |
+BgraToYuv444p                    |   337.028    43.460   445.370 |   0.10 |
+Binarization(!=)                 |    11.996    12.990     9.485 |   1.37 |
+Binarization(< )                 |    12.558    13.061     9.245 |   1.41 |
+Binarization(<=)                 |    11.610     7.964    15.409 |   0.52 |
+Binarization(==)                 |    11.309    12.506     9.039 |   1.38 |
+Binarization(> )                 |    11.812    13.449     9.355 |   1.44 |
+Binarization(>=)                 |    11.624    13.154     9.207 |   1.43 |
+ConditionalCount16i(!=)          |    23.801    18.970    22.911 |   0.83 |
+ConditionalCount16i(< )          |    19.720    44.820    18.411 |   2.43 |
+ConditionalCount16i(<=)          |    19.767    45.848    18.446 |   2.49 |
+ConditionalCount16i(==)          |    22.247    13.912    21.265 |   0.65 |
+ConditionalCount16i(> )          |    19.666    48.642     9.794 |   4.97 |
+ConditionalCount16i(>=)          |    19.743    45.708    18.400 |   2.48 |
+ConditionalCount8u(!=)           |    16.095    10.326    19.701 |   0.52 |
+ConditionalCount8u(< )           |    21.507    39.848    24.102 |   1.65 |
+ConditionalCount8u(<=)           |    21.204    39.588    23.822 |   1.66 |
+ConditionalCount8u(==)           |    15.664     7.636    19.038 |   0.40 |
+ConditionalCount8u(> )           |    15.926    27.026    19.135 |   1.41 |
+ConditionalCount8u(>=)           |    10.717    25.539    18.064 |   1.41 |
+ConditionalFill(!=)              |    15.447     7.745    20.512 |   0.38 |
+ConditionalFill(< )              |    12.801    21.390    14.939 |   1.43 |
+ConditionalFill(<=)              |    16.258    36.425    13.592 |   2.68 |
+ConditionalFill(==)              |    15.060     6.996    19.991 |   0.35 |
+ConditionalFill(> )              |    13.637    21.775    20.178 |   1.08 |
+ConditionalFill(>=)              |    15.034    21.581    19.953 |   1.08 |
+ConditionalSquareGradientSum(!=) |    38.354    22.585    60.748 |   0.37 |
+ConditionalSquareGradientSum(< ) |    51.061    30.084    66.918 |   0.45 |
+ConditionalSquareGradientSum(<=) |    40.121    31.261    54.152 |   0.58 |
+ConditionalSquareGradientSum(==) |    61.333    19.654    39.782 |   0.49 |
+ConditionalSquareGradientSum(> ) |    50.716    30.277    66.618 |   0.45 |
+ConditionalSquareGradientSum(>=) |    51.186    29.560    67.275 |   0.44 |
+ConditionalSquareSum(!=)         |    27.615    19.460    16.690 |   1.17 |
+ConditionalSquareSum(< )         |    20.320    23.802    27.246 |   0.87 |
+ConditionalSquareSum(<=)         |    20.118    23.424    26.994 |   0.87 |
+ConditionalSquareSum(==)         |    20.152    12.012    16.199 |   0.74 |
+ConditionalSquareSum(> )         |    21.031    24.227    27.465 |   0.88 |
+ConditionalSquareSum(>=)         |    20.291    22.923    26.990 |   0.85 |
+ConditionalSum(!=)               |    15.164    14.369    11.887 |   1.21 |
+ConditionalSum(< )               |    14.837    21.934    19.486 |   1.13 |
+ConditionalSum(<=)               |    14.619    22.335    19.257 |   1.16 |
+ConditionalSum(==)               |    14.655    12.006    11.532 |   1.04 |
+ConditionalSum(> )               |    16.019    29.494    19.193 |   1.54 |
+ConditionalSum(>=)               |    14.520    22.084    19.139 |   1.15 |
+ContourAnchors                   |    25.323    17.449    25.257 |   0.69 |
+ContourMetrics                   |   108.831    35.146   108.789 |   0.32 |
+ContourMetricsMasked             |   114.182    41.880   113.797 |   0.37 |
+Copy<1>                          |     1.163     1.163           |        |
+Copy<2>                          |     2.769     2.767           |        |
+Copy<3>                          |     4.109     4.127           |        |
+Copy<4>                          |     4.436     4.440           |        |
+Copy<8>                          |     7.670     8.481           |        |
+CopyFrame<1>                     |     0.747     0.756           |        |
+CopyFrame<2>                     |     1.189     1.222           |        |
+CopyFrame<3>                     |     1.665     1.667           |        |
+CopyFrame<4>                     |     2.378     2.295           |        |
+CopyFrame<8>                     |     5.051     5.028           |        |
+CorrelationSum                   |    20.329    22.911           |        |
+Crc32c                           |    12.526    12.523           |        |
+DeinterleaveBgr                  |    46.934    11.800    46.815 |   0.25 |
+DeinterleaveBgra                 |    40.861    15.785    40.720 |   0.39 |
+DeinterleaveUv                   |    28.055    16.090    27.985 |   0.57 |
+DetectionHaarDetect32fi<0>       | 10208.544  6135.619  8001.962 |   0.77 |
+DetectionHaarDetect32fi<1>       | 11392.188  5811.651 14705.469 |   0.40 |
+DetectionHaarDetect32fp<0>       | 28523.062 16662.613 25971.233 |   0.64 |
+DetectionHaarDetect32fp<1>       | 45991.840 29549.959 44554.208 |   0.66 |
+DetectionLbpDetect16ii           |   563.479   197.684   562.119 |   0.35 |
+DetectionLbpDetect16ip           |  2551.110  1328.694  3525.440 |   0.38 |
+DetectionLbpDetect32fi           |  1168.551   584.916   858.365 |   0.68 |
+DetectionLbpDetect32fp           |  3825.785  1840.043  5150.224 |   0.36 |
+EdgeBackgroundAdjustRange        |    64.109    57.862    64.055 |   0.90 |
+EdgeBackgroundAdjustRangeMasked  |    38.090    37.298    38.261 |   0.97 |
+EdgeBackgroundGrowRangeFast      |    14.995     8.681    12.223 |   0.71 |
+EdgeBackgroundGrowRangeSlow      |    20.655    30.529    20.660 |   1.48 |
+EdgeBackgroundIncrementCount     |    43.059    47.051    42.857 |   1.10 |
+EdgeBackgroundShiftRange         |     6.153     2.152     6.154 |   0.35 |
+EdgeBackgroundShiftRangeMasked   |    15.964    21.268    21.582 |   0.99 |
+Fill<1>                          |     0.761     0.761           |        |
+Fill<2>                          |     1.446     1.447           |        |
+Fill<3>                          |     2.838     2.839           |        |
+Fill<4>                          |     2.763     2.779           |        |
+Fill<8>                          |     4.358     4.351           |        |
+FillBgr                          |    16.032     4.099    16.024 |   0.26 |
+FillBgra                         |    23.473    11.315    22.141 |   0.51 |
+FillFrame<1>                     |     0.679     0.614           |        |
+FillFrame<2>                     |     1.137     1.368           |        |
+FillFrame<3>                     |     1.890     1.887           |        |
+FillFrame<4>                     |     1.756     1.753           |        |
+FillFrame<8>                     |     2.512     2.522           |        |
+GaussianBlur3x3<1>               |    82.732    54.095    66.226 |   0.82 |
+GaussianBlur3x3<2>               |   181.308   112.812   133.324 |   0.85 |
+GaussianBlur3x3<3>               |   321.483   105.915   337.118 |   0.31 |
+GaussianBlur3x3<4>               |   359.779   124.838   453.964 |   0.27 |
+GetAbsDxColSums                  |    23.173    24.333           |        |
+GetAbsDyRowSums                  |    20.433    20.655           |        |
+GetColSums                       |    16.489    16.295           |        |
+GetMoments[1x1]                  |    38.107    38.249           |        |
+GetMoments[5x2]                  |   614.809   478.806           |        |
+GetRowSums                       |    12.527    12.547           |        |
+GetStatistic                     |    23.015    17.240           |        |
+GrayToBgr                        |    27.865    10.290    22.499 |   0.46 |
+GrayToBgra                       |    31.033     7.905    30.986 |   0.26 |
+Histogram                        |    13.769    12.493           |        |
+HistogramConditional(!=)         |    13.782    13.842           |        |
+HistogramConditional(< )         |     9.923     9.961           |        |
+HistogramConditional(<=)         |    12.586    12.587           |        |
+HistogramConditional(==)         |    13.280    13.322           |        |
+HistogramConditional(> )         |    10.183    11.553           |        |
+HistogramConditional(>=)         |    12.359    12.334           |        |
+HistogramMasked                  |    20.074    20.184           |        |
+HogDirectionHistograms           |  5084.255  5341.906           |        |
+HogExtractFeatures               |  2804.242  3589.119           |        |
+Int16ToGray                      |    16.439     9.580    16.322 |   0.59 |
+Integral<4><4><100>              |     9.047    10.416           |        |
+Integral<4><4><101>              |    20.992    20.914           |        |
+Integral<4><4><110>              |    16.712    16.835           |        |
+Integral<4><4><111>              |    58.927    60.382           |        |
+Integral<4><8><100>              |    15.467    15.510           |        |
+Integral<4><8><101>              |    35.806    36.163           |        |
+Integral<4><8><110>              |   185.715   186.223           |        |
+Integral<4><8><111>              |   135.078   134.308           |        |
+InterferenceDecrement            |     8.833     8.795           |        |
+InterferenceDecrementMasked      |    12.938    13.059           |        |
+InterferenceIncrement            |    13.305    13.347           |        |
+InterferenceIncrementMasked      |    10.964    10.959           |        |
+InterleaveBgr                    |    21.990    21.904           |        |
+InterleaveBgra                   |    27.574    27.403           |        |
+InterleaveUv                     |     9.413    10.882           |        |
+Laplace                          |    87.659    25.224   111.024 |   0.23 |
+LaplaceAbs                       |   118.289    38.968   118.425 |   0.33 |
+LaplaceAbsSum                    |   138.209    36.082   134.504 |   0.27 |
+LbpEstimate                      |    47.907    47.292           |        |
+MeanFilter3x3<1>                 |    81.615    35.671   105.918 |   0.34 |
+MeanFilter3x3<2>                 |   173.944    69.355   209.504 |   0.33 |
+MeanFilter3x3<3>                 |   258.420   103.715   309.847 |   0.33 |
+MeanFilter3x3<4>                 |   260.835   138.263   237.725 |   0.58 |
+MedianFilterRhomb3x3<1>          |    76.554    40.888   106.342 |   0.38 |
+MedianFilterRhomb3x3<2>          |   131.580    80.164   140.985 |   0.57 |
+MedianFilterRhomb3x3<3>          |   189.126   120.269   212.208 |   0.57 |
+MedianFilterRhomb3x3<4>          |   332.919   273.707   244.788 |   1.12 |
+MedianFilterRhomb5x5<1>          |   529.509   473.911   352.059 |   1.35 |
+MedianFilterRhomb5x5<2>          |   694.631   812.392  1049.943 |   0.77 |
+MedianFilterRhomb5x5<3>          |  1572.425   979.684  1094.717 |   0.89 |
+MedianFilterRhomb5x5<4>          |  1931.947  1106.510  1215.549 |   0.91 |
+MedianFilterSquare3x3<1>         |   199.282   198.780   149.822 |   1.33 |
+MedianFilterSquare3x3<2>         |   401.128   397.246   312.175 |   1.27 |
+MedianFilterSquare3x3<3>         |   720.343   758.282   437.195 |   1.73 |
+MedianFilterSquare3x3<4>         |   886.620   923.684  1008.992 |   0.92 |
+MedianFilterSquare5x5<1>         |  1365.749  1184.810  1518.309 |   0.78 |
+MedianFilterSquare5x5<2>         |  2346.691  1934.781  2836.796 |   0.68 |
+MedianFilterSquare5x5<3>         |  3730.121  5628.577  4101.299 |   1.37 |
+MedianFilterSquare5x5<4>         |  4127.915  5319.920  3725.811 |   1.43 |
+NeuralAdaptiveGradientUpdate     |  1215.273   908.261           |        |
+NeuralAddConvolution3x3Backward  |   987.066  1310.471           |        |
+NeuralAddConvolution3x3Forward   |  1587.343  1720.787           |        |
+NeuralAddConvolution3x3Sum       |  2107.669  2036.056           |        |
+NeuralAddConvolution5x5Backward  |  5151.290  5761.116           |        |
+NeuralAddConvolution5x5Forward   |  6114.458  6170.999           |        |
+NeuralAddConvolution5x5Sum       |  6037.055  6125.349           |        |
+NeuralAddVectorMultipliedByValue |   232.040   231.906           |        |
+NeuralConvert[0]                 |   144.687   143.857           |        |
+NeuralConvert[1]                 |   143.778   144.462           |        |
+NeuralDerivativeRelu             |   119.297   119.627           |        |
+NeuralDerivativeSigmoid          |   395.641   393.293           |        |
+NeuralDerivativeTanh             |   361.214   254.816           |        |
+NeuralMax2x2                     |    56.954    56.945           |        |
+NeuralProductSum                 |   171.354   167.254           |        |
+NeuralRelu                       |   112.348   112.483           |        |
+NeuralRoughSigmoid               |  1080.606  1083.589           |        |
+NeuralRoughSigmoid2              |   663.228   665.358           |        |
+NeuralRoughTanh                  |  1160.727  1151.840           |        |
+NeuralSigmoid                    |  5169.079  4904.309           |        |
+NeuralTanh                       |  4051.929  4577.835           |        |
+NeuralUpdateWeights              |   479.533   481.690           |        |
+NormalizeHistogram               |    11.539    11.608           |        |
+OperationBinary16i<Add>          |    17.152     8.077           |        |
+OperationBinary16i<Sub>          |    17.232    17.313           |        |
+OperationBinary8u<Adds><1>       |    20.126    20.132           |        |
+OperationBinary8u<Adds><2>       |    44.967    45.068           |        |
+OperationBinary8u<Adds><3>       |    59.785    59.796           |        |
+OperationBinary8u<Adds><4>       |    79.812    79.648           |        |
+OperationBinary8u<And><1>        |     5.290     6.040           |        |
+OperationBinary8u<And><2>        |    10.529    10.539           |        |
+OperationBinary8u<And><3>        |    15.834    15.827           |        |
+OperationBinary8u<And><4>        |    23.792    24.308           |        |
+OperationBinary8u<Avg><1>        |    11.138    24.916           |        |
+OperationBinary8u<Avg><2>        |    35.010    35.065           |        |
+OperationBinary8u<Avg><3>        |    52.809    52.945           |        |
+OperationBinary8u<Avg><4>        |    69.856    70.003           |        |
+OperationBinary8u<Max><1>        |    10.228    10.140           |        |
+OperationBinary8u<Max><2>        |    37.468    37.528           |        |
+OperationBinary8u<Max><3>        |    56.262    56.244           |        |
+OperationBinary8u<Max><4>        |    75.287    75.324           |        |
+OperationBinary8u<Min><1>        |    19.555    18.816           |        |
+OperationBinary8u<Min><2>        |    37.495    37.448           |        |
+OperationBinary8u<Min><3>        |    56.473    56.047           |        |
+OperationBinary8u<Min><4>        |    75.238    74.701           |        |
+OperationBinary8u<Or><1>         |     5.943     5.965           |        |
+OperationBinary8u<Or><2>         |    10.649    10.647           |        |
+OperationBinary8u<Or><3>         |    15.897    15.886           |        |
+OperationBinary8u<Or><4>         |    21.146    21.156           |        |
+OperationBinary8u<Subs><1>       |    19.474    19.505           |        |
+OperationBinary8u<Subs><2>       |    17.107    35.628           |        |
+OperationBinary8u<Subs><3>       |    53.597    53.643           |        |
+OperationBinary8u<Subs><4>       |    71.787    71.626           |        |
+ReduceGray2x2                    |     6.383     6.637           |        |
+ReduceGray3x3[0]                 |    14.768    14.832           |        |
+ReduceGray3x3[1]                 |    15.089    14.940           |        |
+ReduceGray4x4                    |    21.715    21.726           |        |
+ReduceGray5x5[0]                 |    19.864    19.908           |        |
+ReduceGray5x5[1]                 |    18.697    18.657           |        |
+Reorder16bit                     |     4.862     4.871           |        |
+Reorder32bit                     |     4.977     5.143           |        |
+Reorder64bit                     |     3.357     3.417           |        |
+ResizeBilinear<1>                |    45.411    45.548           |        |
+ResizeBilinear<2>                |    88.958    89.352           |        |
+ResizeBilinear<3>                |   133.417   133.207           |        |
+ResizeBilinear<4>                |   198.409   198.292           |        |
+SegmentationChangeIndex          |    42.077    42.246           |        |
+SegmentationFillSingleHoles      |    72.742    72.908           |        |
+SegmentationPropagate2x2         |   284.864   279.508           |        |
+SegmentationShrinkRegion         |    10.823    11.048           |        |
+ShiftBilinear<1>                 |    47.512    48.244           |        |
+ShiftBilinear<2>                 |   112.669   111.945           |        |
+ShiftBilinear<3>                 |   154.268   152.174           |        |
+ShiftBilinear<4>                 |   205.483   203.879           |        |
+SobelDx                          |    62.139    22.869    82.523 |   0.28 |
+SobelDxAbs                       |    88.013    40.773    81.649 |   0.50 |
+SobelDxAbsSum                    |    93.389    25.110           |        |
+SobelDy                          |    59.449    28.216    51.286 |   0.55 |
+SobelDyAbs                       |    54.721    19.665    54.528 |   0.36 |
+SobelDyAbsSum                    |    93.343    22.914           |        |
+SquareSum                        |    17.646    17.683           |        |
+SquaredDifferenceKahanSum32f     |   444.464   328.614   604.882 |   0.54 |
+SquaredDifferenceSum             |    27.327    15.888    27.301 |   0.58 |
+SquaredDifferenceSum32f          |   162.274   153.294   209.199 |   0.73 |
+SquaredDifferenceSumMasked       |    27.989    37.718    22.373 |   1.69 |
+StretchGray2x2                   |    19.010    18.989           |        |
+SvmSumLinear                     |   184.876   185.140           |        |
+TextureBoostedSaturatedGradient  |    28.421    28.461           |        |
+TextureBoostedUv                 |    17.652    15.990           |        |
+TextureGetDifferenceSum          |    15.119    15.144           |        |
+TexturePerformCompensation       |     5.399     5.396           |        |
+ValueSum                         |    12.763    12.766           |        |
+VectorProduct                    |    15.579    15.577           |        |
+Yuv420pToBgr                     |    65.013    64.686           |        |
+Yuv420pToBgra                    |    85.444    84.854           |        |
+Yuv420pToHue                     |   559.457   564.123           |        |
+Yuv422pToBgr                     |    76.223    81.267           |        |
+Yuv422pToBgra                    |   117.045   114.748           |        |
+Yuv444pToBgr                     |    87.836    87.722           |        |
+Yuv444pToBgra                    |   124.897   117.570           |        |
+Yuv444pToHsl                     |   649.024   646.821           |        |
+Yuv444pToHsv                     |   516.280   517.268           |        |
+Yuv444pToHue                     |   559.043   559.995           |        |
+----------------------------------------------------------------------------

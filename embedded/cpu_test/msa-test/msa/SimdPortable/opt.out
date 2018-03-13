@@ -1,0 +1,1611 @@
+[8347648] INFO: SquaredDifferenceKahanSum32fAutoTest is started :
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+[8347648] INFO: SquaredDifferenceKahanSum32fAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+------------------------------------------------------------------
+Function                     |    Simd    Base     Msa |    B/M |
+------------------------------------------------------------------
+Common                       | 317.399 929.618 318.364 |   2.92 |
+------------------------------------------------------------------
+SquaredDifferenceKahanSum32f | 317.399 929.618 318.364 |   2.92 |
+------------------------------------------------------------------
+
+[root@buildroot tmp]# ./Test-3 -f=SquaredDifferenceKahanSum32f
+[8347648] INFO: SquaredDifferenceKahanSum32fAutoTest is started :
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+[8347648] INFO: SquaredDifferenceKahanSum32fAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+------------------------------------------------------------------
+Function                     |    Simd    Base     Msa |    B/M |
+------------------------------------------------------------------
+Common                       | 319.969 930.614 318.720 |   2.92 |
+------------------------------------------------------------------
+SquaredDifferenceKahanSum32f | 319.969 930.614 318.720 |   2.92 |
+------------------------------------------------------------------
+
+[root@buildroot tmp]# cp /Test-
+Test-0517    Test-1       Test-2       Test-3       Test-nopref
+[root@buildroot tmp]# cp /Test-
+Test-0517    Test-1       Test-2       Test-3       Test-nopref
+[root@buildroot tmp]# cp /Test-2 .
+
+
+
+
+[root@buildroot tmp]#
+[root@buildroot tmp]#
+[root@buildroot tmp]#
+[root@buildroot tmp]#
+[root@buildroot tmp]# ./Test-2 -f=SquaredDifferenceKahanSum32f
+[8278016] INFO: SquaredDifferenceKahanSum32fAutoTest is started :
+[8278016] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+[8278016] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+[8278016] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+[8278016] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+[8278016] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+[8278016] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+[8278016] INFO: SquaredDifferenceKahanSum32fAutoTest is finished successfully.
+
+[8278016] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8278016] INFO:
+
+Performance report:
+
+------------------------------------------------------------------
+Function                     |    Simd    Base     Msa |    B/M |
+------------------------------------------------------------------
+Common                       | 382.810 887.341 381.946 |   2.32 |
+------------------------------------------------------------------
+SquaredDifferenceKahanSum32f | 382.810 887.341 381.946 |   2.32 |
+------------------------------------------------------------------
+
+[root@buildroot tmp]#
+[root@buildroot tmp]#
+[root@buildroot tmp]#
+[root@buildroot tmp]# cp /Test-4 .
+cp: can't stat '/Test-4': No such file or directory
+[root@buildroot tmp]#
+[root@buildroot tmp]#
+[root@buildroot tmp]#
+[root@buildroot tmp]#
+[root@buildroot tmp]#
+[root@buildroot tmp]#
+[root@buildroot tmp]# cp /Test-5  .
+[root@buildroot tmp]# ./Test-5 -f=SquaredDifferenceKahanSum32f
+[8347648] INFO: SquaredDifferenceKahanSum32fAutoTest is started :
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+[8347648] INFO: SquaredDifferenceKahanSum32fAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+------------------------------------------------------------------
+Function                     |    Simd    Base     Msa |    B/M |
+------------------------------------------------------------------
+Common                       | 263.320 820.057 265.636 |   3.09 |
+------------------------------------------------------------------
+SquaredDifferenceKahanSum32f | 263.320 820.057 265.636 |   3.09 |
+------------------------------------------------------------------
+
+[root@buildroot tmp]# ./Test-4 -f=SquaredDifferenceKahanSum32f
+-sh: ./Test-4: No such file or directory
+[root@buildroot tmp]# cp /Test-
+Test-0517    Test-1       Test-2       Test-3       Test-5       Test-nopref
+[root@buildroot tmp]# cp /Test-4 .
+[root@buildroot tmp]# ./Test-4 -f=SquaredDifferenceKahanSum32f
+[8347648] INFO: SquaredDifferenceKahanSum32fAutoTest is started :
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+[8347648] INFO: SquaredDifferenceKahanSum32fAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+------------------------------------------------------------------
+Function                     |    Simd    Base     Msa |    B/M |
+------------------------------------------------------------------
+Common                       | 263.726 819.031 265.824 |   3.08 |
+------------------------------------------------------------------
+SquaredDifferenceKahanSum32f | 263.726 819.031 265.824 |   3.08 |
+------------------------------------------------------------------
+
+[root@buildroot tmp]# cp ../Test-6 .
+[root@buildroot tmp]# ./Test-6 -f=SquaredDifferenceKahanSum32f
+[8347648] INFO: SquaredDifferenceKahanSum32fAutoTest is started :
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+[8347648] INFO: SquaredDifferenceKahanSum32fAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+------------------------------------------------------------------
+Function                     |    Simd    Base     Msa |    B/M |
+------------------------------------------------------------------
+Common                       | 264.499 843.962 265.244 |   3.18 |
+------------------------------------------------------------------
+SquaredDifferenceKahanSum32f | 264.499 843.962 265.244 |   3.18 |
+------------------------------------------------------------------
+
+[root@buildroot tmp]#
+[root@buildroot tmp]#
+[root@buildroot tmp]#
+[root@buildroot tmp]#
+[root@buildroot tmp]# cp ../Test-6 .
+[root@buildroot tmp]#
+[root@buildroot tmp]#
+[root@buildroot tmp]# ./Test-6 -f=SquaredDifferenceKahanSum32f
+[8347648] INFO: SquaredDifferenceKahanSum32fAutoTest is started :
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+difference = 0.802336
+difference = 0.262496
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+difference = 0.802977
+difference = 0.264696
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+difference = 0.799367
+difference = 0.263288
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+difference = 0.265426
+difference = 0.265199
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+difference = 0.265978
+difference = 0.265940
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+difference = 0.262871
+difference = 0.264264
+[8347648] INFO: SquaredDifferenceKahanSum32fAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+------------------------------------------------------------------
+Function                     |    Simd    Base     Msa |    B/M |
+------------------------------------------------------------------
+Common                       | 263.847 802.336 265.426 |   3.02 |
+------------------------------------------------------------------
+SquaredDifferenceKahanSum32f | 263.847 802.336 265.426 |   3.02 |
+------------------------------------------------------------------
+
+[root@buildroot tmp]# for i in `cat ../FunctionList`;do ./Test-6 -f=$i;done
+[8347648] INFO: AbsDifferenceSumAutoTest is started :
+[8347648] INFO: Test Simd::Base::AbsDifferenceSum & SimdAbsDifferenceSum [1920, 1080].
+difference = 0.694186
+difference = 0.051395
+difference = 0.050439
+[8347648] INFO: Test Simd::Base::AbsDifferenceSum & SimdAbsDifferenceSum [1929, 1071].
+difference = 0.696544
+difference = 0.049402
+difference = 0.051145
+[8347648] INFO: Test Simd::Base::AbsDifferenceSum & SimdAbsDifferenceSum [1911, 1089].
+difference = 0.696475
+difference = 0.048908
+difference = 0.049374
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSum & SimdAbsDifferenceSum [1920, 1080].
+difference = 0.056345
+difference = 0.050380
+difference = 0.050519
+difference = 0.050311
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSum & SimdAbsDifferenceSum [1929, 1071].
+difference = 0.052561
+difference = 0.049616
+difference = 0.049339
+difference = 0.051471
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSum & SimdAbsDifferenceSum [1911, 1089].
+difference = 0.052218
+difference = 0.049679
+difference = 0.048891
+difference = 0.047763
+[8347648] INFO: AbsDifferenceSumAutoTest is finished successfully.
+
+[8347648] INFO: AbsDifferenceSumMaskedAutoTest is started :
+[8347648] INFO: Test Simd::Base::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1920, 1080].
+difference = 1.114776
+difference = 0.080291
+difference = 0.080097
+[8347648] INFO: Test Simd::Base::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1929, 1071].
+difference = 1.108902
+difference = 0.079879
+difference = 0.083165
+[8347648] INFO: Test Simd::Base::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1911, 1089].
+difference = 1.116938
+difference = 0.077578
+difference = 0.078919
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1920, 1080].
+difference = 0.081853
+difference = 0.080452
+difference = 0.080100
+difference = 0.084558
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1929, 1071].
+difference = 0.081748
+difference = 0.082374
+difference = 0.079642
+difference = 0.079916
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1911, 1089].
+difference = 0.080614
+difference = 0.079265
+difference = 0.078757
+difference = 0.079278
+[8347648] INFO: AbsDifferenceSumMaskedAutoTest is finished successfully.
+
+[8347648] INFO: AbsDifferenceSums3x3AutoTest is started :
+[8347648] INFO: Test Simd::Base::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1920, 1080].
+difference = 4.316805
+difference = 0.659779
+[8347648] INFO: Test Simd::Base::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1929, 1071].
+difference = 4.319487
+difference = 0.661220
+[8347648] INFO: Test Simd::Base::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1911, 1089].
+difference = 4.358980
+difference = 0.659799
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1920, 1080].
+difference = 0.654936
+difference = 0.664977
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1929, 1071].
+difference = 0.656883
+difference = 0.661446
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1911, 1089].
+difference = 0.663339
+difference = 0.662882
+[8347648] INFO: AbsDifferenceSums3x3AutoTest is finished successfully.
+
+[8347648] INFO: AbsDifferenceSums3x3MaskedAutoTest is started :
+[8347648] INFO: Test Simd::Base::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1920, 1080].
+difference = 2.664983
+difference = 1.004118
+[8347648] INFO: Test Simd::Base::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1929, 1071].
+difference = 2.674342
+difference = 1.001173
+[8347648] INFO: Test Simd::Base::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1911, 1089].
+difference = 2.686341
+difference = 1.006111
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1920, 1080].
+difference = 1.003640
+difference = 1.003517
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1929, 1071].
+difference = 0.998463
+difference = 1.001982
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1911, 1089].
+difference = 1.005142
+difference = 1.007457
+[8347648] INFO: AbsDifferenceSums3x3MaskedAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+-------------------------------------------------------------------
+Function                   |     Simd     Base      Msa |    B/M |
+-------------------------------------------------------------------
+Common                     |  228.739 1727.349  230.982 |   7.48 |
+-------------------------------------------------------------------
+AbsDifferenceSum           |   50.666  694.186   53.362 |  13.01 |
+AbsDifferenceSumMasked     |   81.262 1114.776   81.153 |  13.74 |
+AbsDifferenceSums3x3       |  662.378 4316.805  654.936 |   6.59 |
+AbsDifferenceSums3x3Masked | 1003.818 2664.983 1003.640 |   2.66 |
+-------------------------------------------------------------------
+
+[8347648] INFO: AbsDifferenceSumMaskedAutoTest is started :
+[8347648] INFO: Test Simd::Base::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1920, 1080].
+difference = 1.112874
+difference = 0.079924
+difference = 0.083109
+[8347648] INFO: Test Simd::Base::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1929, 1071].
+difference = 1.109764
+difference = 0.082221
+difference = 0.078385
+[8347648] INFO: Test Simd::Base::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1911, 1089].
+difference = 1.120642
+difference = 0.079266
+difference = 0.081139
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1920, 1080].
+difference = 0.082691
+difference = 0.082802
+difference = 0.080257
+difference = 0.079828
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1929, 1071].
+difference = 0.082079
+difference = 0.079923
+difference = 0.080238
+difference = 0.079816
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSumMasked & SimdAbsDifferenceSumMasked [1911, 1089].
+difference = 0.083720
+difference = 0.078848
+difference = 0.079575
+difference = 0.080513
+[8347648] INFO: AbsDifferenceSumMaskedAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+---------------------------------------------------------------
+Function               |     Simd     Base      Msa |    B/M |
+---------------------------------------------------------------
+Common                 |   80.780 1112.874   82.747 |  13.45 |
+---------------------------------------------------------------
+AbsDifferenceSumMasked |   80.780 1112.874   82.747 |  13.45 |
+---------------------------------------------------------------
+
+[8347648] INFO: AbsDifferenceSums3x3AutoTest is started :
+[8347648] INFO: Test Simd::Base::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1920, 1080].
+difference = 4.322866
+difference = 0.659577
+[8347648] INFO: Test Simd::Base::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1929, 1071].
+difference = 4.317662
+difference = 0.662827
+[8347648] INFO: Test Simd::Base::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1911, 1089].
+difference = 4.350730
+difference = 0.662127
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1920, 1080].
+difference = 0.661396
+difference = 0.662391
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1929, 1071].
+difference = 0.661864
+difference = 0.658258
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSums3x3 & SimdAbsDifferenceSums3x3 [1911, 1089].
+difference = 0.662700
+difference = 0.665613
+[8347648] INFO: AbsDifferenceSums3x3AutoTest is finished successfully.
+
+[8347648] INFO: AbsDifferenceSums3x3MaskedAutoTest is started :
+[8347648] INFO: Test Simd::Base::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1920, 1080].
+difference = 2.671811
+difference = 0.994928
+[8347648] INFO: Test Simd::Base::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1929, 1071].
+difference = 2.670386
+difference = 0.999093
+[8347648] INFO: Test Simd::Base::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1911, 1089].
+difference = 2.683758
+difference = 1.004269
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1920, 1080].
+difference = 0.996967
+difference = 0.995732
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1929, 1071].
+difference = 0.998986
+difference = 1.002631
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1911, 1089].
+difference = 1.002005
+difference = 1.002613
+[8347648] INFO: AbsDifferenceSums3x3MaskedAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+-------------------------------------------------------------------
+Function                   |     Simd     Base      Msa |    B/M |
+-------------------------------------------------------------------
+Common                     |  811.109 3398.511  812.028 |   4.19 |
+-------------------------------------------------------------------
+AbsDifferenceSums3x3       |  660.984 4322.866  661.396 |   6.54 |
+AbsDifferenceSums3x3Masked |  995.330 2671.811  996.967 |   2.68 |
+-------------------------------------------------------------------
+
+[8347648] INFO: AbsDifferenceSums3x3MaskedAutoTest is started :
+[8347648] INFO: Test Simd::Base::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1920, 1080].
+difference = 2.666689
+difference = 1.002860
+[8347648] INFO: Test Simd::Base::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1929, 1071].
+difference = 2.670496
+difference = 1.002593
+[8347648] INFO: Test Simd::Base::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1911, 1089].
+difference = 2.685621
+difference = 1.008192
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1920, 1080].
+difference = 1.005365
+difference = 0.999955
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1929, 1071].
+difference = 1.005995
+difference = 1.004578
+[8347648] INFO: Test Simd::Msa::AbsDifferenceSums3x3Masked & SimdAbsDifferenceSums3x3Masked [1911, 1089].
+difference = 1.005717
+difference = 1.002800
+[8347648] INFO: AbsDifferenceSums3x3MaskedAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+-------------------------------------------------------------------
+Function                   |     Simd     Base      Msa |    B/M |
+-------------------------------------------------------------------
+Common                     | 1001.407 2666.689 1005.365 |   2.65 |
+-------------------------------------------------------------------
+AbsDifferenceSums3x3Masked | 1001.407 2666.689 1005.365 |   2.65 |
+-------------------------------------------------------------------
+
+[8347648] INFO: SquaredDifferenceSumAutoTest is started :
+[8347648] INFO: Test Simd::Base::SquaredDifferenceSum & SimdSquaredDifferenceSum [1920, 1080].
+difference = 0.514043
+difference = 0.068287
+difference = 0.067760
+[8347648] INFO: Test Simd::Base::SquaredDifferenceSum & SimdSquaredDifferenceSum [1929, 1071].
+difference = 0.513894
+difference = 0.068327
+difference = 0.068088
+[8347648] INFO: Test Simd::Base::SquaredDifferenceSum & SimdSquaredDifferenceSum [1911, 1089].
+difference = 0.516181
+difference = 0.069410
+difference = 0.068667
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceSum & SimdSquaredDifferenceSum [1920, 1080].
+difference = 0.068263
+difference = 0.070871
+difference = 0.066515
+difference = 0.066473
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceSum & SimdSquaredDifferenceSum [1929, 1071].
+difference = 0.068786
+difference = 0.067958
+difference = 0.068707
+difference = 0.068511
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceSum & SimdSquaredDifferenceSum [1911, 1089].
+difference = 0.071796
+difference = 0.072091
+difference = 0.068559
+difference = 0.067315
+[8347648] INFO: SquaredDifferenceSumAutoTest is finished successfully.
+
+[8347648] INFO: SquaredDifferenceSumMaskedAutoTest is started :
+[8347648] INFO: Test Simd::Base::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1920, 1080].
+difference = 1.081182
+difference = 0.093665
+difference = 0.093328
+[8347648] INFO: Test Simd::Base::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1929, 1071].
+difference = 1.077784
+difference = 0.096476
+difference = 0.092079
+[8347648] INFO: Test Simd::Base::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1911, 1089].
+difference = 1.087818
+difference = 0.093914
+difference = 0.094552
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1920, 1080].
+difference = 0.095013
+difference = 0.093018
+difference = 0.094358
+difference = 0.092985
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1929, 1071].
+difference = 0.093212
+difference = 0.092859
+difference = 0.095358
+difference = 0.092977
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1911, 1089].
+difference = 0.094155
+difference = 0.094530
+difference = 0.093106
+difference = 0.093618
+[8347648] INFO: SquaredDifferenceSumMaskedAutoTest is finished successfully.
+
+[8347648] INFO: SquaredDifferenceSum32fAutoTest is started :
+[8347648] INFO: Test Simd::Base::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073600].
+difference = 0.646526
+difference = 0.651138
+[8347648] INFO: Test Simd::Base::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073609].
+difference = 0.648822
+difference = 0.646768
+[8347648] INFO: Test Simd::Base::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073591].
+difference = 0.638191
+difference = 0.644844
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073600].
+difference = 0.204982
+difference = 0.647120
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073609].
+difference = 0.201289
+difference = 0.643660
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073591].
+difference = 0.202182
+difference = 0.645386
+[8347648] INFO: SquaredDifferenceSum32fAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+-------------------------------------------------------------------
+Function                   |     Simd     Base      Msa |    B/M |
+-------------------------------------------------------------------
+Common                     |  159.868  710.932  110.265 |   6.45 |
+-------------------------------------------------------------------
+SquaredDifferenceSum       |   67.259  514.043   69.567 |   7.39 |
+SquaredDifferenceSum32f    |  649.129  646.526  204.982 |   3.15 |
+SquaredDifferenceSumMasked |   93.584 1081.182   94.015 |  11.50 |
+-------------------------------------------------------------------
+
+[8347648] INFO: SquaredDifferenceSumMaskedAutoTest is started :
+[8347648] INFO: Test Simd::Base::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1920, 1080].
+difference = 1.199427
+difference = 0.116833
+[8347648] INFO: Test Simd::Base::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1929, 1071].
+difference = 1.190502
+difference = 0.114273
+[8347648] INFO: Test Simd::Base::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1911, 1089].
+difference = 1.204939
+difference = 0.115788
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1920, 1080].
+difference = 0.117332
+difference = 0.116133
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1929, 1071].
+difference = 0.115946
+difference = 0.116275
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceSumMasked & SimdSquaredDifferenceSumMasked [1911, 1089].
+difference = 0.116674
+difference = 0.115752
+[8347648] INFO: SquaredDifferenceSumMaskedAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+-------------------------------------------------------------------
+Function                   |     Simd     Base      Msa |    B/M |
+-------------------------------------------------------------------
+Common                     |  116.483 1199.427  117.332 |  10.22 |
+-------------------------------------------------------------------
+SquaredDifferenceSumMasked |  116.483 1199.427  117.332 |  10.22 |
+-------------------------------------------------------------------
+
+[8347648] INFO: SquaredDifferenceSum32fAutoTest is started :
+[8347648] INFO: Test Simd::Base::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073600].
+difference = 0.714636
+difference = 0.714552
+[8347648] INFO: Test Simd::Base::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073609].
+difference = 0.708129
+difference = 0.712183
+[8347648] INFO: Test Simd::Base::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073591].
+difference = 0.708714
+difference = 0.707901
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073600].
+difference = 0.257212
+difference = 0.712199
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073609].
+difference = 0.256435
+difference = 0.711080
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceSum32f & SimdSquaredDifferenceSum32f [2073591].
+difference = 0.258502
+difference = 0.714162
+[8347648] INFO: SquaredDifferenceSum32fAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+-------------------------------------------------------------
+Function                |    Simd    Base     Msa |    B/M |
+-------------------------------------------------------------
+Common                  | 713.376 714.636 257.212 |   2.78 |
+-------------------------------------------------------------
+SquaredDifferenceSum32f | 713.376 714.636 257.212 |   2.78 |
+-------------------------------------------------------------
+
+[8347648] INFO: SquaredDifferenceKahanSum32fAutoTest is started :
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+difference = 0.886718
+difference = 0.318356
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+difference = 0.889597
+difference = 0.316348
+[8347648] INFO: Test Simd::Base::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+difference = 0.890615
+difference = 0.316748
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073600].
+difference = 0.318538
+difference = 0.316112
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073609].
+difference = 0.321223
+difference = 0.318291
+[8347648] INFO: Test Simd::Msa::SquaredDifferenceKahanSum32f & SimdSquaredDifferenceKahanSum32f [2073591].
+difference = 0.317558
+difference = 0.318815
+[8347648] INFO: SquaredDifferenceKahanSum32fAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+------------------------------------------------------------------
+Function                     |    Simd    Base     Msa |    B/M |
+------------------------------------------------------------------
+Common                       | 317.234 886.718 318.538 |   2.78 |
+------------------------------------------------------------------
+SquaredDifferenceKahanSum32f | 317.234 886.718 318.538 |   2.78 |
+------------------------------------------------------------------
+
+[8347648] INFO: AddFeatureDifferenceAutoTest is started :
+[8347648] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (0*256).
+difference = 2.049216
+difference = 0.219204
+[8347648] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (0*256).
+difference = 2.043554
+difference = 0.218643
+[8347648] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (0*256).
+difference = 2.062749
+difference = 0.220049
+[8347648] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (7*256).
+difference = 2.052501
+difference = 0.217387
+[8347648] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (7*256).
+difference = 2.045198
+difference = 0.218924
+[8347648] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (7*256).
+difference = 2.062698
+difference = 0.216864
+[8347648] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (14*256).
+difference = 2.055165
+difference = 0.220392
+[8347648] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (14*256).
+difference = 2.046513
+difference = 0.217847
+[8347648] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (14*256).
+difference = 2.062465
+difference = 0.215477
+[8347648] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (21*256).
+difference = 2.054554
+difference = 0.217992
+[8347648] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (21*256).
+difference = 2.043238
+difference = 0.224828
+[8347648] INFO: Test Simd::Base::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (21*256).
+difference = 2.064777
+difference = 0.217092
+[8347648] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (0*256).
+difference = 0.219112
+difference = 0.217761
+[8347648] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (0*256).
+difference = 0.216565
+difference = 0.219416
+[8347648] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (0*256).
+difference = 0.218914
+difference = 0.216530
+[8347648] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (7*256).
+difference = 0.218476
+difference = 0.220691
+[8347648] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (7*256).
+difference = 0.219214
+difference = 0.218206
+[8347648] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (7*256).
+difference = 0.219030
+difference = 0.217024
+[8347648] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (14*256).
+difference = 0.217918
+difference = 0.218070
+[8347648] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (14*256).
+difference = 0.217104
+difference = 0.218784
+[8347648] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (14*256).
+difference = 0.220132
+difference = 0.219861
+[8347648] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1920, 1080] (21*256).
+difference = 0.221464
+difference = 0.217666
+[8347648] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1929, 1071] (21*256).
+difference = 0.217007
+difference = 0.221375
+[8347648] INFO: Test Simd::Msa::AddFeatureDifference & SimdAddFeatureDifference [1911, 1089] (21*256).
+difference = 0.221151
+difference = 0.216588
+[8347648] INFO: AddFeatureDifferenceAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+-------------------------------------------------------------
+Function             |     Simd     Base      Msa |    B/M |
+-------------------------------------------------------------
+Common               |  218.645 2052.859  219.243 |   9.36 |
+-------------------------------------------------------------
+AddFeatureDifference |  218.645 2052.859  219.243 |   9.36 |
+-------------------------------------------------------------
+
+[8347648] INFO: BgraToBgrAutoTest is started :
+[8347648] INFO: Test Simd::Base::BgraToBgr & SimdBgraToBgr for size [1920,1080].
+difference = 25.009253
+difference = 0.600188
+[8347648] INFO: Test Simd::Base::BgraToBgr & SimdBgraToBgr for size [1929,1071].
+difference = 24.933019
+difference = 0.596707
+[8347648] INFO: Test Simd::Base::BgraToBgr & SimdBgraToBgr for size [1911,1089].
+difference = 25.094243
+difference = 0.602945
+[8347648] INFO: Test Simd::Msa::BgraToBgr & SimdBgraToBgr for size [1920,1080].
+difference = 0.604157
+difference = 0.602437
+[8347648] INFO: Test Simd::Msa::BgraToBgr & SimdBgraToBgr for size [1929,1071].
+difference = 0.598742
+difference = 0.593764
+[8347648] INFO: Test Simd::Msa::BgraToBgr & SimdBgraToBgr for size [1911,1089].
+difference = 0.601500
+difference = 0.595950
+[8347648] INFO: BgraToBgrAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+-----------------------------------------------------
+Function  |      Simd      Base       Msa |    B/M |
+-----------------------------------------------------
+Common    |   601.312 25009.253   604.157 |  41.40 |
+-----------------------------------------------------
+BgraToBgr |   601.312 25009.253   604.157 |  41.40 |
+-----------------------------------------------------
+
+[8347648] INFO: BgraToGrayAutoTest is started :
+[8347648] INFO: Test Simd::Base::BgraToGray & SimdBgraToGray for size [1920,1080].
+difference = 1.812328
+difference = 0.393912
+[8347648] INFO: Test Simd::Base::BgraToGray & SimdBgraToGray for size [1929,1071].
+difference = 1.803868
+difference = 0.385739
+[8347648] INFO: Test Simd::Base::BgraToGray & SimdBgraToGray for size [1911,1089].
+difference = 1.817430
+difference = 0.392219
+[8347648] INFO: Test Simd::Msa::BgraToGray & SimdBgraToGray for size [1920,1080].
+difference = 0.397006
+difference = 0.394796
+[8347648] INFO: Test Simd::Msa::BgraToGray & SimdBgraToGray for size [1929,1071].
+difference = 0.387331
+difference = 0.385763
+[8347648] INFO: Test Simd::Msa::BgraToGray & SimdBgraToGray for size [1911,1089].
+difference = 0.387412
+difference = 0.390349
+[8347648] INFO: BgraToGrayAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+---------------------------------------------------
+Function   |     Simd     Base      Msa |    B/M |
+---------------------------------------------------
+Common     |  394.354 1812.328  397.006 |   4.56 |
+---------------------------------------------------
+BgraToGray |  394.354 1812.328  397.006 |   4.56 |
+---------------------------------------------------
+
+[8347648] INFO: BgrToGrayAutoTest is started :
+[8347648] INFO: Test Simd::Base::BgrToGray & SimdBgrToGray for size [1920,1080].
+difference = 1.401781
+difference = 0.291020
+[8347648] INFO: Test Simd::Base::BgrToGray & SimdBgrToGray for size [1929,1071].
+difference = 1.390029
+difference = 0.292609
+[8347648] INFO: Test Simd::Base::BgrToGray & SimdBgrToGray for size [1911,1089].
+difference = 1.403997
+difference = 0.292795
+[8347648] INFO: Test Simd::Msa::BgrToGray & SimdBgrToGray for size [1920,1080].
+difference = 0.289259
+difference = 0.288363
+[8347648] INFO: Test Simd::Msa::BgrToGray & SimdBgrToGray for size [1929,1071].
+difference = 0.290198
+difference = 0.287817
+[8347648] INFO: Test Simd::Msa::BgrToGray & SimdBgrToGray for size [1911,1089].
+difference = 0.292986
+difference = 0.292980
+[8347648] INFO: BgrToGrayAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+--------------------------------------------------
+Function  |     Simd     Base      Msa |    B/M |
+--------------------------------------------------
+Common    |  289.691 1401.781  289.259 |   4.85 |
+--------------------------------------------------
+BgrToGray |  289.691 1401.781  289.259 |   4.85 |
+--------------------------------------------------
+
+[8347648] INFO: GrayToBgrAutoTest is started :
+[8347648] INFO: Test Simd::Base::GrayToBgr & SimdGrayToBgr for size [1920,1080].
+difference = 0.736373
+difference = 0.401572
+[8347648] INFO: Test Simd::Base::GrayToBgr & SimdGrayToBgr for size [1929,1071].
+difference = 0.731164
+difference = 0.402088
+[8347648] INFO: Test Simd::Base::GrayToBgr & SimdGrayToBgr for size [1911,1089].
+difference = 0.736060
+difference = 0.404588
+[8347648] INFO: Test Simd::Msa::GrayToBgr & SimdGrayToBgr for size [1920,1080].
+difference = 0.399857
+difference = 0.407334
+[8347648] INFO: Test Simd::Msa::GrayToBgr & SimdGrayToBgr for size [1929,1071].
+difference = 0.397414
+difference = 0.403364
+[8347648] INFO: Test Simd::Msa::GrayToBgr & SimdGrayToBgr for size [1911,1089].
+difference = 0.399536
+difference = 0.406997
+[8347648] INFO: GrayToBgrAutoTest is finished successfully.
+
+[8347648] INFO: GrayToBgraAutoTest is started :
+[8347648] INFO: Test Simd::Base::GrayToBgra & SimdGrayToBgra for size [1920,1080].
+difference = 0.957220
+difference = 0.528028
+[8347648] INFO: Test Simd::Base::GrayToBgra & SimdGrayToBgra for size [1929,1071].
+difference = 0.950374
+difference = 0.526936
+[8347648] INFO: Test Simd::Base::GrayToBgra & SimdGrayToBgra for size [1911,1089].
+difference = 0.954928
+difference = 0.532842
+[8347648] INFO: Test Simd::Msa::GrayToBgra & SimdGrayToBgra for size [1920,1080].
+difference = 0.527091
+difference = 0.533427
+[8347648] INFO: Test Simd::Msa::GrayToBgra & SimdGrayToBgra for size [1929,1071].
+difference = 0.524510
+difference = 0.527194
+[8347648] INFO: Test Simd::Msa::GrayToBgra & SimdGrayToBgra for size [1911,1089].
+difference = 0.528987
+difference = 0.529918
+[8347648] INFO: GrayToBgraAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+------------------------------------------------
+Function   |    Simd    Base     Msa |    B/M |
+------------------------------------------------
+Common     | 463.308 839.566 459.087 |   1.83 |
+------------------------------------------------
+GrayToBgr  | 404.453 736.373 399.857 |   1.84 |
+GrayToBgra | 530.728 957.220 527.091 |   1.82 |
+------------------------------------------------
+
+[8347648] INFO: Int16ToGrayAutoTest is started :
+[8347648] INFO: Test Simd::Base::Int16ToGray & SimdInt16ToGray for size [1920,1080].
+difference = 0.818039
+difference = 0.234401
+[8347648] INFO: Test Simd::Base::Int16ToGray & SimdInt16ToGray for size [1929,1071].
+difference = 0.816243
+difference = 0.233842
+[8347648] INFO: Test Simd::Base::Int16ToGray & SimdInt16ToGray for size [1911,1089].
+difference = 0.821447
+difference = 0.234975
+[8347648] INFO: Test Simd::Msa::Int16ToGray & SimdInt16ToGray for size [1920,1080].
+difference = 0.234597
+difference = 0.234081
+[8347648] INFO: Test Simd::Msa::Int16ToGray & SimdInt16ToGray for size [1929,1071].
+difference = 0.234074
+difference = 0.231119
+[8347648] INFO: Test Simd::Msa::Int16ToGray & SimdInt16ToGray for size [1911,1089].
+difference = 0.233577
+difference = 0.232312
+[8347648] INFO: Int16ToGrayAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+-------------------------------------------------
+Function    |    Simd    Base     Msa |    B/M |
+-------------------------------------------------
+Common      | 234.241 818.039 234.597 |   3.49 |
+-------------------------------------------------
+Int16ToGray | 234.241 818.039 234.597 |   3.49 |
+-------------------------------------------------
+
+[8347648] INFO: BgraToBayerAutoTest is started :
+[8347648] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer GRBG.
+difference = 0.737247
+difference = 0.302437
+[8347648] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer GRBG.
+difference = 0.747152
+difference = 0.294359
+[8347648] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer GRBG.
+difference = 0.746339
+difference = 0.297773
+[8347648] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer GBRG.
+difference = 0.733138
+difference = 0.304052
+[8347648] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer GBRG.
+difference = 0.748601
+difference = 0.292953
+[8347648] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer GBRG.
+difference = 0.747295
+difference = 0.294725
+[8347648] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer RGGB.
+difference = 0.732703
+difference = 0.301677
+[8347648] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer RGGB.
+difference = 0.744728
+difference = 0.296641
+[8347648] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer RGGB.
+difference = 0.747799
+difference = 0.294185
+[8347648] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer BGGR.
+difference = 0.734695
+difference = 0.305113
+[8347648] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer BGGR.
+difference = 0.746189
+difference = 0.296457
+[8347648] INFO: Test Simd::Base::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer BGGR.
+difference = 0.746957
+difference = 0.293756
+[8347648] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer GRBG.
+difference = 0.302167
+difference = 0.301575
+[8347648] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer GRBG.
+difference = 0.292101
+difference = 0.294723
+[8347648] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer GRBG.
+difference = 0.295500
+difference = 0.298135
+[8347648] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer GBRG.
+difference = 0.306524
+difference = 0.304232
+[8347648] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer GBRG.
+difference = 0.293248
+difference = 0.293880
+[8347648] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer GBRG.
+difference = 0.294851
+difference = 0.296388
+[8347648] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer RGGB.
+difference = 0.303969
+difference = 0.301438
+[8347648] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer RGGB.
+difference = 0.294278
+difference = 0.299338
+[8347648] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer RGGB.
+difference = 0.298547
+difference = 0.295629
+[8347648] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1920,1080] of Bayer BGGR.
+difference = 0.305657
+difference = 0.302683
+[8347648] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1930,1070] of Bayer BGGR.
+difference = 0.293014
+difference = 0.294523
+[8347648] INFO: Test Simd::Msa::BgraToBayer & SimdBgraToBayer for size [1910,1090] of Bayer BGGR.
+difference = 0.294327
+difference = 0.294230
+[8347648] INFO: BgraToBayerAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+-------------------------------------------------
+Function    |    Simd    Base     Msa |    B/M |
+-------------------------------------------------
+Common      | 302.901 734.446 304.579 |   2.41 |
+-------------------------------------------------
+BgraToBayer | 302.901 734.446 304.579 |   2.41 |
+-------------------------------------------------
+
+[8347648] INFO: BgrToBayerAutoTest is started :
+[8347648] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer GRBG.
+difference = 0.628482
+difference = 0.261592
+[8347648] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer GRBG.
+difference = 0.646986
+difference = 0.260238
+[8347648] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer GRBG.
+difference = 0.652871
+difference = 0.265651
+[8347648] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer GBRG.
+difference = 0.584698
+difference = 0.262654
+[8347648] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer GBRG.
+difference = 0.648060
+difference = 0.259282
+[8347648] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer GBRG.
+difference = 0.650802
+difference = 0.259982
+[8347648] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer RGGB.
+difference = 0.628678
+difference = 0.265206
+[8347648] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer RGGB.
+difference = 0.644707
+difference = 0.261236
+[8347648] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer RGGB.
+difference = 0.651926
+difference = 0.258121
+[8347648] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer BGGR.
+difference = 0.625005
+difference = 0.264397
+[8347648] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer BGGR.
+difference = 0.642737
+difference = 0.264719
+[8347648] INFO: Test Simd::Base::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer BGGR.
+difference = 0.655269
+difference = 0.260035
+[8347648] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer GRBG.
+difference = 0.265139
+difference = 0.262190
+[8347648] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer GRBG.
+difference = 0.262112
+difference = 0.259913
+[8347648] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer GRBG.
+difference = 0.260035
+difference = 0.262546
+[8347648] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer GBRG.
+difference = 0.264965
+difference = 0.263847
+[8347648] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer GBRG.
+difference = 0.260259
+difference = 0.259255
+[8347648] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer GBRG.
+difference = 0.260849
+difference = 0.263435
+[8347648] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer RGGB.
+difference = 0.262705
+difference = 0.262839
+[8347648] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer RGGB.
+difference = 0.260244
+difference = 0.260999
+[8347648] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer RGGB.
+difference = 0.261142
+difference = 0.260084
+[8347648] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1920,1080] of Bayer BGGR.
+difference = 0.264366
+difference = 0.263003
+[8347648] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1930,1070] of Bayer BGGR.
+difference = 0.261738
+difference = 0.260707
+[8347648] INFO: Test Simd::Msa::BgrToBayer & SimdBgrToBayer for size [1910,1090] of Bayer BGGR.
+difference = 0.260171
+difference = 0.263711
+[8347648] INFO: BgrToBayerAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+------------------------------------------------
+Function   |    Simd    Base     Msa |    B/M |
+------------------------------------------------
+Common     | 263.216 616.716 264.294 |   2.33 |
+------------------------------------------------
+BgrToBayer | 263.216 616.716 264.294 |   2.33 |
+------------------------------------------------
+
+[8347648] INFO: BgrToBgraAutoTest is started :
+[8347648] INFO: Test Simd::Base::BgrToBgra & SimdBgrToBgra for size [1920,1080].
+difference = 22.869290
+difference = 0.716688
+[8347648] INFO: Test Simd::Base::BgrToBgra & SimdBgrToBgra for size [1929,1071].
+difference = 22.730745
+difference = 0.710575
+[8347648] INFO: Test Simd::Base::BgrToBgra & SimdBgrToBgra for size [1911,1089].
+difference = 22.949170
+difference = 0.712779
+[8347648] INFO: Test Simd::Msa::BgrToBgra & SimdBgrToBgra for size [1920,1080].
+difference = 0.716583
+difference = 0.717042
+[8347648] INFO: Test Simd::Msa::BgrToBgra & SimdBgrToBgra for size [1929,1071].
+difference = 0.709763
+difference = 0.710892
+[8347648] INFO: Test Simd::Msa::BgrToBgra & SimdBgrToBgra for size [1911,1089].
+difference = 0.712439
+difference = 0.715593
+[8347648] INFO: BgrToBgraAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+-----------------------------------------------------
+Function  |      Simd      Base       Msa |    B/M |
+-----------------------------------------------------
+Common    |   716.865 22869.290   716.583 |  31.91 |
+-----------------------------------------------------
+BgrToBgra |   716.865 22869.290   716.583 |  31.91 |
+-----------------------------------------------------
+
+[8347648] INFO: GrayToBgraAutoTest is started :
+[8347648] INFO: Test Simd::Base::GrayToBgra & SimdGrayToBgra for size [1920,1080].
+difference = 0.952948
+difference = 0.527858
+[8347648] INFO: Test Simd::Base::GrayToBgra & SimdGrayToBgra for size [1929,1071].
+difference = 0.952572
+difference = 0.522716
+[8347648] INFO: Test Simd::Base::GrayToBgra & SimdGrayToBgra for size [1911,1089].
+difference = 0.954292
+difference = 0.529784
+[8347648] INFO: Test Simd::Msa::GrayToBgra & SimdGrayToBgra for size [1920,1080].
+difference = 0.530433
+difference = 0.529575
+[8347648] INFO: Test Simd::Msa::GrayToBgra & SimdGrayToBgra for size [1929,1071].
+difference = 0.526769
+difference = 0.523444
+[8347648] INFO: Test Simd::Msa::GrayToBgra & SimdGrayToBgra for size [1911,1089].
+difference = 0.527308
+difference = 0.529247
+[8347648] INFO: GrayToBgraAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+------------------------------------------------
+Function   |    Simd    Base     Msa |    B/M |
+------------------------------------------------
+Common     | 528.716 952.948 530.433 |   1.80 |
+------------------------------------------------
+GrayToBgra | 528.716 952.948 530.433 |   1.80 |
+------------------------------------------------
+
+[8347648] INFO: BgraToYuv420pAutoTest is started :
+[8347648] INFO: Test Simd::Base::BgraToYuv420p & SimdBgraToYuv420p [1920, 1080].
+difference = 2.497875
+difference = 0.637452
+[8347648] INFO: Test Simd::Base::BgraToYuv420p & SimdBgraToYuv420p [1938, 1062].
+difference = 2.488047
+difference = 0.629315
+[8347648] INFO: Test Simd::Base::BgraToYuv420p & SimdBgraToYuv420p [1902, 1098].
+difference = 2.514921
+difference = 0.636565
+[8347648] INFO: Test Simd::Msa::BgraToYuv420p & SimdBgraToYuv420p [1920, 1080].
+difference = 0.632041
+difference = 0.637270
+[8347648] INFO: Test Simd::Msa::BgraToYuv420p & SimdBgraToYuv420p [1938, 1062].
+difference = 0.622045
+difference = 0.628210
+[8347648] INFO: Test Simd::Msa::BgraToYuv420p & SimdBgraToYuv420p [1902, 1098].
+difference = 0.639820
+difference = 0.638432
+[8347648] INFO: BgraToYuv420pAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+------------------------------------------------------
+Function      |     Simd     Base      Msa |    B/M |
+------------------------------------------------------
+Common        |  637.361 2497.875  632.041 |   3.95 |
+------------------------------------------------------
+BgraToYuv420p |  637.361 2497.875  632.041 |   3.95 |
+------------------------------------------------------
+
+[8347648] INFO: BgraToYuv422pAutoTest is started :
+[8347648] INFO: Test Simd::Base::BgraToYuv422p & SimdBgraToYuv422p [1920, 1080].
+difference = 2.856198
+difference = 0.789806
+[8347648] INFO: Test Simd::Base::BgraToYuv422p & SimdBgraToYuv422p [1938, 1071].
+difference = 2.859194
+difference = 0.789422
+[8347648] INFO: Test Simd::Base::BgraToYuv422p & SimdBgraToYuv422p [1902, 1089].
+difference = 2.854130
+difference = 0.781972
+[8347648] INFO: Test Simd::Msa::BgraToYuv422p & SimdBgraToYuv422p [1920, 1080].
+difference = 0.789182
+difference = 0.787134
+[8347648] INFO: Test Simd::Msa::BgraToYuv422p & SimdBgraToYuv422p [1938, 1071].
+difference = 0.789220
+difference = 0.788173
+[8347648] INFO: Test Simd::Msa::BgraToYuv422p & SimdBgraToYuv422p [1902, 1089].
+difference = 0.783107
+difference = 0.785562
+[8347648] INFO: BgraToYuv422pAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+------------------------------------------------------
+Function      |     Simd     Base      Msa |    B/M |
+------------------------------------------------------
+Common        |  788.470 2856.198  789.182 |   3.62 |
+------------------------------------------------------
+BgraToYuv422p |  788.470 2856.198  789.182 |   3.62 |
+------------------------------------------------------
+
+[8347648] INFO: BgraToYuv444pAutoTest is started :
+[8347648] INFO: Test Simd::Base::BgraToYuv444p & SimdBgraToYuv444p [1920, 1080].
+difference = 3.128476
+difference = 1.131179
+[8347648] INFO: Test Simd::Base::BgraToYuv444p & SimdBgraToYuv444p [1929, 1071].
+difference = 3.113249
+difference = 1.124229
+[8347648] INFO: Test Simd::Base::BgraToYuv444p & SimdBgraToYuv444p [1911, 1089].
+difference = 3.136591
+difference = 1.133912
+[8347648] INFO: Test Simd::Msa::BgraToYuv444p & SimdBgraToYuv444p [1920, 1080].
+difference = 1.130535
+difference = 1.131605
+[8347648] INFO: Test Simd::Msa::BgraToYuv444p & SimdBgraToYuv444p [1929, 1071].
+difference = 1.125738
+difference = 1.122561
+[8347648] INFO: Test Simd::Msa::BgraToYuv444p & SimdBgraToYuv444p [1911, 1089].
+difference = 1.129675
+difference = 1.129935
+[8347648] INFO: BgraToYuv444pAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+------------------------------------------------------
+Function      |     Simd     Base      Msa |    B/M |
+------------------------------------------------------
+Common        | 1131.392 3128.476 1130.535 |   2.77 |
+------------------------------------------------------
+BgraToYuv444p | 1131.392 3128.476 1130.535 |   2.77 |
+------------------------------------------------------
+
+[8347648] INFO: BgrToYuv420pAutoTest is started :
+[8347648] INFO: Test Simd::Base::BgrToYuv420p & SimdBgrToYuv420p [1920, 1080].
+difference = 2.403833
+difference = 0.601723
+[8347648] INFO: Test Simd::Base::BgrToYuv420p & SimdBgrToYuv420p [1938, 1062].
+difference = 2.376678
+difference = 0.606152
+[8347648] INFO: Test Simd::Base::BgrToYuv420p & SimdBgrToYuv420p [1902, 1098].
+difference = 2.415744
+difference = 0.607311
+[8347648] INFO: Test Simd::Msa::BgrToYuv420p & SimdBgrToYuv420p [1920, 1080].
+difference = 0.594889
+difference = 0.601760
+[8347648] INFO: Test Simd::Msa::BgrToYuv420p & SimdBgrToYuv420p [1938, 1062].
+difference = 0.593112
+difference = 0.608739
+[8347648] INFO: Test Simd::Msa::BgrToYuv420p & SimdBgrToYuv420p [1902, 1098].
+difference = 0.610593
+difference = 0.608383
+[8347648] INFO: BgrToYuv420pAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+-----------------------------------------------------
+Function     |     Simd     Base      Msa |    B/M |
+-----------------------------------------------------
+Common       |  601.742 2403.833  594.889 |   4.04 |
+-----------------------------------------------------
+BgrToYuv420p |  601.742 2403.833  594.889 |   4.04 |
+-----------------------------------------------------
+
+[8347648] INFO: BgrToYuv422pAutoTest is started :
+[8347648] INFO: Test Simd::Base::BgrToYuv422p & SimdBgrToYuv422p [1920, 1080].
+difference = 2.813218
+difference = 0.745743
+[8347648] INFO: Test Simd::Base::BgrToYuv422p & SimdBgrToYuv422p [1938, 1071].
+difference = 2.821400
+difference = 0.746920
+[8347648] INFO: Test Simd::Base::BgrToYuv422p & SimdBgrToYuv422p [1902, 1089].
+difference = 2.815708
+difference = 0.746524
+[8347648] INFO: Test Simd::Msa::BgrToYuv422p & SimdBgrToYuv422p [1920, 1080].
+difference = 0.740948
+difference = 0.740304
+[8347648] INFO: Test Simd::Msa::BgrToYuv422p & SimdBgrToYuv422p [1938, 1071].
+difference = 0.748752
+difference = 0.747898
+[8347648] INFO: Test Simd::Msa::BgrToYuv422p & SimdBgrToYuv422p [1902, 1089].
+difference = 0.749068
+difference = 0.745730
+[8347648] INFO: BgrToYuv422pAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+-----------------------------------------------------
+Function     |     Simd     Base      Msa |    B/M |
+-----------------------------------------------------
+Common       |  743.024 2813.218  740.948 |   3.80 |
+-----------------------------------------------------
+BgrToYuv422p |  743.024 2813.218  740.948 |   3.80 |
+-----------------------------------------------------
+
+[8347648] INFO: BgrToYuv444pAutoTest is started :
+[8347648] INFO: Test Simd::Base::BgrToYuv444p & SimdBgrToYuv444p [1920, 1080].
+difference = 3.085668
+difference = 1.112249
+[8347648] INFO: Test Simd::Base::BgrToYuv444p & SimdBgrToYuv444p [1929, 1071].
+difference = 3.075143
+difference = 1.113223
+[8347648] INFO: Test Simd::Base::BgrToYuv444p & SimdBgrToYuv444p [1911, 1089].
+difference = 3.096068
+difference = 1.120618
+[8347648] INFO: Test Simd::Msa::BgrToYuv444p & SimdBgrToYuv444p [1920, 1080].
+difference = 1.114069
+difference = 1.115379
+[8347648] INFO: Test Simd::Msa::BgrToYuv444p & SimdBgrToYuv444p [1929, 1071].
+difference = 1.110963
+difference = 1.112121
+[8347648] INFO: Test Simd::Msa::BgrToYuv444p & SimdBgrToYuv444p [1911, 1089].
+difference = 1.117282
+difference = 1.115219
+[8347648] INFO: BgrToYuv444pAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+-----------------------------------------------------
+Function     |     Simd     Base      Msa |    B/M |
+-----------------------------------------------------
+Common       | 1113.814 3085.668 1114.069 |   2.77 |
+-----------------------------------------------------
+BgrToYuv444p | 1113.814 3085.668 1114.069 |   2.77 |
+-----------------------------------------------------
+
+[8347648] INFO: BinarizationAutoTest is started :
+[8347648] INFO: Test Simd::Base::Binarization(==) & SimdBinarization(==) [1920, 1080].
+difference = 0.438346
+difference = 0.161603
+[8347648] INFO: Test Simd::Base::Binarization(==) & SimdBinarization(==) [1929, 1071].
+difference = 0.432668
+difference = 0.162208
+[8347648] INFO: Test Simd::Base::Binarization(==) & SimdBinarization(==) [1911, 1089].
+difference = 0.441014
+difference = 0.160771
+[8347648] INFO: Test Simd::Base::Binarization(!=) & SimdBinarization(!=) [1920, 1080].
+difference = 0.434106
+difference = 0.159919
+[8347648] INFO: Test Simd::Base::Binarization(!=) & SimdBinarization(!=) [1929, 1071].
+difference = 0.436213
+difference = 0.161837
+[8347648] INFO: Test Simd::Base::Binarization(!=) & SimdBinarization(!=) [1911, 1089].
+difference = 0.436599
+difference = 0.160635
+[8347648] INFO: Test Simd::Base::Binarization(> ) & SimdBinarization(> ) [1920, 1080].
+difference = 0.491148
+difference = 0.162355
+[8347648] INFO: Test Simd::Base::Binarization(> ) & SimdBinarization(> ) [1929, 1071].
+difference = 0.491307
+difference = 0.159008
+[8347648] INFO: Test Simd::Base::Binarization(> ) & SimdBinarization(> ) [1911, 1089].
+difference = 0.494210
+difference = 0.163273
+[8347648] INFO: Test Simd::Base::Binarization(>=) & SimdBinarization(>=) [1920, 1080].
+difference = 0.490479
+difference = 0.159768
+[8347648] INFO: Test Simd::Base::Binarization(>=) & SimdBinarization(>=) [1929, 1071].
+difference = 0.490191
+difference = 0.161296
+[8347648] INFO: Test Simd::Base::Binarization(>=) & SimdBinarization(>=) [1911, 1089].
+difference = 0.492800
+difference = 0.160169
+[8347648] INFO: Test Simd::Base::Binarization(< ) & SimdBinarization(< ) [1920, 1080].
+difference = 0.491520
+difference = 0.163292
+[8347648] INFO: Test Simd::Base::Binarization(< ) & SimdBinarization(< ) [1929, 1071].
+difference = 0.488485
+difference = 0.159234
+[8347648] INFO: Test Simd::Base::Binarization(< ) & SimdBinarization(< ) [1911, 1089].
+difference = 0.492779
+difference = 0.162699
+[8347648] INFO: Test Simd::Base::Binarization(<=) & SimdBinarization(<=) [1920, 1080].
+difference = 0.494636
+difference = 0.159259
+[8347648] INFO: Test Simd::Base::Binarization(<=) & SimdBinarization(<=) [1929, 1071].
+difference = 0.490227
+difference = 0.161730
+[8347648] INFO: Test Simd::Base::Binarization(<=) & SimdBinarization(<=) [1911, 1089].
+difference = 0.491991
+difference = 0.160310
+[8347648] INFO: Test Simd::Msa::Binarization(==) & SimdBinarization(==) [1920, 1080].
+difference = 0.158905
+difference = 0.162446
+[8347648] INFO: Test Simd::Msa::Binarization(==) & SimdBinarization(==) [1929, 1071].
+difference = 0.162292
+difference = 0.159643
+[8347648] INFO: Test Simd::Msa::Binarization(==) & SimdBinarization(==) [1911, 1089].
+difference = 0.159432
+difference = 0.163554
+[8347648] INFO: Test Simd::Msa::Binarization(!=) & SimdBinarization(!=) [1920, 1080].
+difference = 0.162166
+difference = 0.161839
+[8347648] INFO: Test Simd::Msa::Binarization(!=) & SimdBinarization(!=) [1929, 1071].
+difference = 0.157697
+difference = 0.157712
+[8347648] INFO: Test Simd::Msa::Binarization(!=) & SimdBinarization(!=) [1911, 1089].
+difference = 0.159252
+difference = 0.159500
+[8347648] INFO: Test Simd::Msa::Binarization(> ) & SimdBinarization(> ) [1920, 1080].
+difference = 0.158583
+difference = 0.163732
+[8347648] INFO: Test Simd::Msa::Binarization(> ) & SimdBinarization(> ) [1929, 1071].
+difference = 0.161253
+difference = 0.159292
+[8347648] INFO: Test Simd::Msa::Binarization(> ) & SimdBinarization(> ) [1911, 1089].
+difference = 0.159824
+difference = 0.163084
+[8347648] INFO: Test Simd::Msa::Binarization(>=) & SimdBinarization(>=) [1920, 1080].
+difference = 0.161960
+difference = 0.160118
+[8347648] INFO: Test Simd::Msa::Binarization(>=) & SimdBinarization(>=) [1929, 1071].
+difference = 0.160470
+difference = 0.159924
+[8347648] INFO: Test Simd::Msa::Binarization(>=) & SimdBinarization(>=) [1911, 1089].
+difference = 0.159310
+difference = 0.159623
+[8347648] INFO: Test Simd::Msa::Binarization(< ) & SimdBinarization(< ) [1920, 1080].
+difference = 0.157519
+difference = 0.161611
+[8347648] INFO: Test Simd::Msa::Binarization(< ) & SimdBinarization(< ) [1929, 1071].
+difference = 0.161054
+difference = 0.159773
+[8347648] INFO: Test Simd::Msa::Binarization(< ) & SimdBinarization(< ) [1911, 1089].
+difference = 0.159848
+difference = 0.163096
+[8347648] INFO: Test Simd::Msa::Binarization(<=) & SimdBinarization(<=) [1920, 1080].
+difference = 0.158999
+difference = 0.160100
+[8347648] INFO: Test Simd::Msa::Binarization(<=) & SimdBinarization(<=) [1929, 1071].
+difference = 0.158751
+difference = 0.159590
+[8347648] INFO: Test Simd::Msa::Binarization(<=) & SimdBinarization(<=) [1911, 1089].
+difference = 0.160478
+difference = 0.160046
+[8347648] INFO: BinarizationAutoTest is finished successfully.
+
+[8347648] INFO: AveragingBinarizationAutoTest is started :
+[8347648] INFO: Test Simd::Base::AveragingBinarization(==) & SimdAveragingBinarization(==) [1920, 1080].
+difference = 1.853004
+difference = 1.857283
+[8347648] INFO: Test Simd::Base::AveragingBinarization(==) & SimdAveragingBinarization(==) [1929, 1071].
+difference = 1.842397
+difference = 1.847827
+[8347648] INFO: Test Simd::Base::AveragingBinarization(==) & SimdAveragingBinarization(==) [1911, 1089].
+difference = 1.856642
+difference = 1.854112
+[8347648] INFO: Test Simd::Base::AveragingBinarization(!=) & SimdAveragingBinarization(!=) [1920, 1080].
+difference = 1.854853
+difference = 1.851249
+[8347648] INFO: Test Simd::Base::AveragingBinarization(!=) & SimdAveragingBinarization(!=) [1929, 1071].
+difference = 1.848139
+difference = 1.844588
+[8347648] INFO: Test Simd::Base::AveragingBinarization(!=) & SimdAveragingBinarization(!=) [1911, 1089].
+difference = 1.857273
+difference = 1.855428
+[8347648] INFO: Test Simd::Base::AveragingBinarization(> ) & SimdAveragingBinarization(> ) [1920, 1080].
+difference = 1.949324
+difference = 1.950917
+[8347648] INFO: Test Simd::Base::AveragingBinarization(> ) & SimdAveragingBinarization(> ) [1929, 1071].
+difference = 1.942758
+difference = 1.947121
+[8347648] INFO: Test Simd::Base::AveragingBinarization(> ) & SimdAveragingBinarization(> ) [1911, 1089].
+difference = 1.956222
+difference = 1.955450
+[8347648] INFO: Test Simd::Base::AveragingBinarization(>=) & SimdAveragingBinarization(>=) [1920, 1080].
+difference = 1.949756
+difference = 1.946148
+[8347648] INFO: Test Simd::Base::AveragingBinarization(>=) & SimdAveragingBinarization(>=) [1929, 1071].
+difference = 1.943230
+difference = 1.938534
+[8347648] INFO: Test Simd::Base::AveragingBinarization(>=) & SimdAveragingBinarization(>=) [1911, 1089].
+difference = 1.953402
+difference = 1.956572
+[8347648] INFO: Test Simd::Base::AveragingBinarization(< ) & SimdAveragingBinarization(< ) [1920, 1080].
+difference = 1.946763
+difference = 1.949352
+[8347648] INFO: Test Simd::Base::AveragingBinarization(< ) & SimdAveragingBinarization(< ) [1929, 1071].
+difference = 1.941233
+difference = 1.940515
+[8347648] INFO: Test Simd::Base::AveragingBinarization(< ) & SimdAveragingBinarization(< ) [1911, 1089].
+difference = 1.954497
+difference = 1.953851
+[8347648] INFO: Test Simd::Base::AveragingBinarization(<=) & SimdAveragingBinarization(<=) [1920, 1080].
+difference = 1.950806
+difference = 1.947739
+[8347648] INFO: Test Simd::Base::AveragingBinarization(<=) & SimdAveragingBinarization(<=) [1929, 1071].
+difference = 1.941355
+difference = 1.943436
+[8347648] INFO: Test Simd::Base::AveragingBinarization(<=) & SimdAveragingBinarization(<=) [1911, 1089].
+difference = 1.952073
+difference = 1.957547
+[8347648] INFO: AveragingBinarizationAutoTest is finished successfully.
+
+[8347648] INFO: ALL TESTS ARE FINISHED SUCCESSFULLY!
+
+[8347648] INFO:
+
+Performance report:
+
+------------------------------------------------------------------
+Function                  |     Simd     Base      Msa |    B/M |
+------------------------------------------------------------------
+Common                    |  556.064  951.819  553.251 |   1.72 |
+------------------------------------------------------------------
+AveragingBinarization(!=) | 1851.249 1854.853          |        |
+AveragingBinarization(< ) | 1949.352 1946.763          |        |
+AveragingBinarization(<=) | 1947.739 1950.806          |        |
+AveragingBinarization(==) | 1857.283 1853.004          |        |
+AveragingBinarization(> ) | 1950.917 1949.324          |        |
+AveragingBinarization(>=) | 1946.148 1949.756          |        |
+Binarization(!=)          |  160.879  434.106  162.166 |   2.68 |
+Binarization(< )          |  162.451  491.520  157.519 |   3.12 |
+Binarization(<=)          |  159.679  494.636  158.999 |   3.11 |
+Binarization(==)          |  162.024  438.346  158.905 |   2.76 |
+Binarization(> )          |  163.044  491.148  158.583 |   3.10 |
+Binarization(>=)          |  159.943  490.479  161.960 |   3.03 |
+------------------------------------------------------------------
